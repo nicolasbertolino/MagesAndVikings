@@ -53,9 +53,6 @@ Follow these steps:
    - In Steam, right-click on *Skyrim SE* and select **Properties**.
    - Under **General**, set the **Language** to *English*.
 
-> [!Caution]
-> After installation, never verify your game files through Steam. This will overwrite critical files and break the modlist.
-
 ---
 
 ### Installation
