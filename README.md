@@ -32,7 +32,7 @@ To fully enjoy this experience, the following hardware is recommended:
 - **CPU**: A modern, high-performance processor
 
 >[!TIP]
-> We also recommend using [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/), which employs machine learning to upscale and enhance frame generation, offering a smoother experience.
+>We also recommend using [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/), which employs machine learning for scaling and frame generation, offering a smoother experience.
 
 
 ## Installation
