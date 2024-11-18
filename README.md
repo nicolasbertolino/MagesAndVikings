@@ -16,7 +16,7 @@ Mages & Vikings is a Skyrim modlist featuring over 2500 mods enhancing and moder
 ## Requirements
 ### Version
 Mages & Vikings requires the Skyrim Anniversary Edition with all Creations from the Creation Club.
->[!INFO]
+>[!IMPORTANT]
 >The list runs on the 1.5.97 version of the game but uses the _Best of both world_ patcher to make use of the Creation Club from the 1.6.1170 version.
 
 - Skyrim AE + CC
