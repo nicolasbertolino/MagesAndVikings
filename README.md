@@ -1,11 +1,11 @@
 ![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/banner.jpg)
 
 <p align="center">
-  [ Nexus Page |
-  [Load Order Library](https://loadorderlibrary.com/lists/mages-vikings) |
-  [Join at Discord](https://discord.gg/Newa3dj5pZ) |
-  Watch on Twitch |
-  Support on Ko-fi ]
+  [ <a href="">Nexus Page</a> |
+  <a href="https://loadorderlibrary.com/lists/mages-vikings">Load Order Library</a> |
+  <a href="https://discord.gg/Newa3dj5pZ">Join at Discord</a> |
+  <a href="">Watch on Twitch</a> |
+  <a href="">Support on Ko-fi</a> ]
 </p>
 
 
