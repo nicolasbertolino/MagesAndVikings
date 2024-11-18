@@ -8,19 +8,31 @@
   <a href="">Support on Ko-fi</a> ]
 </p>
 
-# Mages & Vikings
-Mages & Vikings is a Skyrim modlist featuring over 2500 mods enhancing and modernizing every aspect of the game, from user interface and audio, to graphics and gameplay. You can find the complete list of mods used at [loadorderlibrary.com](https://loadorderlibrary.com/lists/mages-vikings).
 
-[Join the Discord](https://discord.gg/Newa3dj5pZ) for support, news and sharing content with others.
+# Mages & Vikings
+**Mages & Vikings** is a comprehensive Skyrim modlist designed to breathe new life into the game. Featuring **over 2,500 carefully curated mods**, this list enhances and modernizes every aspect of Skyrim—from the user interface and audio to graphics and gameplay mechanics. 
+
+For a complete breakdown of the mods included, visit the [Load Order Library](https://loadorderlibrary.com/lists/mages-vikings).
+
+Join our [Discord Community](https://discord.gg/Newa3dj5pZ) to connect with other players, get support, and share your adventures.
+
+---
 
 ## Requirements
-### Version
-Mages & Vikings requires the Skyrim Anniversary Edition with all Creations from the Creation Club.
->[!IMPORTANT]
->The list runs on the 1.5.97 version of the game but uses the _Best of both world_ patcher to make use of the Creation Club from the 1.6.1170 version.
 
-- Skyrim AE + CC
-- Minimum Config (Lossless Scaling)
+### Game Version
+**Mages & Vikings** requires the **Skyrim Anniversary Edition** with all Creation Club content. The modlist is built for the **1.5.97 version** of the game, utilizing the _Best of Both Worlds_ patcher to integrate the additional content from version **1.6.1170**.
+
+### System Requirements
+This modlist is optimized for performance without sacrificing visual quality. While most textures are 2K (and 1K where appropriate), **Mages & Vikings** prioritizes stunning visuals with dense forests, realistic grass, and full ENB effects. 
+
+To fully enjoy this experience, the following hardware is recommended:
+- **GPU**: RTX 4070 or higher
+- **RAM**: 32GB
+- **CPU**: A modern, high-performance processor
+
+We also recommend using [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/), which employs machine learning to upscale and enhance frame generation, offering a smoother experience.
+
 
 ## Installation
 
