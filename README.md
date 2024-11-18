@@ -84,10 +84,6 @@ Follow these steps:
 To optimize performance, use the [Set CPU Affinity](https://www.nexusmods.com/skyrimspecialedition/mods/94636) mod:
 1. In Mod Organizer 2, click the **Tools** menu in the upper bar.
 2. Select **Set CPU Affinity** and press **OK**.
-<Details>
-<summary>See screenshot</summary>
-![CPU Affinity Setup Screenshot](https://github.com/user-attachments/assets/b4e0d8bf-1929-4f9f-be21-b4f99ce9c2ab)
-</Details>
 
 #### Customize Your Experience
 At the bottom of the load order, you'll find a colored separator labeled `[Select Options] Customize your experience`. Here, you can select options to tailor your gameplay:
