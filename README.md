@@ -1,4 +1,4 @@
-# Mages-Vikings
+[# Mages-Vikings](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/banner.jpg)
 
 ## Requirements
 - Skyrim AE + CC
