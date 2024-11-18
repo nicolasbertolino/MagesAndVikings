@@ -38,21 +38,64 @@ To fully enjoy this experience, the following hardware is recommended:
 ## Installation
 
 ### Pre-installation
-- Make sure you run an up to date version of Windows, this includes Installing Microsoft Visual C++ and .NET
-Install Visual C++ x64.
-Install .NET Runtime 8.X.X Desktop x64.
-Install .NET 6.0 Runtime Desktop x64.
-- Change Skyrim so it does not automatically update.
-- Change the Game Language
+Before starting, ensure the following:
+- You are running an **up-to-date version of Windows**.
+- You own a **legal, non-pirated version** of the game updated to **1.6.1170** (the latest version).
 
-### Wabbajack installation
-- Install Wabbajack
-- Can also refer to https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html
-- Install Mages & Vikings
-- Problems with installation
+Follow these steps:
+1. **Disable Automatic Updates for Skyrim:**
+   - In Steam, right-click on *Skyrim SE*, select **Properties**, navigate to **Updates**, and set it to *Only update this game when I launch it*.
+2. **Run Skyrim Once:**
+   - Launch the game to allow it to perform its initial graphics check. The settings will be replaced during installation, so there's no need to configure them now.
+3. **Download Add-ons:**
+   - Start the game, reach the main menu, and allow it to download the Creation Club content included with the Anniversary Edition.
+4. **Set the Game Language to English:**
+   - In Steam, right-click on *Skyrim SE* and select **Properties**.
+   - Under **General**, set the **Language** to *English*.
+
+> [!Caution]
+> After installation, never verify your game files through Steam. This will overwrite critical files and break the modlist.
+
+---
+
+### Installation
+
+1. **Install Wabbajack:**
+   - Download and install [Wabbajack](https://www.wabbajack.org/).
+
+2. **Download the Mages & Vikings Wabbajack File:**
+   - Obtain the `Mages & Vikings.wabbajack` file from the Nexus Page.
+
+3. **Follow the Wabbajack Installation Procedure:**
+   - Refer to the section [_The Core Procedure for Using a Downloaded .wabbajack File_](https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html) in the [Wabbajack Documentation](https://wiki.wabbajack.org/).
+
+---
 
 ### Post-installation
-- File hash plugin
-- Set up CPU Affinity
-- Make sure to select options based on your preferences for m&k/pad and utility management wheeler/spell hotbar
-- (potentially? set installation Path for tools)
+
+#### Launch Mod Organizer 2
+1. Navigate to the installation location you selected earlier and launch `ModOrganizer.exe`.
+2. On first launch, you may be prompted to **increase your pagefile size**. This is a requirement from the [PageFile Manager](https://www.nexusmods.com/skyrimspecialedition/mods/128254) mod, which ensures smooth gameplay by expanding virtual memory.
+   - Click **Yes** to confirm and restart your PC to apply changes.
+
+   > If no prompt appears, you can proceed to the next step.
+
+#### Set Up CPU Affinity
+To optimize performance, use the [Set CPU Affinity](https://www.nexusmods.com/skyrimspecialedition/mods/94636) mod:
+1. In Mod Organizer 2, click the **Tools** menu in the upper bar.
+2. Select **Set CPU Affinity** and press **OK**.
+<Details>
+<summary>See screenshot</summary>
+![CPU Affinity Setup Screenshot](https://github.com/user-attachments/assets/b4e0d8bf-1929-4f9f-be21-b4f99ce9c2ab)
+</Details>
+
+#### Customize Your Experience
+At the bottom of the load order, you'll find a colored separator labeled `[Select Options] Customize your experience`. Here, you can select options to tailor your gameplay:
+- Choose between **Mouse & Keyboard** or **Controller** setups.
+- Enable the [Wheeler Management System](https://www.nexusmods.com/skyrimspecialedition/mods/97345) or use [Spell Hotbar](https://www.nexusmods.com/skyrimspecialedition/mods/110763).
+
+---
+
+### You're Ready!
+Click the **Run** button in the top-right corner of Mod Organizer 2 to launch Skyrim and begin your adventure with **Mages & Vikings**!
+
