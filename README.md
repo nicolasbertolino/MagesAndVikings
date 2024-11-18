@@ -1,9 +1,10 @@
 ![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/banner.jpg)
 
 <p align="center">
-  [ <a href="">Nexus page</a> |
+  [ <a href="">Nexus Page</a> |
   <a href="https://loadorderlibrary.com/lists/mages-vikings">Load Order</a> |
   <a href="https://discord.gg/Newa3dj5pZ">Discord</a> |
+  <a href="">Twitch</a> |
   <a href="">Ko-fi</a> ]
 </p>
 
