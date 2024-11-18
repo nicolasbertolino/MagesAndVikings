@@ -78,7 +78,7 @@ Follow these steps:
    > If no prompt appears, you can proceed to the next step.
 
 #### Set Up CPU Affinity
-To optimize performance, use the [Set CPU Affinity](https://www.nexusmods.com/skyrimspecialedition/mods/94636) mod:
+To optimize performance, use the [Set CPU Affinity](https://www.nexusmods.com/skyrimspecialedition/mods/94636) tool:
 1. In Mod Organizer 2, click the **Tools** menu in the upper bar.
 2. Select **Set CPU Affinity** and press **OK**.
 
