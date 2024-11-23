@@ -40,19 +40,18 @@ To fully enjoy this experience, the following hardware is recommended:
 
 ### Pre-installation
 Before starting, ensure the following:
-- You are running an **up-to-date version of Windows**.
+- You are running an **up-to-date version of Windows**. This includes downloading and installing [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe), [.NET Runtime 8.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer).
 - You own a **legal, non-pirated version** of the game updated to **1.6.1170** (the latest version).
 
 Follow these steps:
 1. **Disable Automatic Updates for Skyrim:**
    - In Steam, right-click on *Skyrim SE*, select **Properties**, navigate to **Updates**, and set it to *Only update this game when I launch it*.
-2. **Run Skyrim Once:**
+2. **Set the Game Language to English:**
+   - In Steam, right-click on *Skyrim SE*, select **Properties**. Under **General**, set the **Language** to *English*.
+3. **Run Skyrim Once:**
    - Launch the game to allow it to perform its initial graphics check. The settings will be replaced during installation, so there's no need to configure them now.
-3. **Download Add-ons:**
+4. **Download Add-ons:**
    - Start the game, reach the main menu, and allow it to download the Creation Club content included with the Anniversary Edition.
-4. **Set the Game Language to English:**
-   - In Steam, right-click on *Skyrim SE* and select **Properties**.
-   - Under **General**, set the **Language** to *English*.
 
 ---
 
