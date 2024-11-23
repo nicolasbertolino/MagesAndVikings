@@ -40,7 +40,7 @@ To fully enjoy this experience, the following hardware is recommended:
 
 ### Pre-installation
 Before starting, ensure the following:
-- You are running an **up-to-date version of Windows**. This includes downloading and installing [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe), [.NET Runtime 8.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer).
+- You are running an **up-to-date version of Windows**. This includes downloading and installing [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe), [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer) and [.NET Runtime 8.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
 - You own a **legal, non-pirated version** of the game updated to **1.6.1170** (the latest version).
 
 Follow these steps:
