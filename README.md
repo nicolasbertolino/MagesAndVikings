@@ -64,7 +64,7 @@ Follow these steps:
    - Obtain the `Mages & Vikings.wabbajack` file from the Nexus Page.
 
 3. **Follow the Wabbajack Installation Procedure:**
-   - Refer to the section [_The Core Procedure for Using a Downloaded .wabbajack File_](https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html) in the [Wabbajack Documentation](https://wiki.wabbajack.org/).
+   - Refer to the section [_The Core Procedure for Using a Downloaded .wabbajack File_](https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html) in the Wabbajack Documentation.
 
 ---
 
