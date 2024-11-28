@@ -33,7 +33,7 @@ To fully enjoy this experience, the following hardware is recommended:
 - **CPU**: A modern, high-performance processor
 
 >[!TIP]
->Another recommendation is to use [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/), which employs machine learning for scaling and frame generation, offering a smoother experience.
+>Also recommended is [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/), which employs machine learning for scaling and frame generation, offering a smoother experience.
 
 
 ## Installation
@@ -65,6 +65,21 @@ Follow these steps:
 
 3. **Follow the Wabbajack Installation Procedure:**
    - Refer to the section [_The Core Procedure for Using a Downloaded .wabbajack File_](https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html) in the Wabbajack Documentation.
+
+### If Installation Fails  
+
+If your installation fails, follow these steps:  
+
+1. **Double-check Requirements**  
+   - Ensure you’ve met all the listed requirements and completed the pre-installation process correctly.  
+
+2. **Address Missing Manual Downloads**  
+   - A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically.  
+     - You can run Wabbajack again to retry the download.  
+     - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.  
+
+3. **Seek Help for Other Issues**  
+   - For other problems, refer to the official [Wabbajack Discord](https://discord.gg/wabbajack) for guidance and troubleshooting.
 
 ---
 
