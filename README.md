@@ -66,6 +66,8 @@ Follow these steps:
 3. **Follow the Wabbajack Installation Procedure:**
    - Refer to the section [_The Core Procedure for Using a Downloaded .wabbajack File_](https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html) in the Wabbajack Documentation.
 
+---
+
 ### If Installation Fails  
 
 If your installation fails, follow these steps:  
