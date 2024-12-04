@@ -15,7 +15,7 @@
 
 For a complete breakdown of the mods included, visit the [Load Order Library](https://loadorderlibrary.com/lists/mages-vikings).
 
-Join our [Discord Community](https://discord.gg/Newa3dj5pZ) to connect with other players, get support, and share your adventures.
+Join the [Discord Community](https://discord.gg/Newa3dj5pZ) to connect with other players, get support, and share your adventures.
 
 ---
 
