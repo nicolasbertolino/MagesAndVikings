@@ -102,7 +102,7 @@ To optimize performance, use the [Set CPU Affinity](https://www.nexusmods.com/sk
 #### Customize Your Experience
 At the bottom of the load order, you'll find a colored separator labeled `[Select Options] Customize your experience`. Here, you can select options to tailor your gameplay:
 - Choose between **Mouse & Keyboard** or **Controller** setups.
-- Enable the [Wheeler Management System](https://www.nexusmods.com/skyrimspecialedition/mods/97345).
+- Choose to enable the [Wheeler Management System](https://www.nexusmods.com/skyrimspecialedition/mods/97345).
 
 ---
 
