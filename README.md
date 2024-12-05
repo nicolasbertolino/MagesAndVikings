@@ -76,13 +76,15 @@ If your installation fails, follow these steps:
    - Ensure you’ve met all the listed requirements and completed the pre-installation process correctly.  
 
 2. **Address Missing Manual Downloads**  
-   - A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically.  
+   - A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically.
      - You can run Wabbajack again to retry the download.  
      - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.
-  Files that tend to fail to download are:
-  - [High Poly Head v1.4 (SE).zip](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/edit)
-  - [Kome.Inventory.Tweaks.KIT.zip](https://github.com/Komegaki/Komegaki-Inventory-Tweaks/releases/download/V2_1.081_Beta/Kome.Inventory.Tweaks.KIT.zip)
-  - [Fuse00's Armors](https://www.patreon.com/collection/129990?view=expanded) and [Fuse00's Hairstyles](https://www.patreon.com/collection/209996?view=expanded).
+
+      Files outside of the Nexus that tend to fail to download are:
+        - [High Poly Head v1.4 (SE).zip](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/edit)
+        - [Kome.Inventory.Tweaks.KIT.zip](https://github.com/Komegaki/Komegaki-Inventory-Tweaks/releases/download/V2_1.081_Beta/Kome.Inventory.Tweaks.KIT.zip)
+        - [Fuse00's Armors](https://www.patreon.com/collection/129990?view=expanded) and [Fuse00's Hairstyles](https://www.patreon.com/collection/209996?view=expanded).
+        - [enbseries_skyrimse_v0503.zip](http://enbdev.com/download_mod_tesskyrimse.html)
 
 3. **Seek Help for Other Issues**  
    - For other problems, refer to the official [Wabbajack Discord](https://discord.gg/wabbajack) for guidance and troubleshooting.
