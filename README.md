@@ -48,7 +48,7 @@ Before starting, ensure the following:
     - [.NET Runtime 8.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 >[!WARNING]
->If you already have Visual C++ installed, please make sure you install it again and use the `Repair` option to get the latest version of the redistributables. **Do NOT skip this step or MO2 and the game may fail to launch.**
+>If you already have Visual C++ installed, ensure you run the installer again and select the `Repair` option to update to the latest redistributables. **Do NOT skip this step, or Mod Organizer 2 and the game may fail to launch.**
 
 - You own a **legal, non-pirated version** of the game updated to **1.6.1170** (the latest version).  
 
