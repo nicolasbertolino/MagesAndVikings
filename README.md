@@ -76,18 +76,30 @@ If your installation fails, follow these steps:
    - Ensure you’ve met all the listed requirements and completed the pre-installation process correctly.  
 
 2. **Address Missing Manual Downloads**  
-   - A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically.
+   - A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically.  
      - You can run Wabbajack again to retry the download.  
-     - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.
+     - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.  
 
-      Files outside of the Nexus that tend to fail to download are:
-        - [High Poly Head v1.4 (SE).zip](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/edit)
-        - [Kome.Inventory.Tweaks.KIT.zip](https://github.com/Komegaki/Komegaki-Inventory-Tweaks/releases/download/V2_1.081_Beta/Kome.Inventory.Tweaks.KIT.zip)
-        - [Fuse00's Armors](https://www.patreon.com/collection/129990?view=expanded) and [Fuse00's Hairstyles](https://www.patreon.com/collection/209996?view=expanded).
-        - [enbseries_skyrimse_v0503.zip](http://enbdev.com/download_mod_tesskyrimse.html)
+      Files outside of Nexus that tend to fail to download include:  
+      - [High Poly Head v1.4 (SE).zip](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/edit)  
+      - [Kome.Inventory.Tweaks.KIT.zip](https://github.com/Komegaki/Komegaki-Inventory-Tweaks/releases/download/V2_1.081_Beta/Kome.Inventory.Tweaks.KIT.zip)  
+      - [Fuse00's Armors](https://www.patreon.com/collection/129990?view=expanded) and [Fuse00's Hairstyles](https://www.patreon.com/collection/209996?view=expanded)  
+      - [enbseries_skyrimse_v0503.zip](http://enbdev.com/download_mod_tesskyrimse.html)  
 
-3. **Seek Help for Other Issues**  
-   - For other problems, refer to the official [Wabbajack Discord](https://discord.gg/wabbajack) for guidance and troubleshooting.
+3. **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
+   If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
+   1. Press the **Windows Key**.  
+   2. Type "Windows Defender" in the search bar and select **Windows Security**.  
+   3. Click on **Virus & threat protection** in the left pane.  
+   4. Select **Manage settings** under "Virus & threat protection settings".  
+   5. Scroll down to **Exclusions** and click **Add or remove exclusions**.  
+   6. When prompted by Windows, click **Yes** to allow administrator access.  
+   7. Click **Add an exclusion** and choose **Folder**.  
+   8. Navigate to the installation folder for the modlist and click **Select Folder**.  
+   9. Resume the installation.  
+
+4. **Seek Help for Other Issues**  
+   - If none of the above resolves your problem, refer to the official [Wabbajack Discord](https://discord.gg/wabbajack) for guidance and troubleshooting.  
 
 ---
 
