@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/banner.jpg)
 
 <p align="center">
-  [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/29739">Nexus Page</a> |
+  [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/136238">Nexus Page</a> |
   Installation |
   <a href="https://loadorderlibrary.com/lists/mages-vikings">Load Order Library</a> |
   <a href="https://discord.gg/Newa3dj5pZ">Join at Discord</a> |
@@ -70,7 +70,7 @@ Follow these steps:
    - Download and install [Wabbajack](https://www.wabbajack.org/).
 
 2. **Download the Mages & Vikings Wabbajack File:**
-   - Obtain the `Mages & Vikings.wabbajack` file from the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/29739).
+   - Obtain the `Mages & Vikings.wabbajack` file from the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/136238).
 
 3. **Follow the Wabbajack Installation Procedure:**
    - Refer to the section [_The Core Procedure for Using a Downloaded .wabbajack File_](https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html) in the Wabbajack Documentation.
