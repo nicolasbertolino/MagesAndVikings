@@ -90,7 +90,7 @@ If your installation fails, follow these steps:
      - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.  
 
       Files outside of Nexus that tend to fail to download include:  
-      - [High Poly Head v1.4 (SE).zip](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/edit)
+      - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/edit)
       - [Fuse00's Armors](https://www.patreon.com/collection/129990?view=expanded) and [Fuse00's Hairstyles](https://www.patreon.com/collection/209996?view=expanded)
 
 3. **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
