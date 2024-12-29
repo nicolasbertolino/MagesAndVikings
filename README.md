@@ -92,7 +92,7 @@ If your installation fails, follow these steps:
       Files that tend to fail to download include:  
       - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/edit)
       - [Fuse00's Armors](https://www.patreon.com/collection/129990?view=expanded) and [Fuse00's Hairstyles](https://www.patreon.com/collection/209996?view=expanded)
-      - [Bethini Pie](https://www.nexusmods.com/site/mods/631)
+      - [Bethini Pie](https://www.nexusmods.com/site/mods/631?tab=files&file_id=3097)
 
 3. **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
    If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
