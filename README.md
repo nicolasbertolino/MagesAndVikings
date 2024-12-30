@@ -91,7 +91,7 @@ If your installation fails, follow these steps:
 
       Files that tend to fail to download include:  
       - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/edit)
-      - [Fuse00's Armors](https://www.patreon.com/collection/129990?view=expanded) and [Fuse00's Hairstyles](https://www.patreon.com/collection/209996?view=expanded)
+      - [Fuse00's Armors](https://www.patreon.com/collection/129990?view=expanded)
       - [Bethini Pie](https://www.nexusmods.com/site/mods/631?tab=files&file_id=3097)
 
 3. **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
