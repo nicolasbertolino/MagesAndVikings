@@ -1,0 +1,36 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Mages & Vikings",
+    "description": "Some may call this junk. Me, I call this Mages & Vikings.",
+    "author": "SEE YOU L'HATER",
+    "maintainers": [
+      "github/nicolasbertolino"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      ""
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/20241112143653_1.jpg",
+      "readme": "https://github.com/nicolasbertolino/Mages-Vikings/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Mages%20&%20Vikings.wabbajack_8b39da7f-1a27-4690-9bd8-149a8a697e5d",
+      "machineURL": "machineURL",
+      "discordURL": ""
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 2600,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "1.0"
+  }
+]
