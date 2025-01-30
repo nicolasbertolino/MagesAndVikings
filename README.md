@@ -11,7 +11,7 @@
 
 
 # Mages & Vikings
-**Mages & Vikings** is a comprehensive Skyrim modlist designed to breathe new life into the game. Featuring **over 2,600 carefully curated mods**, this list enhances and modernizes every aspect of Skyrim—from the user interface and audio to graphics and gameplay mechanics. 
+**Mages & Vikings** is a comprehensive Skyrim modlist designed to breathe new life into the game. Featuring **thousands of carefully curated mods**, this list enhances and modernizes every aspect of Skyrim—from the user interface and audio to graphics and gameplay mechanics. 
 
 For a complete breakdown of the mods included, visit the [Load Order Library](https://loadorderlibrary.com/lists/mages-vikings).
 
