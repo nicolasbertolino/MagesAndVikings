@@ -92,9 +92,9 @@ If your installation fails, follow these steps:
       Files that tend to fail to download include:  
       - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/edit)
       - [Fuse00's Armors](https://www.patreon.com/collection/129990?view=expanded)
-      - [HDT-SMP Nord Steelheart Armor Patch](https://www.patreon.com/posts/hdt-smp-nord-115758649)
       - [Bethini Pie](https://www.nexusmods.com/site/mods/631?tab=files&file_id=3097)
       - [[Dint999] HairPack02 SSE 1.11](https://drive.google.com/file/d/1YpZYTgllS08MRaqm4AxD7cIfc1wxT24g/view)
+      - [HDT-SMP Nord Steelheart Armor Patch](https://www.patreon.com/posts/hdt-smp-nord-115758649)
 
 3. **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
    If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
