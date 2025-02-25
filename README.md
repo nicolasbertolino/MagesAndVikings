@@ -95,6 +95,7 @@ If your installation fails, follow these steps:
       - [Bethini Pie](https://www.nexusmods.com/site/mods/631?tab=files&file_id=3097)
       - [[Dint999] HairPack02 SSE 1.11](https://drive.google.com/file/d/1YpZYTgllS08MRaqm4AxD7cIfc1wxT24g/view)
       - [HDT-SMP Nord Steelheart Armor Patch](https://www.patreon.com/posts/hdt-smp-nord-115758649)
+      - [Spell Hotbar 2](https://github.com/pWn3d1337/Skyrim_SpellHotbar2/releases/download/0.0.11/Spell.Hotbar.2.-.0.0.11.zip)
 
 3. **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
    If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
