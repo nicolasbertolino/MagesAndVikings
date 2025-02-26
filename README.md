@@ -5,6 +5,7 @@
   Installation |
   <a href="https://loadorderlibrary.com/lists/mages-vikings">Load Order Library</a> |
   <a href="https://discord.gg/Newa3dj5pZ">Join at Discord</a> |
+  <a href="https://www.youtube.com/@SEEYOULHATER">Watch on YouTube</a> |
   <a href="https://www.twitch.tv/seeyoulhater_">Watch on Twitch</a> |
   <a href="https://ko-fi.com/seeyoulhater">Support on Ko-fi</a> ]
 </p>
