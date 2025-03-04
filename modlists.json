@@ -3,14 +3,14 @@
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Mages & Vikings",
     "description": "Some may call this junk. Me, I call this Mages & Vikings.",
-    "author": "SEE YOU L'HATER",
+    "author": SEE YOU L'HATER,
     "maintainers": [
       "github/nicolasbertolino"
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "Modern Combat",
-      "Best Graphics"
+      "High Fantasy",
+      "SFW"
     ],
     "nsfw": false,
     "image_contains_title": false,
@@ -20,7 +20,7 @@
       "image": "https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/banner.jpg",
       "readme": "https://github.com/nicolasbertolino/Mages-Vikings/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Mages%20&%20Vikings.wabbajack_28ba374a-8457-42b8-a646-e9ee14446ece",
-      "machineURL": "Mages and Vikings",
+      "machineURL": "MagesAndVikings",
       "discordURL": "https://discord.gg/Newa3dj5pZ"
     },
     "download_metadata": {
