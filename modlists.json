@@ -17,8 +17,8 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/banner.jpg",
-      "readme": "https://github.com/nicolasbertolino/Mages-Vikings/blob/main/README.md",
+      "image": "https://raw.githubusercontent.com/nicolasbertolino/MagesAndVikings/main/banner.jpg",
+      "readme": "https://github.com/nicolasbertolino/MagesAndVikings/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Mages%20&%20Vikings.wabbajack_28ba374a-8457-42b8-a646-e9ee14446ece",
       "machineURL": "MagesAndVikings",
       "discordURL": "https://discord.gg/Newa3dj5pZ"
