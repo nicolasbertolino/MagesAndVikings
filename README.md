@@ -96,7 +96,6 @@ If your installation fails, follow these steps:
       - [HDT-SMP Nord Steelheart Armor Patch](https://drive.google.com/file/d/17tGAnd24wOxZvyVhx9Znox46PKu-H7xn/view)
       - [HDT-SMP Nord Steelheart Armor Patch for CBBE 3BA](https://drive.google.com/file/d/1ADieQvqDlyL8wi4zq-Su_mV-dSBrLc7Y/view)
       - [HDT-SMP Nord Steelheart Armor Patch for HIMBO](https://drive.google.com/file/d/1JApPcNyapv5onUsOjfnNXAQNQGKARZUX/view)
-      - [Fuse00's Armors](https://www.patreon.com/collection/129990?view=expanded)
       - [_Fuse00_ArmorPhantom (Vanille Male)](https://www.patreon.com/file?h=72580026&m=170011412)
       - [_Fuse00_ArmorPerseus](https://www.patreon.com/file?h=87719149&m=222741574)
       - [_Fuse00_ArmorKitsuneHunter (CBBE)](https://www.patreon.com/file?h=90572432&m=234992512)
