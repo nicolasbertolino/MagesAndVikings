@@ -89,7 +89,7 @@ If your installation fails, follow these steps:
    - A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically.  
      - You can run Wabbajack again to retry the download.  
      - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.
-     - If you are unable to download 'Curios' files, please refer to the [Wabbajack documentation](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html#unable-to-download-curios-files).
+     - If you are unable to download 'Curios' files, refer to the corresponding [Wabbajack documentation](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html#unable-to-download-curios-files).
 
       Files that tend to fail to download include:  
       - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view)
