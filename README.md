@@ -33,6 +33,7 @@ To fully enjoy this experience, the following hardware is recommended:
 - **CPU**: A modern, high-performance processor
 - **500 GB** of disk space
 
+---
 
 ## Installation
 
