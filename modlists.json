@@ -19,7 +19,7 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/nicolasbertolino/MagesAndVikings/main/banner.webp",
       "readme": "https://github.com/nicolasbertolino/MagesAndVikings/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Mages%20&%20Vikings.wabbajack_3eb1db2c-6a63-4f9f-8203-39c49854db64",
+      "download": "https://authored-files.wabbajack.org/Mages%20&%20Vikings.wabbajack_e55e982a-b987-4640-b22c-f47e35d8aa15",
       "machineURL": "MagesAndVikings",
       "discordURL": "https://discord.gg/Newa3dj5pZ"
     },
@@ -33,6 +33,6 @@
       "SizeOfInstalledFiles": 341025096012,
       "TotalSize": 579726067146
     },
-    "version": "1.2"
+    "version": "1.2.1"
   }
 ]
