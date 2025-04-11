@@ -89,7 +89,8 @@ If your installation fails, follow these steps:
      - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.
      - If you are unable to download 'Curios' files, refer to the corresponding [Wabbajack documentation](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html#unable-to-download-curios-files).
 
-      Files that tend to fail to download include:  
+      Files that tend to fail to download include:
+      - [Bethini Pie](https://www.nexusmods.com/site/mods/631?tab=files&file_id=3097)
       - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view)
       - [[Dint999] HairPack02 SSE 1.11](https://drive.google.com/file/d/1YpZYTgllS08MRaqm4AxD7cIfc1wxT24g/view)
       - [HDT-SMP Nord Steelheart Armor Patch](https://drive.google.com/file/d/17tGAnd24wOxZvyVhx9Znox46PKu-H7xn/view)
@@ -118,7 +119,6 @@ If your installation fails, follow these steps:
       - [_Fuse00_ArmorShadow](https://www.patreon.com/file?h=96406751&m=265878755)
       - [_Fuse00_ArmorAkasha (CBBE)](https://www.patreon.com/file?h=122295901&m=422046302)
       - [[TalesOfStar] Air Balloons](https://www.patreon.com/file?h=111649008&m=350723048)
-      - [Bethini Pie](https://www.nexusmods.com/site/mods/631?tab=files&file_id=3097)
 
 3. **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
    If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
