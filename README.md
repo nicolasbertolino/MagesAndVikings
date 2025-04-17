@@ -87,7 +87,7 @@ If your installation fails, follow these steps:
    - A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically.  
      - You can run Wabbajack again to retry the download.  
      - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.
-     - If you are unable to download 'Curios' files, refer to the corresponding [Wabbajack documentation](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html#unable-to-download-curios-files).
+     - If you're experiencing issues downloading the Curios files, please refer to the relevant section in the [Wabbajack Troubleshooting FAQ](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html#unable-to-download-curios-files).
 
       Files that tend to fail to download include:
       - [Bethini Pie](https://www.nexusmods.com/site/mods/631?tab=files&file_id=3097)
@@ -119,6 +119,9 @@ If your installation fails, follow these steps:
       - [_Fuse00_ArmorShadow](https://www.patreon.com/file?h=96406751&m=265878755)
       - [_Fuse00_ArmorAkasha (CBBE)](https://www.patreon.com/file?h=122295901&m=422046302)
       - [[TalesOfStar] Air Balloons](https://www.patreon.com/file?h=111649008&m=350723048)
+
+>[!TIP]
+>If you're having trouble downloading from Google Drive, make sure you're logged into a Google account—some files won't download otherwise.
 
 3. **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
    If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
