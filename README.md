@@ -90,7 +90,7 @@ If your installation fails, follow these steps:
      - If you're experiencing issues downloading the Curios files, please refer to the relevant section in the [Wabbajack Troubleshooting FAQ](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html#unable-to-download-curios-files).
 
       Files that tend to fail to download include:
-      - [Bethini Pie](https://www.nexusmods.com/site/mods/631?tab=files&file_id=3097)
+      - [Bethini Pie](https://www.nexusmods.com/site/mods/631?tab=files&file_id=4954)
       - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view)
       - [[Dint999] HairPack02 SSE 1.11](https://drive.google.com/file/d/1YpZYTgllS08MRaqm4AxD7cIfc1wxT24g/view)
       - [HDT-SMP Nord Steelheart Armor Patch](https://drive.google.com/file/d/17tGAnd24wOxZvyVhx9Znox46PKu-H7xn/view)
