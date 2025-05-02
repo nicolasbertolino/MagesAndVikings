@@ -31,7 +31,10 @@ To fully enjoy this experience, the following hardware is recommended:
 - **GPU**: RTX 4070 or higher
 - **RAM**: 32GB
 - **CPU**: A modern, high-performance processor
-- **550 GB** of disk space
+- **Storage** The required disk space is shown in the Wabbajack UI.
+
+>[!TIP]
+>You can choose separate locations for the modlist installation and the downloads folder—helpful if one of your drives is low on space. Note that after installation, downloads can be safely deleted, but will need to be re-downloaded if you update the list later.
 
 ---
 
