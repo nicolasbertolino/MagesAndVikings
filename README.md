@@ -47,7 +47,7 @@ Before starting, ensure the following:
 - You are running an **up-to-date version of Windows**. Download and install the following dependencies:  
     - [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
     - [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer)  
-    - [.NET Runtime 8.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+    - [.NET Desktop Runtime 8.X.X x64](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 >[!WARNING]
 >If you already have Visual C++ installed, ensure you run the installer again and select the `Repair` option to update to the latest redistributables. **Do NOT skip this step, or Mod Organizer 2 and the game may fail to launch.**
