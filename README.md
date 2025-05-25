@@ -22,7 +22,7 @@ Join our [Discord Community](https://discord.gg/Newa3dj5pZ) to connect with othe
 ## Requirements
 
 ### Game Version
-**Mages & Vikings** requires the **Skyrim Anniversary Edition** with all Creation Club content. The modlist is built for the **1.5.97 version** of the game, utilizing the _Best of Both Worlds_ patcher to integrate the additional content from version **1.6.1170**.
+**Mages & Vikings** requires the **Skyrim Anniversary Edition with all Creation Club content**. The modlist is built for the **1.5.97 version** of the game, utilizing the _Best of Both Worlds_ patcher to integrate the additional content from version **1.6.1170**.
 
 ### System Requirements
 This modlist is optimized for performance without sacrificing visual quality. While most textures are 2K (and 1K where appropriate), **Mages & Vikings** prioritizes stunning visuals with dense forests, realistic grass, and full ENB effects. 
