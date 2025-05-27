@@ -59,9 +59,11 @@ Follow these steps:
    - In Steam, right-click on *Skyrim SE*, select **Properties**, navigate to **Updates**, and set it to *Only update this game when I launch it*.
 2. **Set the Game Language to English:**
    - In Steam, right-click on *Skyrim SE*, select **Properties**. Under **General**, set the **Language** to *English*.
-3. **Run Skyrim Once:**
+3. **Disable the Steam Overlay**
+   - Still in the **General** tab under Properties, toggle "Enable the Steam Overlay while in-game" to *off*.
+4. **Run Skyrim Once:**
    - Launch the game to allow it to perform its initial graphics check. The settings will be replaced during installation, so there's no need to configure them now.
-4. **Download Add-ons:**
+5. **Download Add-ons:**
    - Start the game, reach the main menu, and allow it to download the Creation Club content included with the Anniversary Edition.
 
 ---
