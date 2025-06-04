@@ -22,7 +22,7 @@ Join our [Discord Community](https://discord.gg/Newa3dj5pZ) to connect with othe
 ## Requirements
 
 ### Game Version
-**Mages & Vikings** requires the **Skyrim Anniversary Edition with all Creation Club content**. The modlist is built for the **1.5.97 version** of the game, utilizing the _Best of Both Worlds_ patcher to integrate the additional content from version **1.6.1170**.
+**Mages & Vikings** requires the **Skyrim Anniversary Edition with all Creation Club content**. The modlist is built for the **1.5.97 version** of the game,  utilizing the _Best of Both Worlds_ patcher (automatically applied by Wabbajack during installation) to integrate the additional content from version **1.6.1170**.
 
 ### System Requirements
 This modlist is optimized for performance without sacrificing visual quality. While most textures are 2K (and 1K where appropriate), **Mages & Vikings** prioritizes stunning visuals with dense forests, realistic grass, and full ENB effects. 
@@ -72,8 +72,9 @@ Follow these steps:
 1. **Install Wabbajack:**
    - Download and install [Wabbajack](https://www.wabbajack.org/).
 
-2. **Download the Mages & Vikings Wabbajack File:**
-   - Obtain the `Mages & Vikings.wabbajack` file from the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/136238). Make sure to unzip the downloaded file.
+2. **Get the Mages & Vikings Modlist:**
+   - Method 1 (Direct from Wabbajack): Open Wabbajack, click "Browse Lists," search for "Mages & Vikings," then click the download button.
+   - Method 2 (From Nexus): Obtain the `Mages & Vikings.wabbajack` file from the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/136238). Make sure to unzip the downloaded file.
 
 3. **Follow the Wabbajack Installation Procedure:**
    - Refer to the section [_The Core Procedure for Using a Downloaded .wabbajack File_](https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html) in the Wabbajack Documentation.
