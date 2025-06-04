@@ -73,8 +73,8 @@ Follow these steps:
    - Download and install [Wabbajack](https://www.wabbajack.org/).
 
 2. **Get the Mages & Vikings Modlist:**
-   - Method 1 (Direct from Wabbajack): Open Wabbajack, click "Browse Lists," search for "Mages & Vikings," then click the download button.
-   - Method 2 (From Nexus): Obtain the `Mages & Vikings.wabbajack` file from the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/136238). Make sure to unzip the downloaded file.
+   - Method 1 (from Wabbajack): Open Wabbajack, click "Browse Lists," search for "Mages & Vikings," then click the download button.
+   - Method 2 (from Nexus): Obtain the `Mages & Vikings.wabbajack` file from the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/136238). Make sure to unzip the downloaded file.
 
 3. **Follow the Wabbajack Installation Procedure:**
    - Refer to the section [_The Core Procedure for Using a Downloaded .wabbajack File_](https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html) in the Wabbajack Documentation.
