@@ -9,9 +9,11 @@
     ],
     "game": "skyrimspecialedition",
     "tags": [
+      "Official",
       "High Fantasy",
       "SFW"
     ],
+    "official": true,
     "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
