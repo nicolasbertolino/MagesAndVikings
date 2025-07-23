@@ -123,7 +123,6 @@ If your installation fails, follow these steps:
       - [_Fuse00_ArmorFreija (Vanille Male)](https://www.patreon.com/file?h=93095428&m=248004425)
       - [_Fuse00_ArmorShadow](https://www.patreon.com/file?h=96406751&m=265878755)
       - [_Fuse00_ArmorAkasha (CBBE)](https://www.patreon.com/file?h=122295901&m=422046302)
-      - [_Fuse00_ArmorKatari_CBBE](https://www.patreon.com/file?h=132364303&m=490035123)
       - [[TalesOfStar] Air Balloons](https://www.patreon.com/file?h=111649008&m=350723048)
       - [VSUI - Vampire Stage UI - Settings Loader](https://www.patreon.com/file?h=108225470&m=331812255)
 
