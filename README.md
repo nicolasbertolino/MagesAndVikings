@@ -100,8 +100,6 @@ If your installation fails, follow these steps:
       - [Bethini Pie](https://www.nexusmods.com/site/mods/631?tab=files&file_id=4954)
       - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view)
       - [[Dint999] HairPack02 SSE 1.11](https://drive.google.com/file/d/1YpZYTgllS08MRaqm4AxD7cIfc1wxT24g/view)
-      - [HDT-SMP Nord Steelheart Armor Patch](https://drive.google.com/file/d/17tGAnd24wOxZvyVhx9Znox46PKu-H7xn/view)
-      - [HDT-SMP Nord Steelheart Armor Patch for CBBE 3BA](https://drive.google.com/file/d/1ADieQvqDlyL8wi4zq-Su_mV-dSBrLc7Y/view)
       - [_Fuse00_ArmorPhantom (Vanille Male)](https://www.patreon.com/file?h=72580026&m=170011412)
       - [_Fuse00_ArmorPerseus](https://www.patreon.com/file?h=87719149&m=222741574)
       - [_Fuse00_ArmorKitsuneHunter (CBBE)](https://www.patreon.com/file?h=90572432&m=234992512)
