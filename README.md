@@ -161,8 +161,8 @@ To optimize performance, use the [Set CPU Affinity](https://www.nexusmods.com/sk
 
 #### Customize Your Experience
 At the bottom of the load order, you'll find a colored separator labeled `[Select Options] Customize your experience`. Here, you can select options to tailor your gameplay:
+- Choose to enable widescreen support.
 - Choose between **Mouse & Keyboard** or **Controller** setups.
-- Choose to enable the [Wheeler Management System](https://www.nexusmods.com/skyrimspecialedition/mods/97345) or [Spell Hotbar 2](https://github.com/pWn3d1337/Skyrim_SpellHotbar2).
 - And more.
 
 ---
