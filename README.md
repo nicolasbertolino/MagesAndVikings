@@ -84,14 +84,11 @@ Follow these steps:
 ### If Installation Fails  
 
 If your installation fails, follow these steps:  
-
-1. **Double-check Requirements**
-   - Ensure you’ve met all the listed requirements and completed the pre-installation process correctly.
  
-2. **Unable to download 'Curios' files**
+1. **Unable to download 'Curios' files**
    - If you're experiencing issues downloading the Curios files, please refer to the relevant section in the [Wabbajack Troubleshooting FAQ](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html#unable-to-download-curios-files).
 
-3. **Missing Manual Downloads**  
+2. **Missing Manual Downloads**  
    - A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically.  
      - You can run Wabbajack again to retry the download.  
      - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.
@@ -128,7 +125,7 @@ If your installation fails, follow these steps:
 >[!TIP]
 >If you're having trouble downloading from Google Drive, make sure you're logged into a Google account—some files won't download otherwise.
 
-4. **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
+3. **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
    If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
    1. Press the **Windows Key**.  
    2. Type "Windows Defender" in the search bar and select **Windows Security**.  
@@ -139,6 +136,9 @@ If your installation fails, follow these steps:
    7. Click **Add an exclusion** and choose **Folder**.  
    8. Navigate to the installation folder for the modlist and click **Select Folder**.  
    9. Resume the installation.  
+
+4. **Double-check Requirements**
+   - Ensure you’ve met all the listed requirements and completed the pre-installation process correctly.
 
 5. **Seek Help for Other Issues**  
    - If none of the above resolves your problem, refer to the official [Wabbajack Discord](https://discord.gg/wabbajack) for guidance and troubleshooting.  
