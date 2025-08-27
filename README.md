@@ -83,8 +83,6 @@ Follow these steps:
 
 ### If Installation Fails  
 
-If your installation fails, follow these steps:  
- 
 1. **Unable to download 'Curios' files**
    - If you're experiencing issues downloading the Curios files, please refer to the relevant section in the [Wabbajack Troubleshooting FAQ](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html#unable-to-download-curios-files).
 
