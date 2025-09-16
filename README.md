@@ -118,7 +118,7 @@ Follow these steps:
       - [_Fuse00_ArmorFreija (Vanille Male)](https://www.patreon.com/file?h=93095428&m=248004425)
       - [_Fuse00_ArmorShadow](https://www.patreon.com/file?h=96406751&m=265878755)
       - [_Fuse00_ArmorAkasha (CBBE)](https://www.patreon.com/file?h=122295901&m=422046302)
-      - [[TalesOfStar] Air Balloons](https://www.patreon.com/file?h=111649008&m=350723048)
+      - [[TalesOfStar] Air Balloons](https://www.patreon.com/file?h=111649008&m=421429268)
 
 >[!TIP]
 >If you're having trouble downloading from Google Drive, make sure you're logged into a Google account—some files won't download otherwise.
