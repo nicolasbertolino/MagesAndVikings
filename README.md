@@ -92,7 +92,6 @@ Follow these steps:
      - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.
 
       Files that tend to fail to download include:
-      - [Bethini Pie](https://www.nexusmods.com/site/mods/631?tab=files&file_id=4954)
       - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view)
       - [[Dint999] HairPack02 SSE 1.11](https://drive.google.com/file/d/1YpZYTgllS08MRaqm4AxD7cIfc1wxT24g/view)
       - [_Fuse00_ArmorPhantom (Vanille Male)](https://www.patreon.com/file?h=72580026&m=170011412)
