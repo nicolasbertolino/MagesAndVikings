@@ -119,9 +119,6 @@ Follow these steps:
       - [_Fuse00_ArmorAkasha (CBBE)](https://www.patreon.com/file?h=122295901&m=422046302)
       - [[TalesOfStar] Air Balloons](https://www.patreon.com/file?h=111649008&m=421429268)
 
->[!TIP]
->If you're having trouble downloading from Google Drive, make sure you're logged into a Google account—some files won't download otherwise.
-
 3. **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
    If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
    1. Press the **Windows Key**.  
