@@ -94,6 +94,7 @@ Follow these steps:
       Files that tend to fail to download include:
       - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view) (Make sure you're logged into a Google account if you're having trouble downloading this file.)
       - [[Dint999] HairPack02 SSE 1.11](https://drive.google.com/file/d/1YpZYTgllS08MRaqm4AxD7cIfc1wxT24g/view)
+      - [[TalesOfStar] Air Balloons](https://www.patreon.com/file?h=111649008&m=421429268)
       - [_Fuse00_ArmorPhantom (Vanille Male)](https://www.patreon.com/file?h=72580026&m=170011412)
       - [_Fuse00_ArmorPerseus](https://www.patreon.com/file?h=87719149&m=222741574)
       - [_Fuse00_ArmorKitsuneHunter (CBBE)](https://www.patreon.com/file?h=90572432&m=234992512)
@@ -117,7 +118,9 @@ Follow these steps:
       - [_Fuse00_ArmorFreija (Vanille Male)](https://www.patreon.com/file?h=93095428&m=248004425)
       - [_Fuse00_ArmorShadow](https://www.patreon.com/file?h=96406751&m=265878755)
       - [_Fuse00_ArmorAkasha (CBBE)](https://www.patreon.com/file?h=122295901&m=422046302)
-      - [[TalesOfStar] Air Balloons](https://www.patreon.com/file?h=111649008&m=421429268)
+      - [_Fuse00_ArmorKatari (CBBE)](https://www.patreon.com/file?h=132364303&m=490035123)
+      - [_Fuse00_ArmorOrdinator](https://www.patreon.com/file?h=135571482&m=509715964)
+      - [_Fuse00_ArmorArianna_CBBE](https://www.patreon.com/file?h=137667994&m=524210439)
 
 3. **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
    If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
