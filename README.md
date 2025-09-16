@@ -83,13 +83,13 @@ Follow these steps:
 
 ### If Installation Fails  
 
-1. **Unable to download 'Curios' files**
-   - If you're experiencing issues downloading the Curios files, please refer to the relevant section in the [Wabbajack Troubleshooting FAQ](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html#unable-to-download-curios-files).
+1. **Unable to download 'Curios' files**  
+If you're experiencing issues downloading the Curios files, please refer to the relevant section in the [Wabbajack Troubleshooting FAQ](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html#unable-to-download-curios-files).
 
 2. **Missing Manual Downloads**  
-   - A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically.  
-     - You can run Wabbajack again to retry the download.  
-     - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.
+A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically.  
+    - You can run Wabbajack again to retry the download.  
+    - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.
 
       Files that tend to fail to download include:
       - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view) (Make sure you're logged into a Google account if you're having trouble downloading this file.)
@@ -123,7 +123,7 @@ Follow these steps:
       - [_Fuse00_ArmorArianna_CBBE](https://www.patreon.com/file?h=137667994&m=524210439)
 
 3. **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
-   If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
+If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
    1. Press the **Windows Key**.  
    2. Type "Windows Defender" in the search bar and select **Windows Security**.  
    3. Click on **Virus & threat protection** in the left pane.  
@@ -134,11 +134,11 @@ Follow these steps:
    8. Navigate to the installation folder for the modlist and click **Select Folder**.  
    9. Resume the installation.  
 
-4. **Double-check Requirements**
-   - Ensure you’ve met all the listed requirements and completed the pre-installation process correctly.
+4. **Double-check Requirements**  
+Ensure you’ve met all the listed requirements and completed the pre-installation process correctly.
 
 5. **Seek Help for Other Issues**  
-   - If none of the above resolves your problem, refer to the official [Wabbajack Discord](https://discord.gg/wabbajack) for guidance and troubleshooting.  
+If none of the above resolves your problem, refer to the official [Wabbajack Discord](https://discord.gg/wabbajack) for guidance and troubleshooting.  
 
 ---
 
