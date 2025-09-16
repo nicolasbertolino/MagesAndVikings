@@ -44,6 +44,8 @@ To fully enjoy this experience, the following hardware is recommended:
 
 Before starting, ensure the following:  
 
+- You own a **legal, non-pirated version** of the game updated to **1.6.1170** (the latest version).
+
 - You are running an **up-to-date version of Windows**. Download and install the following dependencies:  
     - [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
     - [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer)  
@@ -51,8 +53,6 @@ Before starting, ensure the following:
 
 >[!WARNING]
 >If you already have Visual C++ installed, ensure you run the installer again and select the `Repair` option to update to the latest redistributables. **Do NOT skip this step, or Mod Organizer 2 and the game may fail to launch.**
-
-- You own a **legal, non-pirated version** of the game updated to **1.6.1170** (the latest version).  
 
 Follow these steps:
 1. **Disable Automatic Updates for Skyrim:**
