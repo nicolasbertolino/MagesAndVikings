@@ -92,7 +92,7 @@ Follow these steps:
      - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.
 
       Files that tend to fail to download include:
-      - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view) (If you're having trouble downloading from Google Drive, make sure you're logged into a Google account)
+      - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view) (Make sure you're logged into a Google account if you're having trouble downloading this file.)
       - [[Dint999] HairPack02 SSE 1.11](https://drive.google.com/file/d/1YpZYTgllS08MRaqm4AxD7cIfc1wxT24g/view)
       - [_Fuse00_ArmorPhantom (Vanille Male)](https://www.patreon.com/file?h=72580026&m=170011412)
       - [_Fuse00_ArmorPerseus](https://www.patreon.com/file?h=87719149&m=222741574)
