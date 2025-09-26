@@ -94,6 +94,8 @@ A common reason for failure is **Missing Manual Downloads**, where Wabbajack cou
     Files that tend to fail to download include:
     - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view)
     - [[Dint999] HairPack02 SSE 1.11](https://drive.google.com/file/d/1YpZYTgllS08MRaqm4AxD7cIfc1wxT24g/view)
+    - [HDT-SMP Nord Steelheart Armor Patch](https://drive.google.com/file/d/17tGAnd24wOxZvyVhx9Znox46PKu-H7xn/view)
+    - [HDT-SMP Nord Steelheart Armor Patch for CBBE 3BA](https://drive.google.com/file/d/1ADieQvqDlyL8wi4zq-Su_mV-dSBrLc7Y/view)
     - [[TalesOfStar] Air Balloons](https://www.patreon.com/file?h=111649008&m=421429268)
     - [Fuse00 Armors](https://www.patreon.com/collection/129990)
     - [Fuse00 Hairstyles](https://www.patreon.com/collection/209996)
