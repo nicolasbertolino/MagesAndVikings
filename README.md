@@ -55,14 +55,13 @@ Before starting, ensure the following:
 >If you already have Visual C++ installed, ensure you run the installer again and select the `Repair` option to update to the latest redistributables. **Do NOT skip this step, or Mod Organizer 2 and the game may fail to launch.**
 
 Follow these steps:
-1. **Disable Automatic Updates for Skyrim:**
+1. **Disable Automatic Updates for Skyrim, set the Game Language to English and disable the Steam Overlay:**
    - In Steam, right-click on *Skyrim SE*, select **Properties**, navigate to **Updates**, and set it to *Only update this game when I launch it*.
-2. **Set the Game Language to English and disable the Steam Overlay:**
-   - In Steam, right-click on *Skyrim SE*, select **Properties**. Under **General**, set the **Language** to *English*.
-   - Still in the **General** tab under Properties, toggle "Enable the Steam Overlay while in-game" to *off*.
-3. **Run Skyrim Once:**
+   - Then navigate to **General** and set the **Language** to *English*.
+   - Still under **General**, toggle "Enable the Steam Overlay while in-game" to *off*.
+2. **Run Skyrim Once:**
    - Launch the game to allow it to perform its initial graphics check. The settings will be replaced during installation, so there's no need to configure them now.
-5. **Download Add-ons:**
+3. **Download Add-ons:**
    - Start the game, reach the main menu, and allow it to download the Creation Club content included with the Anniversary Edition.
 
 ---
