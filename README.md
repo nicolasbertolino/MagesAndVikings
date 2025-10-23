@@ -11,7 +11,7 @@
 
 
 # Mages & Vikings
-**Mages & Vikings** is a comprehensive Skyrim modlist designed to breathe new life into the game. Featuring **thousands of carefully curated mods**, this list enhances and modernizes every aspect of Skyrim—from the user interface and audio to graphics and gameplay mechanics. 
+**Mages & Vikings** is a comprehensive Skyrim modlist designed to breathe new life into the game. Featuring **thousands of carefully curated mods**, this list enhances and modernizes every aspect of Skyrim – from the user interface and audio to graphics and gameplay mechanics. 
 
 For a complete breakdown of the mods included, visit the [Load Order Library](https://loadorderlibrary.com/lists/mages-vikings).
 
@@ -34,7 +34,7 @@ To fully enjoy this experience, the following hardware is recommended:
 - **Storage**: The required disk space is shown in the Wabbajack UI
 
 >[!TIP]
->You can choose separate locations for the modlist installation and the downloads folder—helpful if one of your drives is low on space. Note that after installation, downloads can be safely deleted, but will need to be re-downloaded if you update the list later.
+>You can choose separate locations for the modlist installation and the downloads folder – helpful if one of your drives is low on space. Note that after installation, downloads can be safely deleted, but will need to be re-downloaded if you update the list later.
 
 ---
 
