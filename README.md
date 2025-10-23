@@ -43,9 +43,7 @@ To fully enjoy this experience, the following hardware is recommended:
 ### Pre-installation  
 
 Before starting, ensure the following:  
-
 - You own a **legal, non-pirated version** of the game updated to **1.6.1170** (the latest version).
-
 - You are running an **up-to-date version of Windows**. Download and install the following dependencies:  
     - [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
     - [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer)  
@@ -54,7 +52,7 @@ Before starting, ensure the following:
 >[!WARNING]
 >If you already have Visual C++ installed, ensure you run the installer again and select the `Repair` option to update to the latest redistributables. **Do NOT skip this step, or Mod Organizer 2 and the game may fail to launch.**
 
-Follow these steps:
+Then follow these steps:
 1. **Disable the Steam Overlay, set the Game Language to English and disable Automatic Updates for Skyrim:**
    - In Steam, right-click on *Skyrim SE*, select **Properties** and under **General**, toggle "Enable the Steam Overlay while in-game" to *off*.
    - Still under **General**, set the **Language** to *English*.
@@ -70,11 +68,9 @@ Follow these steps:
 
 1. **Install Wabbajack:**
    - Download and install [Wabbajack](https://www.wabbajack.org/).
-
 2. **Get the Mages & Vikings Modlist:**
    - Method 1 (from Wabbajack): Open Wabbajack, click "Browse Lists" then search for "Mages & Vikings".
    - Method 2 (from Nexus): Obtain the `Mages & Vikings.wabbajack` file from the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/136238). Make sure to unzip the downloaded file.
-
 3. **Follow the Wabbajack Installation Procedure:**
    - Refer to the section [_Installing a Modlist_](https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html) in the Wabbajack Documentation.
 
@@ -82,15 +78,13 @@ Follow these steps:
 
 ### If Installation Fails  
 
-1. **Unable to download 'Curios' files**  
+- **Unable to download 'Curios' files**  
 If you're experiencing issues downloading the Curios files, please refer to the relevant section in the [Wabbajack Troubleshooting FAQ](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html#unable-to-download-curios-files).
 
-2. **Missing Manual Downloads**  
-A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically.  
-    - You can run Wabbajack again to retry the download.  
-    - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.
-
-    Files that tend to fail to download include:
+- **Missing Manual Downloads**  
+A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically.
+  - You can run Wabbajack again to retry the download.
+  - Alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack. Files that tend to fail to download include:
     - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view)
     - [[Dint999] HairPack02 SSE 1.11](https://drive.google.com/file/d/1YpZYTgllS08MRaqm4AxD7cIfc1wxT24g/view)
     - [HDT-SMP Nord Steelheart Armor Patch](https://drive.google.com/file/d/17tGAnd24wOxZvyVhx9Znox46PKu-H7xn/view)
@@ -98,12 +92,10 @@ A common reason for failure is **Missing Manual Downloads**, where Wabbajack cou
     - [[TalesOfStar] Air Balloons](https://www.patreon.com/file?h=111649008&m=421429268)
     - [Fuse00 Armors](https://www.patreon.com/collection/129990)
     - [Fuse00 Hairstyles](https://www.patreon.com/collection/209996)
-  
-  >[!TIP]
-  >Make sure you're logged into a Google account if you're having trouble downloading files from Google Drive.
+>[!TIP]
+>Make sure you're logged into a Google account if you're having trouble downloading files from Google Drive.
 
-
-3. **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
+- **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
 If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
    1. Press the **Windows Key**.  
    2. Type "Windows Defender" in the search bar and select **Windows Security**.  
@@ -115,10 +107,10 @@ If you encounter this error, it may be due to Windows Defender flagging the modl
    8. Navigate to the installation folder for the modlist and click **Select Folder**.  
    9. Resume the installation.  
 
-4. **Double-check Requirements**  
+- **Double-check Requirements**  
 Ensure you’ve met all the listed requirements and completed the pre-installation process correctly.
 
-5. **Seek Help for Other Issues**  
+- **Seek Help for Other Issues**  
 If none of the above resolves your problem, refer to the official [Wabbajack Discord](https://discord.gg/wabbajack) for guidance and troubleshooting.  
 
 ---
