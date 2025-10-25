@@ -66,7 +66,7 @@ Then follow these steps:
 
 ### Starting the installation
 
->[!WARNING]
+>[!IMPORTANT]
 >The installation **frequently fails on the first try**. This is normal, please refer to the **If Installation Fails section** below to solve the issues and proceed with the installation.
 
 1. **Install Wabbajack:**
@@ -95,7 +95,7 @@ A common reason for failure is **Missing Manual Downloads**, where Wabbajack cou
     - [[TalesOfStar] Air Balloons](https://www.patreon.com/file?h=111649008&m=421429268)
     - [Fuse00 Armors](https://www.patreon.com/collection/129990)
     - [Fuse00 Hairstyles](https://www.patreon.com/collection/209996)
->[!WARNING]
+>[!IMPORTANT]
 >Make sure you're logged into a Google account if you're having trouble downloading files from Google Drive.
 
 - **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
