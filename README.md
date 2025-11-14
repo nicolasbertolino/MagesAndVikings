@@ -25,7 +25,7 @@ Join our [Discord Community](https://discord.gg/Newa3dj5pZ) to connect with othe
 **Mages & Vikings** requires **Skyrim Anniversary Edition with all Creation Club content**, version 1.6.1170.
 
 ### System Requirements
-While this modlist is optimized with 2K textures the most part (and 1K where appropriate), **Mages & Vikings** prioritizes stunning visuals with dense forests, realistic grass, and full ENB effects. To fully enjoy this experience, the following hardware is recommended:
+While this modlist is optimized with 2K textures for the most part (and 1K where appropriate), **Mages & Vikings** prioritizes stunning visuals with dense forests, realistic grass, and full ENB effects. To fully enjoy this experience, the following hardware is recommended:
 - **GPU**: RTX 4070 or higher
 - **RAM**: 32GB
 - **CPU**: A modern, high-performance processor
