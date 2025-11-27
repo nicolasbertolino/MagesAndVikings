@@ -21,19 +21,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/nicolasbertolino/MagesAndVikings/main/banner.webp",
       "readme": "https://github.com/nicolasbertolino/MagesAndVikings/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Mages%20&%20Vikings.wabbajack_d974e120-1395-4a64-997d-12c80ec4ece9",
+      "download": "https://authored-files.wabbajack.org/Mages%20&%20Vikings.wabbajack_58f7ff93-2f5d-4f70-92b3-6cacca4c589b",
       "machineURL": "MagesAndVikings",
       "discordURL": "https://discord.gg/Newa3dj5pZ"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "J+9vc1a5Lu0=",
-      "Size": 647252193,
+      "Hash": "hHLWcxBIflI=",
+      "Size": 647253104,
       "NumberOfArchives": 3312,
       "SizeOfArchives": 219653078041,
       "NumberOfInstalledFiles": 266520,
-      "SizeOfInstalledFiles": 362384457223,
-      "TotalSize": 582037535264
+      "SizeOfInstalledFiles": 362384457284,
+      "TotalSize": 582037535325
     },
     "version": "2.20"
   }
