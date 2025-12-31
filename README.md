@@ -22,8 +22,9 @@ Join our [Discord Community](https://discord.gg/Newa3dj5pZ) to connect with othe
 ## Contents
 - [Requirements](#requirements)
 - [Pre-installation](#pre-installation)
-- [Starting the installation](#starting-the-installation)
-- [If Installation Fails](#if-installation-fails)
+- [Installation](#installation)
+    - [Starting the installation](#starting-the-installation)
+    - [If Installation Fails](#if-installation-fails)
 - [Post-installation](#post-installation)
 
 ## Requirements
@@ -43,9 +44,7 @@ While this modlist is optimized as much as possible, **Mages & Vikings** priorit
 
 ---
 
-## Installation
-
-### Pre-installation  
+## Pre-installation  
 
 Before starting, ensure the following:  
 - You own a **legal, non-pirated version** of the game updated to **1.6.1170** (the latest version).
@@ -68,6 +67,8 @@ Then follow these steps:
    - Start the game, reach the main menu, and allow it to download the Creation Club content included with the Anniversary Edition.
 
 ---
+
+## Installation
 
 ### Starting the installation
 
