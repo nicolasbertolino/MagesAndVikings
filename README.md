@@ -120,7 +120,7 @@ If none of the above resolves your problem, refer to the official [Wabbajack Dis
 
 ---
 
-### Post-installation
+## Post-installation
 
 #### Launch Mod Organizer 2
 1. Navigate to the installation location you selected earlier and launch `ModOrganizer.exe`.
