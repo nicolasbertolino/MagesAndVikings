@@ -20,13 +20,13 @@ Join our [Discord Community](https://discord.gg/Newa3dj5pZ) to connect with othe
 ---
 
 ## Contents
-- [System Requirements](#system-requirements)
+- [Requirements](#requirements)
 - [Pre-installation](#pre-installation)
 - [Starting the installation](#starting-the-installation)
 - [If Installation Fails](#if-installation-fails)
 - [Post-installation](#post-installation)
 
-## System Requirements
+## Requirements
 
 ### Game Version
 **Mages & Vikings** requires **Skyrim Anniversary Edition with all Creation Club content**, version 1.6.1170.
