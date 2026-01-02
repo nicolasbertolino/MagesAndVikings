@@ -70,10 +70,10 @@ Then follow these steps:
 
 ## Installation
 
-### Starting the installation
-
 >[!IMPORTANT]
 >The installation **frequently fails on the first try**. This is normal, please refer to the **If Installation Fails section** below to solve the issues and proceed with the installation.
+
+### Starting the installation
 
 1. **Install Wabbajack:**
    - Download and install [Wabbajack](https://www.wabbajack.org/).
