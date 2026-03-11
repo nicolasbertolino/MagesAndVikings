@@ -2,9 +2,9 @@
 
 ---
 
-## Version 2.40
+## Version 2.4
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 ### Gameplay
 
@@ -77,7 +77,7 @@
 
 ## Version 2.31.1
 
-> ✅ **SAFE TO UPDATE**
+> **SAFE TO UPDATE**
 
 ### Fixes
 - Fixed the wheeler not opening properly when reaching the menus via Tab (bug with Typing Mode).
@@ -85,11 +85,10 @@
 ### UI
 - Added **Spell Classes**, which attaches a Druidic label to specific spells. Useful when picking the appropriate trait from **Biggie Traits**.
 
----
 
 ## Version 2.31
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 ### Fixes
 - Fixed Olfina Gray-Mane's invisible face.
@@ -113,7 +112,7 @@
 
 ## Version 2.30.1
 
-> ✅ **SAFE TO UPDATE**
+> **SAFE TO UPDATE**
 
 ### Fixes
 - Fixed General Tullius having an invisible face.
@@ -121,11 +120,10 @@
 - Updated Hotkey Reminder to remove superfluous keys.
 - Fixed a crash that occurred when interacting with Fertile Soil.
 
----
 
-## Version 2.30
+## Version 2.3
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 ### Fixes & Improvements
 - Performance has been improved in the entire Rift area, Riften, Solitude, and Whiterun.
@@ -190,9 +188,9 @@
 
 ---
 
-## Version 2.20
+## Version 2.2
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 ### Gameplay
 
@@ -284,25 +282,23 @@
 
 ## Version 2.10.3
 
-> ✅ **SAFE TO UPDATE**
+> **SAFE TO UPDATE**
 
 - Integrated the Bestiary into the Main Menu following the removal of Tween Menu Overhaul.
 - Fine-tuned/fixed some controller behaviors.
 
----
 
 ## Version 2.10.2
 
-> ✅ **SAFE TO UPDATE**
+> **SAFE TO UPDATE**
 
 - Replaced **NPC Infinite Block Fix - SkyPatcher** with **NPC Block Loop Fix**.
 - Updated controller mapping for a more intuitive setup.
 
----
 
 ## Version 2.10.1
 
-> ✅ **SAFE TO UPDATE**
+> **SAFE TO UPDATE**
 
 - Fixed a crash when reaching Falkreath caused by an incorrect mesh.
 - Activating a campfire from **Camping Supplies** now offers the option to ponder, which opens a new perk tree with survival bonuses for camping enthusiasts.
@@ -310,11 +306,10 @@
 - Added **Embershard** by snozz2004.
 - Standing idle near a fire source for 3 seconds will trigger a warming hands animation. Press LB to exit the animation.
 
----
 
-## Version 2.10
+## Version 2.1
 
-> ⚠️ **A NEW SAVE IS REQUIRED!**
+> **A NEW SAVE IS REQUIRED!**
 
 ### Gameplay
 
@@ -361,7 +356,7 @@
 
 ## Version 2.0
 
-> ⚠️ **A NEW SAVE IS REQUIRED!**
+> **A NEW SAVE IS REQUIRED!**
 
 ### Gameplay
 
@@ -433,9 +428,9 @@
 
 ---
 
-## Version 1.90
+## Version 1.9
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 ### Gameplay
 - Removed **Immersive Weapon Switch** — Didn't like that you don't get any confirmation when swapping weapons in paused menus (nothing happens visually, which looks like a bug).
@@ -462,7 +457,7 @@
 
 ## Version 1.83
 
-> ⚠️ **A NEW SAVE IS REQUIRED**
+> **A NEW SAVE IS REQUIRED**
 
 - Removed **Dragonborn Reskin - SkyUI Inventory Category and Favorites Icons** due to sluggish inventory menu performance.
 - Removed **Dynamic Impact - Slash Effects X** pending further testing with Sanguine Symphony compatibility.
@@ -473,7 +468,7 @@
 
 ## Version 1.82
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 - Temporarily removed **QuickLootIE** due to causing HUD disappearance issues.
 - Swapped **Brown to Green Tundra**.
@@ -484,16 +479,16 @@
 
 ## Version 1.81
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 - Removed **Starfrost - A Survival Overhaul**.
 - Added **SunHelm Survival and Needs**.
 
 ---
 
-## Version 1.80
+## Version 1.8
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 ### Gameplay
 - Removed **Skybane - The Logic of Death**
@@ -517,9 +512,9 @@
 
 ---
 
-## Version 1.70
+## Version 1.7
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 ### Gameplay
 - Added **Scrolling Speed NG** — Enables precise movement speed control (on foot and mounted) using mouse wheel while moving with directional keys. Standing still retains normal zoom functionality. Vanilla walk/run toggle has been removed.
@@ -560,9 +555,9 @@
 
 ---
 
-## Version 1.60
+## Version 1.6
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 ### Gameplay
 - Leveling up no longer requires sleeping.
@@ -589,24 +584,22 @@
 
 ## Version 1.52.2
 
-> ✅ **SAFE TO UPDATE**
+> **SAFE TO UPDATE**
 
 - Fixed bow's rapid shots (secondary attack) not firing anything.
 
----
 
 ## Version 1.52.1
 
-> ✅ **SAFE TO UPDATE**
+> **SAFE TO UPDATE**
 
 - Fixes Durak teleporting.
 - Fixes invisible Paraglider.
 
----
 
 ## Version 1.52
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 ### Gameplay
 - Re-added the block key functionality.
@@ -632,7 +625,7 @@
 
 ## Version 1.51
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 ### Gameplay
 - Re-added the usual dodge key (sprint tapping) and removed For Honor's built-in dodge mechanisms.
@@ -645,9 +638,9 @@
 
 ---
 
-## Version 1.50
+## Version 1.5
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 ### Miscellaneous
 - Removed the distribution to NPCs of **Woodland Wizard Robes** due to broken meshes. The set is now simply available at the forge for players to craft.
@@ -672,9 +665,9 @@
 
 ---
 
-## Version 1.40
+## Version 1.4
 
-> ⚠️ **A NEW GAME IS REQUIRED**
+> **A NEW GAME IS REQUIRED**
 
 ### Gameplay
 - Added **Unlimited Hostile Encounters** — While traveling through Skyrim, hostile encounters will now dynamically spawn based on the region and time of day. For example, traveling at night may lead to encounters with zombies, skeletons, werewolves, and vampires.
@@ -693,9 +686,9 @@
 
 ---
 
-## Version 1.30
+## Version 1.3
 
-> ⚠️ **A NEW SAVE IS REQUIRED**
+> **A NEW SAVE IS REQUIRED**
 
 - Backpacks have been adjusted so that all additional backpacks added by mods now properly display custom items (such as instruments, quest items like the Dragonstone, etc.) without clipping.
 - Added **Mortal Vitality - A Player Health Regen Overhaul** — Natural health regeneration is now completely disabled. Players must rely on potions, food, perks, enchantments, or racial bonuses (tip: Orcs have 50% increased health regeneration).
@@ -714,9 +707,9 @@
 
 ---
 
-## Version 1.20
+## Version 1.2
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 **Added:**
 - **Baby Dragon - A Pet Follower**
@@ -731,16 +724,15 @@
 
 ## Version 1.10.2
 
-> ✅ **Safe to update**
+> **Safe to update**
 
 - Fixed not being able to allocate skill points when leveling up.
 - Fixed wrong LAlt dodge key in the optional config.
 
----
 
-## Version 1.10
+## Version 1.1
 
-> ⚠️ **A NEW GAME IS REQUIRED!**
+> **A NEW GAME IS REQUIRED!**
 
 ### Miscellaneous
 - New follower: **Celestine**
@@ -770,25 +762,22 @@
 
 ## Version 1.0.3
 
-> ✅ **Safe to update mid-game!**
+> **Safe to update mid-game!**
 
 - Removed **SoulsyHUD** which caused HUD inconsistencies depending on user setup.
 - Added **Sacrificio - Mage Replacer for Illia Aranea Eola** (for Aranea).
 - Added **Sleipnir Beds - An Upper Class Bed Replacer**.
 
----
 
 ## Version 1.0.2
 
 - Fixed more downloads.
 
----
 
 ## Version 1.0.1
 
 - Fixed some downloads.
 
----
 
 ## Version 1.0
 
@@ -923,7 +912,7 @@
 
 ## Version 0.94
 
-> ⚠️ **This update is theoretically safe to install mid-game, but stability cannot be guaranteed 100%. If you're in the middle of a playthrough, it might be safer to hold off until you're ready. Proceed with caution!**
+> **This update is theoretically safe to install mid-game, but stability cannot be guaranteed 100%. If you're in the middle of a playthrough, it might be safer to hold off until you're ready. Proceed with caution!**
 
 ### Gameplay
 - Added **Horses Unlimited Stamina**.
@@ -955,15 +944,14 @@
 
 ## Version 0.93.1
 
-> ✅ **SAFE TO UPDATE MID-GAME**
+> **SAFE TO UPDATE MID-GAME**
 
 - Fixed missing outfit parts for Nazeem and Saffir.
 
----
 
 ## Version 0.93
 
-> ⚠️ **A NEW SAVE IS REQUIRED**
+> **A NEW SAVE IS REQUIRED**
 
 ### Gameplay
 - Added **Ice Turmoil** by Mihail (Monsters and Animals).
@@ -988,7 +976,7 @@
 
 ## Version 0.92
 
-> ⚠️ **A NEW SAVE IS REQUIRED**
+> **A NEW SAVE IS REQUIRED**
 
 ### Gameplay
 - Removed **Storm Calling Magic 2** and **Air Dash**.
@@ -1043,7 +1031,7 @@
 
 ## Version 0.91
 
-> ⚠️ **A NEW SAVE IS REQUIRED**
+> **A NEW SAVE IS REQUIRED**
 
 ### Gameplay
 - Removed **Scheduling of Sleep** — Superseded by Modern Wait Menu features.
@@ -1080,6 +1068,6 @@
 - Removed the **Eldritch Blast** mod as it was causing installation issues.
 - Refined ENB settings.
 
-## Version 0.90
+## Version 0.9
 
 - Initial release.
