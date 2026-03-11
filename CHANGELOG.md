@@ -1079,3 +1079,7 @@
 - Fixed the ENBSeries download link.
 - Removed the **Eldritch Blast** mod as it was causing installation issues.
 - Refined ENB settings.
+
+## Version 0.90
+
+- Initial release.
