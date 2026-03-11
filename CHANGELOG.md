@@ -4,7 +4,7 @@
 
 ## Version 2.4
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Gameplay
@@ -89,7 +89,7 @@
 
 ## Version 2.31
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Fixes
@@ -112,7 +112,7 @@
 
 ---
 
-## Version 2.30.1
+## Version 2.3.1
 
 > Safe to update
 
@@ -125,7 +125,7 @@
 
 ## Version 2.3
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Fixes & Improvements
@@ -193,7 +193,7 @@
 
 ## Version 2.2
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Gameplay
@@ -284,7 +284,7 @@
 
 ---
 
-## Version 2.10.3
+## Version 2.1.3
 
 > Safe to update
 
@@ -292,7 +292,7 @@
 - Fine-tuned/fixed some controller behaviors.
 
 
-## Version 2.10.2
+## Version 2.1.2
 
 > Safe to update
 
@@ -300,7 +300,7 @@
 - Updated controller mapping for a more intuitive setup.
 
 
-## Version 2.10.1
+## Version 2.1.1
 
 > Safe to update
 
@@ -313,7 +313,7 @@
 
 ## Version 2.1
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Gameplay
@@ -361,7 +361,7 @@
 
 ## Version 2.0
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Gameplay
@@ -436,7 +436,7 @@ And many more fixes and improvements! Hope you have a blast!
 
 ## Version 1.9
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Gameplay
@@ -465,7 +465,7 @@ Plus a few other tweaks and improvements for smoother performance and gameplay.
 
 ## Version 1.83
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 - Removed Dragonborn Reskin - SkyUI Inventory Category and Favorites Icons due to sluggish inventory menu performance.
@@ -477,7 +477,7 @@ Plus a few other tweaks and improvements for smoother performance and gameplay.
 
 ## Version 1.82
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 - Temporarily removed QuickLootIE due to causing HUD disappearance issues.
@@ -489,7 +489,7 @@ Plus a few other tweaks and improvements for smoother performance and gameplay.
 
 ## Version 1.81
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 - Removed Starfrost - A Survival Overhaul.
@@ -499,7 +499,7 @@ Plus a few other tweaks and improvements for smoother performance and gameplay.
 
 ## Version 1.8
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Gameplay
@@ -526,7 +526,7 @@ Plus several bug fixes and improvements! This update focuses primarily on refini
 
 ## Version 1.7
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Gameplay
@@ -570,7 +570,7 @@ And many bug fixes and improvements!
 
 ## Version 1.6
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Gameplay
@@ -613,7 +613,7 @@ And various bug fixes and improvements!
 
 ## Version 1.52
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Gameplay
@@ -640,7 +640,7 @@ And various bug fixes and improvements!
 
 ## Version 1.51
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Gameplay
@@ -656,7 +656,7 @@ And various bug fixes and improvements!
 
 ## Version 1.5
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Miscellaneous
@@ -684,7 +684,7 @@ And various bug fixes and improvements!
 
 ## Version 1.4
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Gameplay
@@ -706,7 +706,7 @@ Includes multiple other improvements and fixes. Have fun!
 
 ## Version 1.3
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 - Backpacks have been adjusted so that all additional backpacks added by mods now properly display custom items (such as instruments, quest items like the Dragonstone, etc.) without clipping.
@@ -728,7 +728,7 @@ Plus many other fixes and improvements throughout the modlist.
 
 ## Version 1.2
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 **Added:**
@@ -742,7 +742,7 @@ Many bug fixes and improvements!
 
 ---
 
-## Version 1.10.2
+## Version 1.1.2
 
 > Safe to update
 
@@ -752,7 +752,7 @@ Many bug fixes and improvements!
 
 ## Version 1.1
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Miscellaneous
@@ -972,7 +972,7 @@ Many bug fixes and improvements!
 
 ## Version 0.93
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Gameplay
@@ -998,7 +998,7 @@ Many bug fixes and improvements!
 
 ## Version 0.92
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Gameplay
@@ -1054,7 +1054,7 @@ Many bug fixes and improvements!
 
 ## Version 0.91
 
->[!WARNING]
+>[!IMPORTANT]
 >A new game is required!
 
 ### Gameplay
@@ -1086,7 +1086,7 @@ Many bug fixes and improvements!
 
 ---
 
-## Version 0.90.1
+## Version 0.9.1
 
 - Fixed the ENBSeries download link.
 - Removed the Eldritch Blast mod as it was causing installation issues.
