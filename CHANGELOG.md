@@ -12,11 +12,11 @@
 ### Gameplay
 
 **Removed:**
+- Wade in Water Redux - Swimming Overhaul — Replaced with Loki's Wade In Water. Swimming is no longer affected by the armor you wear.
 - Leveling Freedom - Configure your XP Curve — Removed in favor of a faster leveling curve, especially in early levels.
-- Block While Casting
 - NPC Spell Variance — Caused some NPCs to use fists instead of spells (seen on Lucien, Minorne and some dragon priests).
 - STB Quick Hotkey Cast — Quick casting is now handled by Wheeler Refined.
-- Wade in Water Redux - Swimming Overhaul — Replaced with Loki's Wade In Water. Swimming is no longer affected by the armor you wear.
+- Block While Casting
 - Swift Potion NG — In favor of True Flasks NG.
 - Smart NPC Potions - Enemies Use Potions and Poisons — In favor of True Flasks NG.
 - Potion Combiner for Apothecary — In favor of True Flasks NG.
