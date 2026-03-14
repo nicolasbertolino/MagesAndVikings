@@ -2,6 +2,140 @@
 
 ---
 
+## Version 2.5
+
+>[!IMPORTANT]
+>A new game is required!
+
+> Note: The list has been updated from version 1.5.97 to version 1.6.1170. If you have customized the list with [NoDelete], be aware you may have to update some mods on your side.
+
+### Gameplay
+
+**Removed:**
+- Leveling Freedom - Configure your XP Curve — Removed in favor of a faster leveling curve, especially in early levels.
+- Block While Casting
+- NPC Spell Variance — Caused some NPCs to use fists instead of spells (seen on Lucien, Minorne and some dragon priests).
+- STB Quick Hotkey Cast — Quick casting is now handled by Wheeler Refined.
+- Wade in Water Redux - Swimming Overhaul — Replaced with Loki's Wade In Water. Swimming is no longer affected by the armor you wear.
+- Swift Potion NG — In favor of True Flasks NG.
+- Smart NPC Potions - Enemies Use Potions and Poisons — In favor of True Flasks NG.
+- Potion Combiner for Apothecary — In favor of True Flasks NG.
+
+**Added:**
+- True Flasks NG — A complete rethink of the potion system inspired by modern action RPGs. Say goodbye to carrying 200 potions — you now have a set of regenerating flask charges instead, bringing a Souls-like or Cyberpunk-style healing loop to Skyrim.
+- For Honor Reforged — A complete rebuild of For Honor in Skyrim with expanded mechanics and skill-based balance that rewards deliberate, thoughtful play. Check the gameplay-guides channel on Discord for the full breakdown.
+- Parrying RPG — When two characters swing at each other at the same time and their weapons connect, the attacker recoils and deals no damage.
+- Disable Bashing for NPCs — NPCs can no longer use bashing, which cleans up combat.
+- Perfectly Valid Wards — Wards now block melee attacks, arrows, and shouts, and can even reflect spells back at casters. All of this is integrated into the Restoration perk tree, so you'll need to invest in it to unlock the full potential.
+- Knockback SKSE — Melee hits now push enemies back slightly, keeping them at the right distance during combat and avoiding that awkward clipping-into-each-other feeling.
+- Ricochet - Arrow Physics Framework — Arrows and bolts now ricochet realistically off surfaces. A small detail that gives more angles opportunities (looking at you sneak archers).
+- Constellations - Additional Player Skills and Firmament — Adds 6 brand new perk trees to the game: Hand-to-hand, Athletics, Sorcery, Horseman, Exploration and Philosophy. All fully integrated into the vanilla skills menu, and they open up some really fun new build possibilities.
+- HorsePower - Modernized Horse Riding — Pretty much a complete overhaul of horse riding: new follow-up attacks, directional animations, improved handling, in-place turns, new ragdoll and sprint behaviors. Combine this with the new Horseman perk tree from Firmament and you can go full Mongol horse warrior build.
+- AutoHorse — Draw a marker on the map while mounted and your horse will automatically travel there. Activate with Z / RT.
+- Lock Bashing — You can now bash locks open with brute force. The higher your health and stamina, the better your chances.
+- Argentum - True Weakness To Silver — Undead now take 200% damage from silver weapons and 50% from everything else. Wielding silver weapons actually feels meaningful now.
+- Perk Point Potion — A rare elixir found in some boss chests that grants a perk point when consumed. More distribution will come in future updates.
+- Simple Werewolf Looting — While in werewolf form, the default interaction with containers is now "Search" rather than "Feed." Press Shift+E if you want to feed from corpses the vanilla way.
+- Faster Reanimation - 25 Percent Faster — The reanimation animation is noticeably shorter, making Conjuration feel snappier in combat.
+- Sensible Dawnguard Start — You can no longer join the Dawnguard just by reaching level 10. You must first complete Laid to Rest, which makes joining the faction feel more earned.
+- Companions Radiant Edit - Only Bandits from Farkas — Farkas now only sends you to bandit hives.
+- Slightly increased spawn interval time from world encounters.
+
+### New Content
+
+**Removed:**
+- Voidborn - Chakra's Creatures
+- Hungers SE
+- Bogmort - Mud Monsters of Morthal Swamp
+- House of Horrors - Delayed Start — Can now be started as soon as you enter Markarth.
+
+**Added:**
+- VIGILANT SE — An absolutely unmissable dark quest mod following the Vigilants of Stendarr. If you enjoy grim, story-driven content this is one of the best quest mods available. Requires level 25 and completion of the vanilla House of Horrors quest in Markarth, then head to Dawnstar's Inn to begin.
+- A Friend in Mead - Quest Mod — A charming little quest where you encounter an Argonian courier in Skyrim's taverns with some strange stories to tell about his travels.
+- Werewolf Behemoths — Mihail Monsters and Animals. Massive werewolf variants now roam the wilds, not something you want to stumble into unprepared.
+- Wendigo Creature Mod — A new predatory creature that stalks the night. Watch yourself after dark.
+- Farm Geese — Mihail Monsters and Animals. Lovely geese to bring more life to settlements.
+- Hedgehog In Skyrim — Small, harmless, and delightful. Hedgehogs now roam Skyrim's forests.
+- Barn Owls — Mihail Monsters and Animals. Barn owls now glide through the night, circling barns, stables, farms and towers in search of rodents. A wonderful atmospheric touch.
+- Starfish on Shores — Mihail's Shards of Immersion. Starfish now decorate Skyrim's coasts, lying on sands, clinging to rocks, and resting on the seabed.
+- Dwarven Gear Walker — A curious little dwarven automaton you can recruit as a follower. Find him in the Dwarven Storeroom in Mzulft.
+- Chitin Bow SE — A great-looking new bow craftable at the forge under Elven smithing.
+- House Guard Set by Pulcharmsolis — Distributed to Ogol, the Orc warrior found in Largashbur.
+- Arcane Mage Armor by FafnyB — Distributed to some alchemists such as Arcadia in Whiterun.
+- Dibella's Grace (HDT-SMP) — A beautiful new outfit distributed to the residents of the Temple of Dibella in Markarth.
+- Fuse00 Artificer Armor — Distributed to Sam Guevenne, the Breton conjurer who challenges you to a drinking contest.
+- Dark Apprentice (3BA SMP) — A striking new set distributed to Aranea Ienith, the Dunmer worshipper of Azura.
+
+### Fixes
+
+**Added:**
+- Fixed animations previously not or only partially working due to the switch to Pandora (Bathing in Skyrim, Immersive Interactions).
+- A-Pose Bug Fix - Universal Behavior Runtime — An SKSE plugin that corrects animation and behavior errors at runtime, to put an end to the A-pose freezes.
+- Stuck Underwater Visuals and Sounds Fix SKSE — Fixes that annoying bug where underwater effects stay on screen after surfacing.
+- Lingering Subtitles Fix — Fixes subtitles that stubbornly refuse to disappear after conversations end.
+- Show Player In Menus - Persistent Zoom Fix — Fixes the zoom level resetting to default every time you exit the inventory menu.
+- ShowRaceMenu - NG — Fixes stats, attributes, and levels getting messed up when changing race from the character creation menu.
+- Delphine Skyhaven Bugfix MQ203 — Fixes Delphine getting stuck when entering Sky Haven Temple for the first time.
+
+### Animations
+
+**Removed:**
+- Dynamic Candles - Blow Them Out and Light Again
+- SIGMA - 1st Person Animations Series — Temporarily removed due to issues with weapon reach.
+
+**Added:**
+- Race-based movement animations — Previously, movement animations changed based on the armor type worn. They are now race-dependent, which feels far more natural and opens up more interesting character expression.
+- Faction and follower movesets — This is a big one. Dozens of new movesets have been distributed to followers and factions. Each follower now has a unique moveset based on their main weapon, making them feel more alive and distinct to fight alongside. Sons of Skyrim (city guards and Stormcloaks) and the Imperial Legion also have their own distinctive fighting styles. Lots more to expand on here in the future.
+- Dynamic Dodge Shot - Complete Balance and Integration — Dodge shot is no longer available in heavy armor, instead you'll do a regular dodge. Dodge Shot now also requires 30 stamina; if you're below that, a regular dodge animation kicks in instead.
+- TK Dodge RE Addon — Adds in-game settings for all TK Dodge options. Configure your preferred key through the SKSE Menu Framework (press F7 to open it).
+- Immersive Weapon Switch — Weapons are now automatically sheathed and unsheathed when switching between them.
+- First Person (FP) Inertia and First Person (FP) Camera Settle — Adds satisfying camera and movement inertia to the first person viewmodel. A subtle change that makes movement feel much more grounded.
+- UNDERDOG Animations - OAR — Only select animations from this mod were kept.
+- New Creature Animation - Werewolf
+
+### Visuals
+
+**Added:**
+- Arms of Atmora - Nordic Bronze Weapon Pack — All Ancient Nord Weapons have been replaced with these stunning new models.
+- Thalmor Investigator HDT-SMP Armor by Fuse00 — Used as a replacer for vanilla Thalmor robes. The Thalmor finally look as intimidating as they should.
+- Phantasm - Ghost Replacer — Replaces non-unique vanilla ghosts with spookier versions.
+- Dynamic Bloodpool Framework — A mesh-based, script-free system that generates animated, fluid bloodpools on dead enemies. Gruesome in the best way.
+- Frost Atronach SE by 4thUnknown — Completes the trilogy of visually overhauled atronachs.
+- DD Lydia Replacer ESL 2.0 — A fierce new look for Whiterun's most iconic housecarl.
+- NPC Diversity - Fat People of Skyrim — Only a handful of NPCs from this mod were kept.
+- Divergence - Skytone - Standing Stones — Clean new textures for the standing stones.
+- TB's HD Photorealistic Whiterun Roads — Better-looking dirt roads for Whiterun with improved performance over the previous option.
+- No Grass in Caves — Removes grass in a few caves where it never made sense visually. This should also fix the occasional freeze in Fallowstone Cave caused by Lux.
+
+### UI & Audio
+
+**Added:**
+- Wheeler Refined — A stability and feature overhaul for dTry's Wheeler that keeps the original idea and assets while fixing long-standing bugs and CTDs. Expect smoother gamepad use, direct shout (replacing STB Quick Hotkey Cast) and quick spell casting, new indicators, auto scaling and more.
+- Tween Menu Overhaul — Adds convenient shortcuts to other menus directly from the tween menu: Order Squad, Skyrim Character Sheet, Bestiary, and Photo Mode.
+- Skyrim Character Sheet — A new character overview screen. Will be replaced with Character Menu SE by JPSteel2 in the future once NordenUI support is added.
+- Quest Item Icon — Adds a small quest marker next to active quest items in the inventory.
+- Lore-Friendly Main Menu Compendium (Wallpapers)
+- Less Boring Loading Screens Redux
+- The Sound of Skyrim (Reimagined) — A new optional music overhaul that stays close to the vanilla feel while expanding on it beautifully. Enabled by default — give it a listen before switching it off.
+- The Received Series by LeoMaximus — Stunning new voice effects for several characters: Mephala, Arch-Curate Vyrthur, Lu'ah Al-Skaven, Peryite, Hircine, Nocturnal, and Augur of Dunlain.
+
+### Miscellaneous
+
+**Removed:**
+- Gamepad++
+
+**Added:**
+- Auto Audio Switch — Plug your headphones in or out while the game is running and audio switches outputs automatically. Small quality-of-life addition that removes a genuine annoyance.
+- New LOD option in MO2 under Customize Your Experience — Choose between Full LODs or Performance LODs depending on your setup.
+- Serana Dialogue Expansion — Greatly expands Serana's dialogue. Note that the Romance optional file was not included — you'll need to add it yourself if you want that.
+- Chatty NPCs and Followers — Vanilla NPCs now greet each other, check in on one another, and even talk to your vanilla voiced followers. The world feels more alive as a result.
+- You Reek - Updated — People will now complain when your hygiene has hit rock bottom. Go bathe.
+- Droppable AE Notes — Allows you to drop or store notes and keys from Creation Club content that would otherwise clutter your inventory forever.
+
+And many more fixes and improvements!
+
+---
+
 ## Version 2.4
 
 >[!IMPORTANT]
