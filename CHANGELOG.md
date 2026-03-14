@@ -7,7 +7,7 @@
 >[!IMPORTANT]
 >A new game is required!
 
-> Note: The list has been updated from version 1.5.97 to version 1.6.1170. If you have customized the list with [NoDelete], be aware you may have to update some mods on your side.
+> Note: The list has been updated from version 1.5.97 to version 1.6.1170. If you have customized the list with [NoDelete], be aware you may have to update some of the mods you added.
 
 ### Gameplay
 
