@@ -210,7 +210,7 @@ And many more fixes and improvements!
 
 ---
 
-## Version 2.31.1
+## Version 2.3.3
 
 > Safe to update
 
@@ -221,7 +221,7 @@ And many more fixes and improvements!
 - Added Spell Classes, which attaches a Druidic label to specific spells. Useful when picking the appropriate trait from Biggie Traits.
 
 
-## Version 2.31
+## Version 2.3.2
 
 >[!IMPORTANT]
 >A new game is required!
@@ -597,7 +597,7 @@ Plus a few other tweaks and improvements for smoother performance and gameplay.
 
 ---
 
-## Version 1.83
+## Version 1.8.3
 
 >[!IMPORTANT]
 >A new game is required!
@@ -609,7 +609,7 @@ Plus a few other tweaks and improvements for smoother performance and gameplay.
 
 ---
 
-## Version 1.82
+## Version 1.8.2
 
 >[!IMPORTANT]
 >A new game is required!
@@ -621,7 +621,7 @@ Plus a few other tweaks and improvements for smoother performance and gameplay.
 
 ---
 
-## Version 1.81
+## Version 1.8.1
 
 >[!IMPORTANT]
 >A new game is required!
@@ -730,14 +730,14 @@ And various bug fixes and improvements!
 
 ---
 
-## Version 1.52.2
+## Version 1.5.4
 
 > Safe to update
 
 - Fixed bow's rapid shots (secondary attack) not firing anything.
 
 
-## Version 1.52.1
+## Version 1.5.3
 
 > Safe to update
 
@@ -745,7 +745,7 @@ And various bug fixes and improvements!
 - Fixes invisible Paraglider.
 
 
-## Version 1.52
+## Version 1.5.2
 
 >[!IMPORTANT]
 >A new game is required!
@@ -772,7 +772,7 @@ And various bug fixes and improvements!
 
 ---
 
-## Version 1.51
+## Version 1.5.1
 
 >[!IMPORTANT]
 >A new game is required!
@@ -876,7 +876,7 @@ Many bug fixes and improvements!
 
 ---
 
-## Version 1.1.2
+## Version 1.1.1
 
 > Safe to update
 
@@ -1072,7 +1072,7 @@ Many bug fixes and improvements!
 
 ---
 
-## Version 0.94
+## Version 0.9.6
 
 > This update is theoretically safe to install mid-game, but stability cannot be guaranteed 100%. If you're in the middle of a playthrough, it might be safer to hold off until you're ready. Proceed with caution!
 
@@ -1104,14 +1104,14 @@ Many bug fixes and improvements!
 
 ---
 
-## Version 0.93.1
+## Version 0.9.5
 
 > Safe to update
 
 - Fixed missing outfit parts for Nazeem and Saffir.
 
 
-## Version 0.93
+## Version 0.9.4
 
 >[!IMPORTANT]
 >A new game is required!
@@ -1137,7 +1137,7 @@ Many bug fixes and improvements!
 
 ---
 
-## Version 0.92
+## Version 0.9.3
 
 >[!IMPORTANT]
 >A new game is required!
@@ -1193,7 +1193,7 @@ Many bug fixes and improvements!
 
 ---
 
-## Version 0.91
+## Version 0.9.2
 
 >[!IMPORTANT]
 >A new game is required!
