@@ -131,6 +131,7 @@
 - Chatty NPCs and Followers — Vanilla NPCs now greet each other, check in on one another, and even talk to your vanilla voiced followers. The world feels more alive as a result.
 - You Reek - Updated — People will now complain when your hygiene has hit rock bottom. Go bathe.
 - Droppable AE Notes — Allows you to drop or store notes and keys from Creation Club content that would otherwise clutter your inventory forever.
+- Improved Mod Bundle Trigger (MO2 Plugin) — The script now automatically clears the ENB cache when enabling another ENB, so you no longer have to do it manually.
 
 And many more fixes and improvements!
 
