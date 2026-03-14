@@ -117,7 +117,7 @@
 - Lore-Friendly Main Menu Compendium (Wallpapers)
 - Less Boring Loading Screens Redux
 - The Sound of Skyrim (Reimagined) — A new optional music overhaul that stays close to the vanilla feel while expanding on it beautifully. Enabled by default — give it a listen before switching it off.
-- The Received Series by LeoMaximus — Stunning new voice effects for several characters: Mephala, Arch-Curate Vyrthur, Lu'ah Al-Skaven, Peryite, Hircine, Nocturnal, and Augur of Dunlain.
+- The Revoiced Series by LeoMaximus — Stunning new voice effects for several characters: Mephala, Arch-Curate Vyrthur, Lu'ah Al-Skaven, Peryite, Hircine, Nocturnal, and Augur of Dunlain.
 
 ### Miscellaneous
 
