@@ -24,7 +24,7 @@
 **Added:**
 - True Flasks NG — A complete rethink of the potion system inspired by modern action RPGs. Say goodbye to carrying 200 potions — you now have a set of regenerating flask charges instead, bringing a Souls-like or Cyberpunk-style healing loop to Skyrim.
 - For Honor Reforged — A complete rebuild of For Honor in Skyrim with expanded mechanics and skill-based balance that rewards deliberate, thoughtful play. Check the gameplay-guides channel on Discord for the full breakdown.
-- Parrying RPG — When two characters swing at each other at the same time and their weapons connect, the attacker recoils and deals no damage.
+- Parrying RPG — When two characters swing at each other at the same time and their weapons connect, both actors recoil and deal no damage.
 - Disable Bashing for NPCs — NPCs can no longer use bashing, which cleans up combat.
 - Perfectly Valid Wards — Wards now block melee attacks, arrows, and shouts, and can even reflect spells back at casters. All of this is integrated into the Restoration perk tree, so you'll need to invest in it to unlock the full potential.
 - Knockback SKSE — Melee hits now push enemies back slightly, keeping them at the right distance during combat and avoiding that awkward clipping-into-each-other feeling.
