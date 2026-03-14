@@ -926,15 +926,22 @@ Many bug fixes and improvements!
 
 ## Version 1.0.2
 
+> Safe to update
+
 - Fixed more downloads.
 
 
 ## Version 1.0.1
 
+> Safe to update
+
 - Fixed some downloads.
 
 
 ## Version 1.0
+
+>[!IMPORTANT]
+>A new game is required!
 
 ### Fixes
 - Added Sprint Stuttering Fix
