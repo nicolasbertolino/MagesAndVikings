@@ -1,40 +1,44 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Mages & Vikings",
-    "description": "Some may call this junk. Me, I call this Mages & Vikings.",
+    "title": "Mages \u0026 Vikings",
+    "description": "Some may call this junk. Me, I call this Mages \u0026 Vikings.",
     "author": "SEEYOULHATER",
     "maintainers": [
       "github/nicolasbertolino"
     ],
     "game": "skyrimspecialedition",
+    "official": true,
     "tags": [
       "Official",
       "High Fantasy",
       "SFW"
     ],
-    "official": true,
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/nicolasbertolino/MagesAndVikings/main/banner.webp",
       "readme": "https://github.com/nicolasbertolino/MagesAndVikings/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Mages%20&%20Vikings.wabbajack_680b0b5a-5bff-466b-80f3-855ce4f13514",
+      "download": "https://authored-files.wabbajack.org/Mages \u0026 Vikings.wabbajack_27b89977-bbae-451b-85f2-75aa8fd87264",
       "machineURL": "MagesAndVikings",
-      "discordURL": "https://discord.gg/Newa3dj5pZ"
+      "discordURL": "https://discord.gg/Newa3dj5pZ",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "/X5Rng2DBYI=",
-      "Size": 705132530,
-      "NumberOfArchives": 3462,
-      "SizeOfArchives": 217138936973,
-      "NumberOfInstalledFiles": 267312,
-      "SizeOfInstalledFiles": 354997264202,
-      "TotalSize": 572136201175
+      "Hash": "o8kj1//72fw=",
+      "Size": 488165805,
+      "NumberOfArchives": 3638,
+      "SizeOfArchives": 224680177014,
+      "NumberOfInstalledFiles": 275674,
+      "SizeOfInstalledFiles": 357905493758,
+      "TotalSize": 582585670772
     },
-    "version": "2.40.1"
+    "version": "2.5",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-03-14T15:45:38.6801885Z",
+    "repositoryName": ""
   }
 ]
