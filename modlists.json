@@ -21,24 +21,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/nicolasbertolino/MagesAndVikings/main/banner.webp",
       "readme": "https://github.com/nicolasbertolino/MagesAndVikings/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Mages \u0026 Vikings.wabbajack_97057e9e-4866-4ac5-8f36-f5aeeb58b3ee",
+      "download": "https://authored-files.wabbajack.org/Mages \u0026 Vikings.wabbajack_062e77a3-a820-41e9-9599-6ac1960b48db",
       "machineURL": "MagesAndVikings",
       "discordURL": "https://discord.gg/Newa3dj5pZ",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "cRhl28a70Zg=",
-      "Size": 488614888,
-      "NumberOfArchives": 3637,
-      "SizeOfArchives": 224679838990,
-      "NumberOfInstalledFiles": 275672,
-      "SizeOfInstalledFiles": 357905489719,
-      "TotalSize": 582585328709
+      "Hash": "2ciVMCcK/Xw=",
+      "Size": 487860611,
+      "NumberOfArchives": 3639,
+      "SizeOfArchives": 224711219222,
+      "NumberOfInstalledFiles": 275823,
+      "SizeOfInstalledFiles": 357975435568,
+      "TotalSize": 582686654790
     },
-    "version": "2.5",
+    "version": "2.5.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-03-15T07:40:11.9409673Z",
+    "dateUpdated": "2026-03-15T14:04:23.0321222Z",
     "repositoryName": ""
   }
 ]
