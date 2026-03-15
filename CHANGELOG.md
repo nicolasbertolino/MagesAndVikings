@@ -2,6 +2,18 @@
 
 ---
 
+## Version 2.5.1
+
+> Safe to update
+
+### Gameplay
+- Removed Take a Nap - Sleep on Chairs
+
+### Fixes
+- Removed ShowRaceMenu - NG — It caused racial bonuses from Aetherius - A Race Overhaul to stop working.
+
+---
+
 ## Version 2.5
 
 >[!IMPORTANT]
