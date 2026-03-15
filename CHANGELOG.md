@@ -70,7 +70,7 @@
 
 **Added:**
 - Fixed animations previously not or only partially working due to the switch to Pandora (Bathing in Skyrim, Immersive Interactions).
-- A-Pose Bug Fix - Universal Behavior Runtime — An SKSE plugin that corrects animation and behavior errors at runtime, to put an end to the A-pose freezes.
+- A-Pose Bug Fix - Universal Behavior Runtime — An SKSE plugin that corrects animation to put an end to the A-pose freezes.
 - Stuck Underwater Visuals and Sounds Fix SKSE — Fixes that annoying bug where underwater effects stay on screen after surfacing.
 - Lingering Subtitles Fix — Fixes subtitles that stubbornly refuse to disappear after conversations end.
 - Show Player In Menus - Persistent Zoom Fix — Fixes the zoom level resetting to default every time you exit the inventory menu.
@@ -99,7 +99,7 @@
 - Arms of Atmora - Nordic Bronze Weapon Pack — All Ancient Nord Weapons have been replaced with these stunning new models.
 - Thalmor Investigator HDT-SMP Armor by Fuse00 — Used as a replacer for vanilla Thalmor robes. The Thalmor finally look as intimidating as they should.
 - Phantasm - Ghost Replacer — Replaces non-unique vanilla ghosts with spookier versions.
-- Dynamic Bloodpool Framework — A mesh-based, script-free system that generates animated, fluid bloodpools on dead enemies. Gruesome in the best way.
+- Dynamic Bloodpool Framework — A script-free system that generates animated, fluid bloodpools on dead enemies. Gruesome in the best way.
 - Frost Atronach SE by 4thUnknown — Completes the trilogy of visually overhauled atronachs.
 - DD Lydia Replacer ESL 2.0 — A fierce new look for Whiterun's most iconic housecarl.
 - NPC Diversity - Fat People of Skyrim — Only a handful of NPCs from this mod were kept.
@@ -116,7 +116,7 @@
 - Quest Item Icon — Adds a small quest marker next to active quest items in the inventory.
 - Lore-Friendly Main Menu Compendium (Wallpapers)
 - Less Boring Loading Screens Redux
-- The Sound of Skyrim (Reimagined) — A new optional music overhaul that stays close to the vanilla feel while expanding on it beautifully. Enabled by default — give it a listen before switching it off.
+- The Sound of Skyrim (Reimagined) — A new optional music overhaul that stays close to the vanilla feel while expanding on it beautifully. Enabled by default.
 - The Revoiced Series by LeoMaximus — Stunning new voice effects for several characters: Mephala, Arch-Curate Vyrthur, Lu'ah Al-Skaven, Peryite, Hircine, Nocturnal, and Augur of Dunlain.
 
 ### Miscellaneous
@@ -125,7 +125,7 @@
 - Gamepad++
 
 **Added:**
-- Auto Audio Switch — Plug your headphones in or out while the game is running and audio switches outputs automatically. Small quality-of-life addition that removes a genuine annoyance.
+- Auto Audio Switch — Plug your headphones in or out while the game is running and audio switches outputs automatically.
 - New LOD option in MO2 under Customize Your Experience — Choose between Full LODs or Performance LODs depending on your setup.
 - Serana Dialogue Expansion — Greatly expands Serana's dialogue. Note that the Romance optional file was not included — you'll need to add it yourself if you want that.
 - Chatty NPCs and Followers — Vanilla NPCs now greet each other, check in on one another, and even talk to your vanilla voiced followers. The world feels more alive as a result.
