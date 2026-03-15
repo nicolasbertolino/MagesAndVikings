@@ -37,7 +37,7 @@
 - Perk Point Potion — A rare elixir found in some boss chests that grants a perk point when consumed. More distribution will come in future updates.
 - Simple Werewolf Looting — While in werewolf form, the default interaction with containers is now "Search" rather than "Feed." Press Shift+E if you want to feed from corpses the vanilla way.
 - Faster Reanimation - 25 Percent Faster — The reanimation animation is noticeably shorter, making Conjuration feel snappier in combat.
-- Sensible Dawnguard Start — You can no longer join the Dawnguard just by reaching level 10. You must first complete Laid to Rest, which makes joining the faction feel more earned.
+- Sensible Dawnguard Start — You can no longer join the Dawnguard just by reaching level 10. You must first complete Laid to Rest (the vampire quest in Morthal), which makes joining the faction feel more earned.
 - Companions Radiant Edit - Only Bandits from Farkas — Farkas now only sends you to bandit hives.
 - Slightly increased spawn interval time from world encounters.
 
