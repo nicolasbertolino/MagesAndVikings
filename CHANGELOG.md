@@ -22,7 +22,7 @@
 - Potion Combiner for Apothecary — In favor of True Flasks NG.
 
 **Added:**
-- True Flasks NG — A complete rethink of the potion system inspired by modern action RPGs. Say goodbye to carrying 200 potions — you now have a set of regenerating flask charges instead, bringing a Souls-like or Cyberpunk-style healing loop to Skyrim.
+- True Flasks NG — A complete rethink of the potion system inspired by modern action RPGs. Say goodbye to carrying 200 potions, you now have a set of regenerating flask charges instead, bringing a Souls-like or Cyberpunk-style healing loop to Skyrim.
 - For Honor Reforged — A complete rebuild of For Honor in Skyrim with expanded mechanics and skill-based balance that rewards deliberate, thoughtful play. Check the gameplay-guides channel on Discord for the full breakdown.
 - Parrying RPG — When two characters swing at each other at the same time and their weapons connect, both actors recoil and deal no damage.
 - Disable Bashing for NPCs — NPCs can no longer use bashing, which cleans up combat.
