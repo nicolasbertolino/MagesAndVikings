@@ -11,7 +11,7 @@
 
 ### Fixes
 - Removed ShowRaceMenu - NG — It caused racial bonuses from Aetherius - A Race Overhaul to stop working.
-
+- Patched Candlehearth with Relationship Dialogue Overhaul to remove the duplicated "rent a room" dialogue option.
 
 
 ## Version 2.5
