@@ -44,7 +44,7 @@ While this modlist is optimized as much as possible, **Mages & Vikings** priorit
 
 ---
 
-## Pre-installation  
+# Pre-installation  
 
 Before starting, ensure the following:  
 - You own a **legal, non-pirated version** of the game updated to **1.6.1170** (the latest version).
@@ -68,7 +68,7 @@ Then follow these steps:
 
 ---
 
-## Installation
+# Installation
 
 >[!IMPORTANT]
 >The installation **frequently fails on the first try**. This is normal, please refer to the **If Installation Fails section** below to solve the issues and proceed with the installation.
@@ -121,7 +121,7 @@ If none of the above resolves your problem, refer to the official [Wabbajack Dis
 
 ---
 
-## Post-installation
+# Post-installation
 
 #### Launch Mod Organizer 2
 1. Navigate to the installation location you selected earlier and launch `ModOrganizer.exe`.
