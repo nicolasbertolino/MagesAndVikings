@@ -19,18 +19,13 @@ Join our [Discord Community](https://discord.gg/Newa3dj5pZ) to connect with othe
 
 ---
 
-## Contents
-- [Requirements](#requirements)
+### Contents
+- [System Requirements](#system-requirements)
 - [Pre-installation](#pre-installation)
 - [Installation](#installation)
     - [Starting the installation](#starting-the-installation)
     - [If Installation Fails](#if-installation-fails)
 - [Post-installation](#post-installation)
-
-## Requirements
-
-### Game Version
-**Mages & Vikings** requires **Skyrim Anniversary Edition with all Creation Club content**, version 1.6.1170.
 
 ### System Requirements
 While this modlist is optimized as much as possible, **Mages & Vikings** prioritizes stunning visuals with dense forests, realistic grass, and full ENB effects. To fully enjoy this experience, the following hardware is recommended:
@@ -41,6 +36,9 @@ While this modlist is optimized as much as possible, **Mages & Vikings** priorit
 
 >[!TIP]
 >You can choose separate locations for the modlist installation and the downloads folder – helpful if one of your drives is low on space. Note that after installation, downloads can be safely deleted, but will need to be re-downloaded if you update the list later.
+
+### Game Version
+**Mages & Vikings** requires **Skyrim Anniversary Edition with all Creation Club content**, version 1.6.1170.
 
 ---
 
