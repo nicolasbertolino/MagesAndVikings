@@ -88,8 +88,8 @@ If you're experiencing issues downloading the Curios files, please refer to the 
 - **Missing Manual Downloads**  
 A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically. You can run Wabbajack again to retry the download, or alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack. Files that tend to fail to download include:
   - [Attack - MCO](https://www.nexusmods.com/skyrimspecialedition/mods/175044) Download the file from the mod page, rename the .zip file to `Attack+MCO-DXP+v1.6.0.6.zip` before placing it into the downloads folder.
-  - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/1ipYI-9jwbip-Sw_8D9Gpr-cHmR7nftha/view)
-  - [[Dint999] HairPack02 SSE 1.11](https://drive.google.com/file/d/1YpZYTgllS08MRaqm4AxD7cIfc1wxT24g/view)
+  - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view)
+  - [[Dint999] HairPack02 SSE 1.11](https://drive.google.com/file/d/1ipYI-9jwbip-Sw_8D9Gpr-cHmR7nftha/view)
   - [HDT-SMP Nord Steelheart Armor Patch](https://drive.google.com/file/d/17tGAnd24wOxZvyVhx9Znox46PKu-H7xn/view)
   - [HDT-SMP Nord Steelheart Armor Patch for CBBE 3BA](https://drive.google.com/file/d/1ADieQvqDlyL8wi4zq-Su_mV-dSBrLc7Y/view)
   - [[TalesOfStar] Air Balloons](https://www.patreon.com/file?h=111649008&m=421429268)
