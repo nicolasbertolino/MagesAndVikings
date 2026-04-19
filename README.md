@@ -96,7 +96,7 @@ A common reason for failure is **Missing Manual Downloads**, where Wabbajack cou
   - [Fuse00 Armors](https://www.patreon.com/collection/129990)
   - [Fuse00 Hairstyles](https://www.patreon.com/collection/209996)
   - [SkyrimSE/AE Garbage Collector Logger & Bug Fix](https://www.patreon.com/posts/skyrimse-ae-bug-122807764)
->[!IMPORTANT]
+>[!TIP]
 >Make sure you're logged into a Google account if you're having trouble downloading files from Google Drive.
 
 - **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
