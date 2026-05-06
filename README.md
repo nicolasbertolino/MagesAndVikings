@@ -92,7 +92,7 @@ A common reason for failure is **Missing Manual Downloads**, where Wabbajack cou
   - [[Dint999] HairPack02 SSE 1.11](https://drive.google.com/file/d/1ipYI-9jwbip-Sw_8D9Gpr-cHmR7nftha/view)
   - [HDT-SMP Nord Steelheart Armor Patch](https://drive.google.com/file/d/17tGAnd24wOxZvyVhx9Znox46PKu-H7xn/view)
   - [HDT-SMP Nord Steelheart Armor Patch for CBBE 3BA](https://drive.google.com/file/d/1ADieQvqDlyL8wi4zq-Su_mV-dSBrLc7Y/view)
-  - [[TalesOfStar] Air Balloons](https://www.patreon.com/file?h=111649008&m=421429268)
+  - [[TalesOfStar] Air Balloons](https://drive.google.com/file/d/1_v_dyYT71IaJN-LdJb2WsGTkGFCsjjEl/view)
   - [Fuse00 Armors](https://www.patreon.com/collection/129990)
   - [Fuse00 Hairstyles](https://www.patreon.com/collection/209996)
   - [SkyrimSE/AE Garbage Collector Logger & Bug Fix](https://www.patreon.com/posts/skyrimse-ae-bug-122807764)
