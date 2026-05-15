@@ -3,6 +3,7 @@
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/136238">Nexus Page</a> |
   Installation |
+  <a href="https://gist.github.com/nicolasbertolino/a303a48fcc5f22a0c0e37822a7b786e9">Changelog</a> |
   <a href="https://loadorderlibrary.com/lists/mages-vikings">Load Order Library</a> |
   <a href="https://discord.gg/Newa3dj5pZ">Join at Discord</a> |
   <a href="https://www.youtube.com/@SEEYOULHATER">Watch on YouTube</a> |
