@@ -4,24 +4,25 @@
 
 ## Version 2.5.1
 
-> Safe to update
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+<details><summary>Details</summary>
 
-### Gameplay
+#### Gameplay
 - Removed Take a Nap - Sleep on Chairs
 
-### Fixes
+#### Fixes
 - Removed ShowRaceMenu - NG — It caused racial bonuses from Aetherius - A Race Overhaul to stop working.
-- Patched Candlehearth with Relationship Dialogue Overhaul to remove the duplicated "rent a room" dialogue option.
+- Patched Candlehearth with Relationship Dialogue Overhaul to remove the duplicated "rent a room" dialogue option.</details>
 
 
 ## Version 2.5
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
+<details><summary>Details</summary>
 
-> Note: The list has been updated from version 1.5.97 to version 1.6.1170. If you have customized the list with [NoDelete], be aware you may have to update some of the mods you added.
+_Note: The list has been updated from version 1.5.97 to version 1.6.1170. If you have customized the list with [NoDelete], be aware you may have to update some of the mods you added._
 
-### Gameplay
+#### Gameplay
 
 **Removed:**
 - Wade in Water Redux - Swimming Overhaul — Replaced with Loki's Wade In Water. Swimming is no longer affected by the armor you wear.
@@ -53,7 +54,7 @@
 - Companions Radiant Edit - Only Bandits from Farkas — Farkas now only sends you to bandit hives.
 - Slightly increased spawn interval time from world encounters.
 
-### New Content
+#### New Content
 
 **Removed:**
 - Voidborn - Chakra's Creatures
@@ -78,7 +79,7 @@
 - Fuse00 Artificer Armor — Distributed to Sam Guevenne, the Breton conjurer who challenges you to a drinking contest.
 - Dark Apprentice (3BA SMP) — A striking new set distributed to Aranea Ienith, the Dunmer worshipper of Azura.
 
-### Fixes
+#### Fixes
 
 **Added:**
 - Fixed animations previously not or only partially working due to the switch to Pandora (Bathing in Skyrim, Immersive Interactions).
@@ -89,7 +90,7 @@
 - ShowRaceMenu - NG — Fixes stats, attributes, and levels getting messed up when changing race from the character creation menu.
 - Delphine Skyhaven Bugfix MQ203 — Fixes Delphine getting stuck when entering Sky Haven Temple for the first time.
 
-### Animations
+#### Animations
 
 **Removed:**
 - Dynamic Candles - Blow Them Out and Light Again
@@ -105,7 +106,7 @@
 - UNDERDOG Animations - OAR — Only select animations from this mod were kept.
 - New Creature Animation - Werewolf
 
-### Visuals
+#### Visuals
 
 **Added:**
 - Arms of Atmora - Nordic Bronze Weapon Pack — All Ancient Nord Weapons have been replaced with these stunning new models.
@@ -119,7 +120,7 @@
 - TB's HD Photorealistic Whiterun Roads — Better-looking dirt roads for Whiterun with improved performance over the previous option.
 - No Grass in Caves — Removes grass in a few caves where it never made sense visually. This should also fix the occasional freeze in Fallowstone Cave caused by Lux.
 
-### UI & Audio
+#### UI & Audio
 
 **Added:**
 - Wheeler Refined — A stability and feature overhaul for dTry's Wheeler that keeps the original idea and assets while fixing long-standing bugs and CTDs. Expect smoother gamepad use, direct shout (replacing STB Quick Hotkey Cast) and quick spell casting, new indicators, auto scaling and more.
@@ -131,7 +132,7 @@
 - The Sound of Skyrim (Reimagined) — A new optional music overhaul that stays close to the vanilla feel while expanding on it beautifully. Enabled by default.
 - The Revoiced Series by LeoMaximus — Stunning new voice effects for several characters: Mephala, Arch-Curate Vyrthur, Lu'ah Al-Skaven, Peryite, Hircine, Nocturnal, and Augur of Dunlain.
 
-### Miscellaneous
+#### Miscellaneous
 
 **Removed:**
 - Gamepad++
@@ -145,16 +146,16 @@
 - Droppable AE Notes — Allows you to drop or store notes and keys from Creation Club content that would otherwise clutter your inventory forever.
 - Improved Mod Bundle Trigger (MO2 Plugin) — The script now automatically clears the ENB cache when enabling another ENB, so you no longer have to do it manually.
 
-And many more fixes and improvements!
+And many more fixes and improvements!</details>
 
 ---
 
 ## Version 2.4
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
+<details><summary>Details</summary>
 
-### Gameplay
+#### Gameplay
 
 **Removed:**
 - TK Dodge Attack — Removed due to bugs (added in the previous update). For Honor dodge system has been reintroduced for third person as a result.
@@ -168,7 +169,7 @@ And many more fixes and improvements!
 - Shortage of Shouts - A Stormcrown Addon — Adds new perks and mechanics to make shout-focused builds more interesting.
 - Wade in Water Redux - Swimming Overhaul — Slows down the player when in water based on armor worn.
 
-### New Content
+#### New Content
 
 **Removed:**
 - Bjorn - Fully Voiced Follower — Removed due to constant background quest processing causing excessive script calls.
@@ -186,7 +187,7 @@ And many more fixes and improvements!
 - Realistic Eyeglasses SE — Adds several eyeglasses to Skyrim. Fully enchantable, craftable, lootable, and buyable.
 - DDV - Skyrim Santa SAM II Himbo — New outfit.
 
-### Visuals
+#### Visuals
 
 **Added:**
 - New ENB Choices: Azurite Horizons ENB, Cabbage ENB, Dawnfire Azurite III ENB, Ebony Weathers and ENB - Reborn, Kauz ENB, PI-CHO ENB
@@ -204,7 +205,7 @@ And many more fixes and improvements!
 - HDT-SMP Vanilla Miraak Robes
 - eeekie's Gore Renewed — New look for Gore.
 
-### Miscellaneous
+#### Miscellaneous
 
 **Removed:**
 - Widget Addon - Bathing In Skyrim Renewed — Removed the HUD widget for bathing due to constant multiple script calls.
@@ -219,30 +220,30 @@ And many more fixes and improvements!
 - JellyFishFP TORCH — 1st person animations series
 - SIGMA - Magic Animations - 1st Person
 - Dynamic Tooltips — Displays context-sensitive/runtime-dependent pop-ups when you hover over items, showing details like quest associations, ownership, or spell book magicka costs. Powered by LoreBox.
-- Switched from Nemesis Unlimited Behavior Engine to Pandora Behaviour Engine Plus.
+- Switched from Nemesis Unlimited Behavior Engine to Pandora Behaviour Engine Plus.</details>
 
 ---
 
 ## Version 2.3.3
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+<details><summary>Details</summary>
 
-> Safe to update
-
-### Fixes
+#### Fixes
 - Fixed the wheeler not opening properly when reaching the menus via Tab (bug with Typing Mode).
 
-### UI
-- Added Spell Classes, which attaches a Druidic label to specific spells. Useful when picking the appropriate trait from Biggie Traits.
+#### UI
+- Added Spell Classes, which attaches a Druidic label to specific spells. Useful when picking the appropriate trait from Biggie Traits.</details>
 
 
 ## Version 2.3.2
 
->[!IMPORTANT]
->A new game is required!
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+<details><summary>Details</summary>
 
-### Fixes
+#### Fixes
 - Fixed Olfina Gray-Mane's invisible face.
 
-### Gameplay
+#### Gameplay
 
 **Added:**
 - Candlehearth - An Inn Overhaul — Adds extended inn rentals and safe storage to every inn in Skyrim.
@@ -252,37 +253,39 @@ And many more fixes and improvements!
 - The Taste of Death - Quest Addon — Extends the vanilla quest "The Taste of Death," allowing you to root out the Cult of Namira and bring them to justice.
 - TK Dodge Attack — Inputting an attack while dodging now results in a dodge with a follow-up attack for smoother, more dynamic combat. Side dodges from For Honor in Skyrim have been disabled due to this addition.
 
-### Visuals
+#### Visuals
 
 **Added:**
-- Praedy's Staves AIO - SE — Overhauls Skyrim's staves, giving each staff type and enchantment its own unique appearance.
+- Praedy's Staves AIO - SE — Overhauls Skyrim's staves, giving each staff type and enchantment its own unique appearance.</details>
 
----
 
 ## Version 2.3.1
 
-> Safe to update
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
 
-### Fixes
+<details><summary>Details</summary>
+
+#### Fixes
 - Fixed General Tullius having an invisible face.
 - Fixed clipping issues with plants and a tree in Solitude.
 - Updated Hotkey Reminder to remove superfluous keys.
-- Fixed a crash that occurred when interacting with Fertile Soil.
+- Fixed a crash that occurred when interacting with Fertile Soil.</details>
 
 
 ## Version 2.3
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Fixes & Improvements
+<details><summary>Details</summary>
+
+#### Fixes & Improvements
 - Performance has been improved in the entire Rift area, Riften, Solitude, and Whiterun.
 - Added Player Panting Loop Fix.
 
-### UI
+#### UI
 - Replaced Oathvein UI with Norden UI by the same author.
 
-### Gameplay
+#### Gameplay
 
 **Removed:**
 - Simple Follower Sandbox — Removed due to bugs.
@@ -302,7 +305,7 @@ And many more fixes and improvements!
 - Cult of the World Eater - Dragon Priests Buff Alduin
 - Defeat the Dragon Cult
 
-### Visuals
+#### Visuals
 
 **Removed:**
 - Grand Solitude — Removed due to incompatibility with JK's Interiors. Replaced with Fortified Ramp to Castle Dour and Spaghetti's Cities - Solitude.
@@ -322,7 +325,7 @@ And many more fixes and improvements!
 - PELTAPALOOZA - Special Edition
 - Skeps of Skyrim - Diverse Beehives — Adds fifteen different skeps (rustic beehives) to farms and villages around Skyrim.
 
-### Miscellaneous
+#### Miscellaneous
 
 **Added:**
 - Cheeky Kids — Makes children run up to NPCs and throw random insults at them, with appropriate responses.
@@ -334,16 +337,17 @@ And many more fixes and improvements!
 - New Creature: Dryads — Mihail Monsters and Animals
 - New Creature: Alit (Creature Series pt.4) SE
 - New Creature: Shroom Beetles (Creature Series pt.6) SE
-- Eivor Animations - AC Valhalla Animations Replacer — New movement animations distributed to Orcs.
+- Eivor Animations - AC Valhalla Animations Replacer — New movement animations distributed to Orcs.</details>
 
 ---
 
 ## Version 2.2
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Gameplay
+<details><summary>Details</summary>
+
+#### Gameplay
 
 **Removed:**
 - Essential Favorites — This mod prevented selling items that were in a stack with a favorited one.
@@ -373,7 +377,7 @@ And many more fixes and improvements!
 - SIGMA - 1st Person Animations Series
 - Replaced Quick Light with Lights On - Wearable Lanterns for Immersive Equipment Displays.
 
-### Visuals
+#### Visuals
 
 **Removed:**
 - Riverwood Has Walls — Replaced with ItzIvy's and MissileMann modules.
@@ -391,7 +395,7 @@ And many more fixes and improvements!
 - Iconic's Remastered Paragon Gems
 - Farm Diversity - Feeding Troughs — Base Object Swapper or Model Swapper
 
-### UI
+#### UI
 
 **Removed:**
 - Skyrim Souls RE
@@ -405,7 +409,7 @@ And many more fixes and improvements!
 - Real Skyrim Loading Screen Replacer
 - Shout Menu - Unrelenting Force Main Menu Background Replacer
 
-### New Content
+#### New Content
 
 **Removed:**
 - Kaidan — Great voice acting but poor mic quality. Hopefully the voicelines will be re-recorded in the future.
@@ -427,43 +431,50 @@ And many more fixes and improvements!
 - YY Animation Replacer - Mystic Knight (OAR version) — For Shield + Spell animations.
 - Dragonstar Armor SE
 - Twilight Princess Armor Mashup
-- Simply Realistic Armor and Weapons (Custom NordwarUA Edition) — For the Glass Armor and Shield replacers.
+- Simply Realistic Armor and Weapons (Custom NordwarUA Edition) — For the Glass Armor and Shield replacers.</details>
 
 ---
 
 ## Version 2.1.3
 
-> Safe to update
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+
+<details><summary>Details</summary>
 
 - Integrated the Bestiary into the Main Menu following the removal of Tween Menu Overhaul.
-- Fine-tuned/fixed some controller behaviors.
+- Fine-tuned/fixed some controller behaviors.</details>
 
 
 ## Version 2.1.2
 
-> Safe to update
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+
+<details><summary>Details</summary>
 
 - Replaced NPC Infinite Block Fix - SkyPatcher with NPC Block Loop Fix.
-- Updated controller mapping for a more intuitive setup.
+- Updated controller mapping for a more intuitive setup.</details>
 
 
 ## Version 2.1.1
 
-> Safe to update
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+
+<details><summary>Details</summary>
 
 - Fixed a crash when reaching Falkreath caused by an incorrect mesh.
 - Activating a campfire from Camping Supplies now offers the option to ponder, which opens a new perk tree with survival bonuses for camping enthusiasts.
 - Removed Lore Friendly Embershard.
 - Added Embershard by snozz2004.
-- Standing idle near a fire source for 3 seconds will trigger a warming hands animation. Press LB to exit the animation.
+- Standing idle near a fire source for 3 seconds will trigger a warming hands animation. Press LB to exit the animation.</details>
 
 
 ## Version 2.1
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Gameplay
+<details><summary>Details</summary>
+
+#### Gameplay
 
 **Removed:**
 - Valhalla Combat — Previously used only for the stamina feature. Normal attacks no longer regenerate stamina.
@@ -473,7 +484,7 @@ And many more fixes and improvements!
 - Blade and Blunt - A Combat Overhaul
 - Bow Rapid Combo V3 - Archer Combat Overhaul — Optional third-person-only gameplay for archery, disabled by default. Enable it under the Optionals separator.
 
-### Visuals
+#### Visuals
 
 **Added:**
 - Storm Atronach SE
@@ -481,13 +492,13 @@ And many more fixes and improvements!
 - Ave's Amulets Replacers
 - Ivy's Roads of Whiterun - Base Object Swapper — Replaces Whiterun Plains District roads with dirt textures.
 
-### Fixes
+#### Fixes
 - Modern Brawl Bug Fix — Should fix the For Honor bug that caused bystander NPCs to aggro when using Power Attacks.
 
-### Animations
+#### Animations
 - SIGMA - Sword Animations - 1st Person
 
-### Content
+#### Content
 
 **Added:**
 - Tales of Skyrim - Berserkyr — Discover the north's most fearsome warriors: the berserkers. Encounter new enemies, armors, and quests, and receive the power to transform into a werebear.
@@ -497,21 +508,22 @@ And many more fixes and improvements!
 - Fuse00 Scout HDT-SMP Armor — Distributed to Riften NPCs.
 - Rogue Nord Armor — Distributed to Athis of the Companions.
 
-### UI
+#### UI
 - Follower Stats — See what a follower is good at before hiring them.
 - Skull of Corruption Dream Counter — Adds a HUD widget displaying how many "dreams" you have stored in the Skull of Corruption.
 
-### Miscellaneous
-- Pets of Skyrim - Equipment Extension — Adds the ability to equip collars and packs on other pets from the vanilla game.
+#### Miscellaneous
+- Pets of Skyrim - Equipment Extension — Adds the ability to equip collars and packs on other pets from the vanilla game.</details>
 
 ---
 
 ## Version 2.0
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Gameplay
+<details><summary>Details</summary>
+
+#### Gameplay
 
 **Removed:**
 - Sneak Tools — Removed due to conflicts with Vampire Feeding Tweaks.
@@ -536,7 +548,7 @@ And many more fixes and improvements!
 - Target lock switching now uses the mouse wheel (previously done by moving the mouse around) for better control. This can be adjusted in the True Directional Movement MCM under the Target Lock submenu.
 - Controller Setup — New controller configuration implemented for a more intuitive experience. See the changes in the #controller channel on Discord.
 
-### Visuals
+#### Visuals
 
 **Replaced:**
 - Cabbage ENB with Amon ENB.
@@ -554,14 +566,14 @@ And many more fixes and improvements!
 - DD - Jewelry Replacer by Vergi
 - Salmon Replacer — Mihail Monsters and Animals and Hanging Dead Salmons Replacer — Mihail's Shards of Immersion
 
-### UI & Audio
+#### UI & Audio
 - Oathvein UI — A work-in-progress UI mod not yet available on Nexus. Please note this is a WIP and may have shortcomings, especially in the 21:9 version.
 - Compare Equipment NG
 - Dialogue History
 - Hun Lovaas - Skyrim Fan-Made Combat Music
 - Babbling Brooks - A Water Audio Overhaul
 
-### Miscellaneous
+#### Miscellaneous
 
 **Removed:**
 - Immersive Laundry
@@ -577,16 +589,17 @@ And many more fixes and improvements!
 - JellyFishFP DAGGER — 1st person animations series
 - JellyFishFP CROSSBOW — 1st person animations series
 
-And many more fixes and improvements! Hope you have a blast!
+And many more fixes and improvements! Hope you have a blast!</details>
 
 ---
 
 ## Version 1.9
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Gameplay
+<details><summary>Details</summary>
+
+#### Gameplay
 - Removed Immersive Weapon Switch — Didn't like that you don't get any confirmation when swapping weapons in paused menus (nothing happens visually, which looks like a bug).
 - Removed Spell Hotbar 2 — Ultimately better to cast spells manually: you get better targeting for conjure spells and ground-based spells like walls of fire, it respects charge time constraints, and it's easier to choose between single and dual casting.
 - Added STB Quick Hotkey Cast — Handles quick casting of shouts and powers perfectly while working with the more intuitive vanilla favorites system.
@@ -596,70 +609,71 @@ And many more fixes and improvements! Hope you have a blast!
 - Added Storm Calling Magic 2 — A spell pack by Kittytail.
 - Added 360 Ward — A 360° degree full sphere ward replacer.
 
-### Fixes
+#### Fixes
 - Fixed a faulty Silent Horizons 2 - Shader Core installation.
 
-### Visuals
+#### Visuals
 - Removed NOTWL animation meshes, which were causing stuttering and poor performance.
 - Added Nordic Runestones — Places ancient Nordic runestones throughout Skyrim's landscape.
 
-### Miscellaneous
+#### Miscellaneous
 - Added Northern Roadwatch Garb — A Khajiit-themed light armor set by Pulcharmsolis.
 
-Plus a few other tweaks and improvements for smoother performance and gameplay.
+Plus a few other tweaks and improvements for smoother performance and gameplay.</details>
 
 ---
 
 ## Version 1.8.3
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
+
+<details><summary>Details</summary>
 
 - Removed Dragonborn Reskin - SkyUI Inventory Category and Favorites Icons due to sluggish inventory menu performance.
 - Removed Dynamic Impact - Slash Effects X pending further testing with Sanguine Symphony compatibility.
 - Removed Scrolling Speed NG due to inconsistent functionality and implementation bugs.
-- Reintroduced Oblivion mode of Spell Hotbar for mouse and keyboard.
+- Reintroduced Oblivion mode of Spell Hotbar for mouse and keyboard.</details>
 
----
 
 ## Version 1.8.2
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
+
+<details><summary>Details</summary>
 
 - Temporarily removed QuickLootIE due to causing HUD disappearance issues.
 - Swapped Brown to Green Tundra.
 - Added Dynamic Impact - Slash Effects X.
-- Added Ancient Blood Magic II by Kittytail.
+- Added Ancient Blood Magic II by Kittytail.</details>
 
----
 
 ## Version 1.8.1
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
+
+<details><summary>Details</summary>
 
 - Removed Starfrost - A Survival Overhaul.
-- Added SunHelm Survival and Needs.
+- Added SunHelm Survival and Needs.</details>
 
----
 
 ## Version 1.8
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Gameplay
+<details><summary>Details</summary>
+
+#### Gameplay
 - Removed Skybane - The Logic of Death
 - Removed Blade and Blunt - A Combat Overhaul
 - Removed Journeyman - A Fast Travel Overhaul
 - Reintroduced Chocolate Poise combat system.
 - Added Obscure Magic by Kittytail.
 
-### Visuals
+#### Visuals
 - Added HFs - Silent Sentinels.
 
-### Miscellaneous
+#### Miscellaneous
 - Reverted Better Third Person Selection (BTPS) to older version to temporarily fix random HUD disappearance issues. Please report if you still encounter this problem.
 - Removed Animated Ships due to frequent crash reports.
 - Added DD - Tara Dress by Vergi.
@@ -667,16 +681,17 @@ Plus a few other tweaks and improvements for smoother performance and gameplay.
 - Added Floating Subtitles by powerofthree.
 - Added Dragonborn Reskin - Casting Bar, a visual overhaul for the Casting Bar mod.
 
-Plus several bug fixes and improvements! This update focuses primarily on refining the experience to ensure a smooth and enjoyable gameplay experience.
+Plus several bug fixes and improvements! This update focuses primarily on refining the experience to ensure a smooth and enjoyable gameplay experience.</details>
 
 ---
 
 ## Version 1.7
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Gameplay
+<details><summary>Details</summary>
+
+#### Gameplay
 - Added Scrolling Speed NG — Enables precise movement speed control (on foot and mounted) using mouse wheel while moving with directional keys. Standing still retains normal zoom functionality. Vanilla walk/run toggle has been removed.
 - Nerfed Adamant Two-Handed perks for better balance.
 - Nerfed archery movesets and removed rapid shot abilities.
@@ -691,7 +706,7 @@ Plus several bug fixes and improvements! This update focuses primarily on refini
 - Added Dawnguard Patrols — Introduces nightly Dawnguard patrols with potential vampire ambush encounters.
 - Added Skybane - The Logic of Death — Implements weaknesses and resistances system similar to Know Your Enemy.
 
-### Visuals
+#### Visuals
 - Added Saadia - WeelBones' Overhaul — Visual redesign for Saadia the Redguard.
 - Added Fool of Hearts - A Cicero Visual Replacer — Standalone ESL visual overhaul for Cicero.
 - Added SMP Wind NG — Enhanced weather-dependent wind physics.
@@ -703,7 +718,7 @@ Plus several bug fixes and improvements! This update focuses primarily on refini
 - Added HDT-SMP Creation Backpacks
 - Added Missives - The Witcher Board HD
 
-### Miscellaneous
+#### Miscellaneous
 - Added Scribers - Chakra's Creatures — New enemy spawns in Apocrypha realm.
 - Added Kaidan 2 — Companion mod.
 - Replaced Lights On with Quick Light SE — Removed inventory lantern requirement for lighting.
@@ -711,21 +726,22 @@ Plus several bug fixes and improvements! This update focuses primarily on refini
 - Added JK's Tel Mithryn — Location overhaul.
 - Temporarily removed QuickLoot due to conflicts with latest BTPS versions causing HUD disappearance issues.
 
-And many bug fixes and improvements!
+And many bug fixes and improvements!</details>
 
 ---
 
 ## Version 1.6
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Gameplay
+<details><summary>Details</summary>
+
+#### Gameplay
 - Leveling up no longer requires sleeping.
 - Refined the combat experience with various tweaks and settings adjustments.
 - Added TK Dodge fat roll, which triggers when the player is over-encumbered.
 
-### Visuals
+#### Visuals
 - Added Dawnfire ENB as a new ENB choice. Cabbage ENB is still available under the optional mods.
 - Switched back to Freak's Floral Fields. The latest update brings grass to tundra dirt cliffs.
 - Switched to Vanaheimr - Landscapes, which fits incredibly well with the new grass.
@@ -734,79 +750,84 @@ And many bug fixes and improvements!
 - Added Luxury Lava - High Quality Lava Replacer.
 - Added Diverse Chicken Coops - Base Object Swapper.
 
-### Miscellaneous
+#### Miscellaneous
 - Added GABE'S - SMOOTHCAM — New SmoothCam preset that brings the camera closer to the player. The original SmoothCam preset is still available in the SmoothCam MCM.
 - Added Viper Armor by FafnyB — Distributed to Jenassa.
 - Added Various Book Tags — Adds tags for books in the UI, indicating when they're for quests, skills (specifying which skill), and more.
 
-And various bug fixes and improvements!
+And various bug fixes and improvements!</details>
 
 ---
 
 ## Version 1.5.4
 
-> Safe to update
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
 
-- Fixed bow's rapid shots (secondary attack) not firing anything.
+<details><summary>Details</summary>
+
+- Fixed bow's rapid shots (secondary attack) not firing anything.</details>
 
 
 ## Version 1.5.3
 
-> Safe to update
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+
+<details><summary>Details</summary>
 
 - Fixes Durak teleporting.
-- Fixes invisible Paraglider.
+- Fixes invisible Paraglider.</details>
 
 
 ## Version 1.5.2
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Gameplay
+<details><summary>Details</summary>
+
+#### Gameplay
 - Re-added the block key functionality.
 - Added Boozy Obnoxious and Opulent Bards — Introduces a host of new perks to the Speech tree for enhanced bard roleplay.
 - Replaced Skyrim's Paraglider - ZERO with Skyrim's Paraglider - ONE — Allows inventory swapping between the standard paraglider, magic broom, levitation gem, or dark elf lantern.
 
-### Visuals
+#### Visuals
 - Added Light Magic VFX Edit by Kittytail.
 - Added Kanjs - Nordic Puzzle Door Animated — Remeshed Nordic puzzles with emissive animations and particle effects.
 - Added Chakra's Creatures - Mythical Giants Replacer — Replaces all vanilla Giants with mythical variants.
 - Refined the custom grass mashup for the Rift, the Reach, and the Marsh.
 
-### Miscellaneous
+#### Miscellaneous
 - Added RaceMenu Undress — Provides an "Undress" slider that toggles equipped items in RaceMenu (found under Body).
 - Added Grievous Rose (3BA SMP) — New outfit distributed to Serana.
 - Added The Noble Bones - a Breton Armour Mod — New armor obtainable through a small, spooky dungeon quest.
 
-### Audio
+#### Audio
 - Added Talkative Draugr — Introduces voiced lines in Dovahzul to draugr.
-- Added Voice of Dawn — Adds voicelines to the unique sword Dawnbreaker.
+- Added Voice of Dawn — Adds voicelines to the unique sword Dawnbreaker.</details>
 
----
 
 ## Version 1.5.1
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Gameplay
+<details><summary>Details</summary>
+
+#### Gameplay
 - Re-added the usual dodge key (sprint tapping) and removed For Honor's built-in dodge mechanisms.
 - Added Simple TKDodge Sidestep for the dodge animation.
 - Replaced Bow Charge Plus with Bow Rapid Combo V3 - Archer Combat Overhaul.
 - Removed Hand Placed Enemies - Light (Populated Spawns and Dungeons).
 
-### Visuals
-- Added a custom-made grass mashup — a mix of Folkvangr with Cathedral 3D flowers.
+#### Visuals
+- Added a custom-made grass mashup — a mix of Folkvangr with Cathedral 3D flowers.</details>
 
----
 
 ## Version 1.5
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Miscellaneous
+<details><summary>Details</summary>
+
+#### Miscellaneous
 - Removed the distribution to NPCs of Woodland Wizard Robes due to broken meshes. The set is now simply available at the forge for players to craft.
 - Removed Olenveld quest mod — Too ambitious in scope and would have benefited from being significantly smaller and more polished.
 - Removed Seasons of Skyrim.
@@ -814,7 +835,7 @@ And various bug fixes and improvements!
 - New follower: Thogra gra-Mugur - Orc Follower and Quest — Can be found by the roadside near Nightgate Inn, heading towards Windhelm.
 - Note: Steam Overlay should be disabled for Skyrim (right-click game > Properties > toggle Steam Overlay off) to prevent conflicts with ENB Frame Gen mod.
 
-### Gameplay
+#### Gameplay
 - Added For Honor in Skyrim — New combat system where dodge and parry are no longer active keys to press but instead rely on movements. Moving sideways and attacking will trigger a dodge, while moving backwards and attacking will trigger a parry.
 - Removed Valhalla Combat and Chocolate Poise.
 - Added Pilgrim - A Religion Overhaul — Adds dozens of new deities with powerful shrine effects to the game. Praying at a shrine for the first time grants a Lesser Power called Prayer. This power allows players to meditate in order to receive a blessing from the last shrine they prayed at.
@@ -822,19 +843,20 @@ And various bug fixes and improvements!
 - Added Hand to Hand - An Adamant Addon — Merges Lockpicking and Pickpocketing into a single skill and adds a new perk tree for Hand to Hand combat.
 - Added Stress and Fear - A Dynamic Sanity System — Getting hit in combat increases stress. If enough stress accumulates, it will reduce stamina and magicka. Stress can be reduced by drinking alcohol, eating a warm meal, sleeping in a safe space, petting a dog, playing music, fishing, etc.
 
-### Visuals
+#### Visuals
 - Added Riverwood Has Walls - A Full Overhaul.
 - Added Pigs — Mihail Monsters and Animals.
-- Added STB Active Effects.
+- Added STB Active Effects.</details>
 
 ---
 
 ## Version 1.4
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Gameplay
+<details><summary>Details</summary>
+
+#### Gameplay
 - Added Unlimited Hostile Encounters — While traveling through Skyrim, hostile encounters will now dynamically spawn based on the region and time of day. For example, traveling at night may lead to encounters with zombies, skeletons, werewolves, and vampires.
 - Added Dynamic Scaling Level Attribute — Enemy stats such as health and physical or magical damage will now scale more closely to the player's level.
 - Added Break Staves and Learn Spells — While in your inventory, highlighting a staff and pressing B will allow you to break the staff and learn the spell it casts.
@@ -842,19 +864,20 @@ And various bug fixes and improvements!
 - Added Sanguine Symphony — Overhauls combat visuals with adaptive blood splatters, high-resolution wound textures, detailed decals, and immersive custom sound design.
 - Added Four Seasons - Faster Seasons of Skyrim — Seasons now last 30 in-game days instead of 90, creating a more dynamic seasonal cycle.
 
-### Visuals
+#### Visuals
 - Added Vanaheimr Mountains and Freak's Floral Meadows — Enhances mountains and grass appearance with expected performance improvements.
 - Added Nature of the Wild Lands - Animations Addon — Provides realistic tree animations for improved immersion.
 - Added Woodland Wizard Robes by Pulcharmsolis — Distributed to enemy conjurers to diversify their appearance.
 
-Includes multiple other improvements and fixes. Have fun!
+Includes multiple other improvements and fixes. Have fun!</details>
 
 ---
 
 ## Version 1.3
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
+
+<details><summary>Details</summary>
 
 - Backpacks have been adjusted so that all additional backpacks added by mods now properly display custom items (such as instruments, quest items like the Dragonstone, etc.) without clipping.
 - Added Mortal Vitality - A Player Health Regen Overhaul — Natural health regeneration is now completely disabled. Players must rely on potions, food, perks, enchantments, or racial bonuses (tip: Orcs have 50% increased health regeneration).
@@ -869,14 +892,15 @@ Includes multiple other improvements and fixes. Have fun!
 - Updated HUD: TrueHUD bars now display numbers for better clarity.
 - New outfit: ELLE - Mageali.
 
-Plus many other fixes and improvements throughout the modlist.
+Plus many other fixes and improvements throughout the modlist.</details>
 
 ---
 
 ## Version 1.2
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
+
+<details><summary>Details</summary>
 
 **Added:**
 - Baby Dragon - A Pet Follower
@@ -885,28 +909,31 @@ Plus many other fixes and improvements throughout the modlist.
 - JK's Raven Rock
 - Edmond's Nature Series - DEER
 
-Many bug fixes and improvements!
+Many bug fixes and improvements!</details>
 
 ---
 
 ## Version 1.1.1
 
-> Safe to update
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+
+<details><summary>Details</summary>
 
 - Fixed not being able to allocate skill points when leveling up.
-- Fixed wrong LAlt dodge key in the optional config.
+- Fixed wrong LAlt dodge key in the optional config.</details>
 
 
 ## Version 1.1
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Miscellaneous
+<details><summary>Details</summary>
+
+#### Miscellaneous
 - New follower: Celestine
 - New quest: Siege at Icemoth
 
-### Gameplay
+#### Gameplay
 - Cult of the World Eater - Dragon Priests Buff Alduin and Defeat the Dragon Cult
 - Draugr Horse Mount — Mihail Monsters and Animals
 - Deadlier Poison Skypatcher
@@ -914,54 +941,61 @@ Many bug fixes and improvements!
 - Spell Absorption Rework - A Non-Chance Based System
 - NPC Soul Gem Recharge
 
-### Animations
+#### Animations
 - Removed Malignis Animations - Conditions
 - Added Crouch Sliding
 
-### UI/HUD
+#### UI/HUD
 - Switched to Untarnished
 - Tween Menu Overhaul
 - Can toggle HUD with U key
 
-### Armor/Weapon
-- HDT-SMP Vanilla Armors
+#### Armor/Weapon
+- HDT-SMP Vanilla Armors</details>
 
 ---
 
 ## Version 1.0.3
 
-> Safe to update
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+
+<details><summary>Details</summary>
 
 - Removed SoulsyHUD which caused HUD inconsistencies depending on user setup.
 - Added Sacrificio - Mage Replacer for Illia Aranea Eola (for Aranea).
-- Added Sleipnir Beds - An Upper Class Bed Replacer.
+- Added Sleipnir Beds - An Upper Class Bed Replacer.</details>
 
 
 ## Version 1.0.2
 
-> Safe to update
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
 
-- Fixed more downloads.
+<details><summary>Details</summary>
+
+- Fixed more downloads.</details>
 
 
 ## Version 1.0.1
 
-> Safe to update
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
 
-- Fixed some downloads.
+<details><summary>Details</summary>
+
+- Fixed some downloads.</details>
 
 
 ## Version 1.0
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Fixes
+<details><summary>Details</summary>
+
+#### Fixes
 - Added Sprint Stuttering Fix
 - Added Weapon Switch Animation Fix
 - Added Contextual Crosshair - Crosshair and Detection Meter Fix
 
-### Gameplay
+#### Gameplay
 - Added Spell Hotbar 2
 - Added Elemental Mastery Magic by Kittytail
 - Added Desecration by Darenii
@@ -976,12 +1010,12 @@ Many bug fixes and improvements!
 - Added Camping Plus Plus
 - Added Phantom Horse and Phantom Horse Quest Integration
 
-### Animations
+#### Animations
 - Added Exit Sneak On Sprint
 - Added Smooth Moveset (CPR)
 - Added Immersive Weapon Switch - SKSE Plugin
 
-### Visuals
+#### Visuals
 - Removed TAA Sharpen (made obsolete by DLAA)
 - Removed Leafeater's Whiterun Tree Overhaul SE
 - Removed Skyrim 3D Windmill
@@ -1022,7 +1056,7 @@ Many bug fixes and improvements!
 - Added Praedy's Sky AIO - SE
 - Added HFs - Apple Pie - Remodel
 
-### Armors & Weapons
+#### Armors & Weapons
 - Added Fuse00's Sasrir Armor
 - Added Squire's Plate
 - Added Bocksten Cloak - HDT-SMP
@@ -1052,10 +1086,10 @@ Many bug fixes and improvements!
 - Added FB - Master Thief Armor
 - Added Nord Steelheart Armor
 
-### Quests
+#### Quests
 - Removed The Tools of Kagrenac
 
-### HUD/UI
+#### HUD/UI
 - Added Show Follower Carry Weight
 - Added Desktop Splash Screen
 - Replaced Interesting Casting Bar with Edge UI Like - Casting Bar Patch
@@ -1063,14 +1097,14 @@ Many bug fixes and improvements!
 - Added DwP Reskin - STB Widgets (for Edge UI)
 - Added Description Framework
 
-### Audio
+#### Audio
 - Removed Relaxed Bards
 - Added Magical Potion Sounds
 - Added Depths of Apocrypha - Lurker VSFX Rework
 - Added Enigma Series - Book of the Wild - RE
 - Added Glacia - Ice Wraiths SFX Rework
 
-### Miscellaneous
+#### Miscellaneous
 - Added Diverse and Lootable Firewood - Base Object Swapper
 - Added Shouts of Stallholders
 - Added Ivy - Riverwood Timber Rest - Player Home
@@ -1081,18 +1115,21 @@ Many bug fixes and improvements!
 - Added Put Out The Fires - Dynamic Fire Control System
 - Added Swooderman's Personal Argonian Preset
 - Added Miggyluv's Presets - Jacqueline (Breton)
-- Added Seasons of Skyrim
+- Added Seasons of Skyrim</details>
 
 ---
 
 ## Version 0.9.6
 
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
 > This update is theoretically safe to install mid-game, but stability cannot be guaranteed 100%. If you're in the middle of a playthrough, it might be safer to hold off until you're ready. Proceed with caution!
 
-### Gameplay
+<details><summary>Details</summary>
+
+#### Gameplay
 - Added Horses Unlimited Stamina.
 
-### Visuals
+#### Visuals
 - Fixed a seam outside Ivarstead.
 - Removed Unique Markarth Doors - Security Overhaul SKSE - Base Object Swapper.
 - Added HFs - Archery Target Remodel - Diverse BOS.
@@ -1102,37 +1139,41 @@ Many bug fixes and improvements!
 - Added Golden Dwemer Pipeworks Redone.
 - Added Falmer Huts Animated.
 
-### Armors & Weapons
+#### Armors & Weapons
 - Added Obi's Gladiator Armor.
 
-### Quests
+#### Quests
 - Added The Tools of Kagrenac.
 
-### HUD/UI
+#### HUD/UI
 - Fixed Casting Bars that were incorrectly scaled.
 - Added HD Local Map.
 - Added Local Map Upgrade (note: some transparency issues exist and will be addressed in a future fix by the mod author).
 - Added Ethereal Skill Menu Overhaul.
-- Replaced Alduin's Wall Main Menu Replacer with Mathieu's Souls-Like Minimalist Main Menu.
+- Replaced Alduin's Wall Main Menu Replacer with Mathieu's Souls-Like Minimalist Main Menu.</details>
 
 ---
 
 ## Version 0.9.5
 
-> Safe to update
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
 
-- Fixed missing outfit parts for Nazeem and Saffir.
+<details><summary>Details</summary>
 
+- Fixed missing outfit parts for Nazeem and Saffir.</details>
+
+---
 
 ## Version 0.9.4
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Gameplay
+<details><summary>Details</summary>
+
+#### Gameplay
 - Added Ice Turmoil by Mihail (Monsters and Animals).
 
-### Visuals
+#### Visuals
 - Added Freak's Floral Solstheim.
 - Added Colorful Giant Mushrooms (variant designs for Blackreach).
 - Added Detailed Landscapes - Gleamblossoms and Caveworms in Falmer Hives (BOS).
@@ -1141,21 +1182,22 @@ Many bug fixes and improvements!
 - Replaced Bjorn Refined with A Makeover for Bjorn.
 - Added Nord War Horn 2K-8K by iimlenny.
 
-### Armors & Weapons
+#### Armors & Weapons
 - Removed Sarta - Leather Wrapped Sword.
 - Added Ciri Concept Art Armor (new outfit for Njada Stonearm).
 
-### HUD/UI
-- Added The Dragonborn's Bestiary.
+#### HUD/UI
+- Added The Dragonborn's Bestiary.</details>
 
 ---
 
 ## Version 0.9.3
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Gameplay
+<details><summary>Details</summary>
+
+#### Gameplay
 - Removed Storm Calling Magic 2 and Air Dash.
 - Added Dirt and Blood - Dynamic Visual Effects by JaySerpa.
 - Added Alchemical Appraisal Services — Alchemists can now identify ingredient effects for a fee.
@@ -1165,7 +1207,7 @@ Many bug fixes and improvements!
 - Added New Creature Animation - Dwarven Centurion.
 - Added Be One With The Sword by GiraPomba.
 
-### Visuals
+#### Visuals
 - Removed Northern Fortifications - Riverwood and added Ivy - Riverwood Smelter Addon.
 - Replaced Complex Parallax Texture for Northern Roads with R - Rocky Mossy Complex Parallax for Northern Roads (MuddyBrown version).
 - Added HD Remastered Fort Dawnguard - Complex Parallax.
@@ -1175,26 +1217,26 @@ Many bug fixes and improvements!
 - Added HAG - Occult Orphan Rock by JJerem (location overhaul).
 - Fixed a significant number of water seams.
 
-### Armour
+#### Armour
 - Added Dragon Shell Armor HDT-SMP
 - Added Wanderer Armor HDT-SMP
 - Added Eclipse Mage Outfit HDT-SMP
 
-### HUD/UI
+#### HUD/UI
 - Replaced vanilla player bars (EdgeUI reskin) with TrueHUD.
 - Removed Party Combat Parameters.
 - Replaced A Matter of Time and Widget Mod with STB Widget.
 - Added Modex - A Mod Explorer Menu (AddItemMenu).
 - Several tweaks and enhancements.
 
-### Audio
+#### Audio
 - Removed Ragnarok - Viking Battle Music (combat tracks volume was too low).
 - Added Yggdrasil Music and SoundFX Overhaul.
 - Added Music Replacer Reverter — Keeps vanilla music alongside any soundtrack replacer.
 - Added Khaleesi's Parry SFX for Valhalla — Softer timed block sounds.
 - Added Crackling Fire by Clofas.
 
-### Miscellaneous
+#### Miscellaneous
 - Removed Dark Knight Heavy Padded Armor Set (replaced with Lifesworn Vestiges Armor as the Dawnguard Armor replacer).
 - Removed Kala's Eyes (regular, beast, and vampire).
 - Removed some Fuse Hairstyles (issues with downloads and performance).
@@ -1202,16 +1244,17 @@ Many bug fixes and improvements!
 - Tweaked existing character presets and added new ones.
 - Added Naked Comments Overhaul.
 - Added Sewer Rats — Mihail Monsters and Animals.
-- Added Hollowjack Alghoul Familiar by Mihail (Monsters and Animals).
+- Added Hollowjack Alghoul Familiar by Mihail (Monsters and Animals).</details>
 
 ---
 
 ## Version 0.9.2
 
->[!IMPORTANT]
->A new game is required!
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
-### Gameplay
+<details><summary>Details</summary>
+
+#### Gameplay
 - Removed Scheduling of Sleep — Superseded by Modern Wait Menu features.
 - Removed College of Winterhold entry fee.
 - Removed Immersive Hunting Animations.
@@ -1224,7 +1267,7 @@ Many bug fixes and improvements!
 - Added Simple Hunting Overhaul.
 - Added Hunter's Dream (Quest Mod).
 
-### Visuals
+#### Visuals
 - Removed Wigfrid's Erdtrees.
 - Enhanced Volkihar Keep interior with improved clutter and outfits.
 - Added KS Hairdos - HDT SMP and refined some RaceMenu presets.
@@ -1234,18 +1277,26 @@ Many bug fixes and improvements!
 - Added Ivy - Whiterun Well Overhaul.
 - Made several NPC visual tweaks.
 
-### Miscellaneous
+#### Miscellaneous
 - Added Lifesworn Vestiges - Champion of Arkay armor.
-- Made small tweaks and improvements across the modlist.
+- Made small tweaks and improvements across the modlist.</details>
 
 ---
 
 ## Version 0.9.1
 
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+
+<details><summary>Details</summary>
+
 - Fixed the ENBSeries download link.
 - Removed the Eldritch Blast mod as it was causing installation issues.
-- Refined ENB settings.
+- Refined ENB settings.</details>
+
+---
 
 ## Version 0.9
 
-- Initial release.
+<details><summary>Details</summary>
+
+- Initial release.</details>
