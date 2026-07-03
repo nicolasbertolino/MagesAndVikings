@@ -90,7 +90,6 @@ If you're experiencing issues downloading the Curios files, please refer to the 
 A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically. You can run Wabbajack again to retry the download, or alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack. Files that tend to fail to download include:
   - [Attack - MCO](https://www.nexusmods.com/skyrimspecialedition/mods/175044) Download the file from the mod page, rename the .zip file to `Attack+MCO-DXP+v1.6.0.6.zip` before placing it into the downloads folder.
   - [Remember Installation Choices](https://drive.google.com/file/d/1LhSBhlYglOYkxN_eSMfanIiyhaLdj2kw/view)
-  - [Bethesda Plugin Manager](https://drive.google.com/file/d/1M6JGEG5BhHpG-iGIA13JPdFjhGOMK9kR/view)
   - [BG3 Astarion Hair](https://drive.google.com/file/d/1ji5nc38brDAeDI7P3WRO-8W5rD4V-eHa/view)
   - [Meshes and xml files for SMP](https://drive.google.com/file/d/1pTGolGs4lpy_AvBuJBku0lbKf4L4Gjco/view)
   - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view)
