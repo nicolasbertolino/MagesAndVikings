@@ -1,5 +1,144 @@
 # Mages & Vikings — Full Changelog
 
+## Version 2.6
+
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
+> This update is a bit of everything.
+
+#### Gameplay
+
+- Removed Alchemical Appraisal Services in favor of Training - Alchemy Learns Effects ([link](https://www.nexusmods.com/skyrimspecialedition/mods/161802)) — Trainer Shares Secrets: when you pay an alchemist for training, the session now also grants a chance to discover some effects of ingredients you currently possess, bridging the gap between the ingredient and your understanding of its potential.
+- Removed Chocolate Poise ([link](https://www.nexusmods.com/skyrimspecialedition/mods/70478)) in favor of Blade & Blunt new stagger system.
+- Removed Disable Bashing (for NPCs) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/106409)).
+- Removed Parrying RPG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/81356)).
+- Removed Auto Audio Switch ([link](https://www.nexusmods.com/skyrimspecialedition/mods/134404)), because it's incompatible with Better AltTab ([link](https://www.nexusmods.com/skyrimspecialedition/mods/121342)).
+- Removed Project Gap Close - NPC Sprint Attacks ([link](https://www.nexusmods.com/skyrimspecialedition/mods/130830)).
+- Removed Exalted Enemies ([link](https://www.nexusmods.com/skyrimspecialedition/mods/137280)).
+- Removed Dynamic Scaling Level Attribute ([link](https://www.nexusmods.com/skyrimspecialedition/mods/137012)), because it's incompatible with command spells from the Illusion school (it would revert the NPC health change).
+- Removed TK Dodge RE Addon ([link](https://www.nexusmods.com/skyrimspecialedition/mods/125238)) (the SKSE Framework Menu version), because of bugs.
+- Removed Quest Perk Rewards (QPR) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/136858)), because of bugs.
+- Removed True Flasks NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/170374)), because a button shortcut couldn't be set on gamepad.
+- Removed Vampire Feeding Tweaks ([link](https://www.nexusmods.com/skyrimspecialedition/mods/47225)).
+- Removed Just Bite ([link](https://www.nexusmods.com/skyrimspecialedition/mods/122597)).
+- Removed Simple Hunting Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/95943)), because of several incompatibilities with Quickloot and Simple Werewolf Looting.
+- Removed Engaging Combat - Keep Combat Dynamic at Higher Levels ([link](https://www.nexusmods.com/skyrimspecialedition/mods/132625)).
+- Removed Perk Point Potion ([link](https://www.nexusmods.com/skyrimspecialedition/mods/7231)).
+- Removed Madmen - A Forsworn Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/98579)), a bit unbalanced.
+- Added Modern Stagger Lock Framework ([link](https://github.com/max-su-2019/ModernStaggerLock/releases)) by maxsu, which offers better stagger animations and locks characters in place while they're staggered.
+- Added Simple Stamina Affects Damage ([link](https://www.nexusmods.com/skyrimspecialedition/mods/166879)).
+- Added Regeneration Overhaul - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/168926)), plus some more custom implementations. Note: Blade and Blunt may come back in a future update, once it's been updated to version 4 ([link](https://docs.google.com/document/d/1qCeJ7Tsl2RPIRCWKbgnANIwnqL2yaoTrgknYGPzpPMk/edit?tab=t.0)).
+- Added back Swift Potion NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/78272)).
+- Added Dynamic Feed Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/171366)) as a replacement — replaces Skyrim's clunky vampire feeding UI with a modern, intuitive experience: a clean on-screen prompt appears when looking at valid targets, letting you feed on anyone, anywhere — standing NPCs, sleeping victims, enemies in combat, or fresh corpses.
+- Added Immersive Hunting Animations ([link](https://www.nexusmods.com/skyrimspecialedition/mods/96961)) as a replacement.
+- Added Death Spiral ([link](https://www.nexusmods.com/skyrimspecialedition/mods/185602)) as a replacement — every consecutive hit not blocked or avoided by an enemy with a lower level than the player adds 5% more damage, keeping things challenging even at higher levels.
+- Added Stressful Darkness ([link](https://www.nexusmods.com/skyrimspecialedition/mods/135986)) — expands JaySerpa's Stress and Fear mod; raises your stress level if you're in dark areas inside a dungeon.
+- Added Herbal Drinks and Poultices (madgbi edition) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/156208)) — you can now obtain tea, which among other effects helps reduce stress.
+- Added Player Self Revive ([link](https://www.nexusmods.com/skyrimspecialedition/mods/182847)) — a new alternate death mod: instead of dying from what would be fatal damage, you enter a "bleed out downed state" with a chance to revive yourself before being killed. Paired with Feathers of Kyne - Player Self Revive Redux ([link](https://www.nexusmods.com/skyrimspecialedition/mods/187940)), a new misc item called Feather of Kyne, found in the world, chests, and from merchants, is consumed to provide the self-revive.
+- Added True Cone Shouts - Shout Cone Fix SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/183927)) — shouts now have a wider area of effect.
+- Added Reforged Arcane Archer Pack ([link](https://www.nexusmods.com/skyrimspecialedition/mods/161103)), which nerfs the CC elemental arrows.
+- Added Simple Follower Framework ([link](https://www.nexusmods.com/skyrimspecialedition/mods/174017)) — followers can now sandbox when entering a town or an inn, and are friendly-fire protected, so you can no longer hurt them.
+- Added Intuitive Weaknesses and Resistances ([link](https://www.nexusmods.com/skyrimspecialedition/mods/136238?tab=files&show_file=785103)) — creatures made of frost (Ice Wolf, Frostbite Spiders, ...) are now resistant to their element and weak to the opposite one (fire creatures work the same way in reverse), and certain creatures — mudcrabs, skeletons, gargoyles — are resistant to piercing damage (arrows, bolts). All infos are available through The Dragonborn's Bestiary, accessible from the Tween Menu.
+- Added Aggro Management in Skyrim ([link](https://www.nexusmods.com/skyrimspecialedition/mods/178565)) — adds an aggro management system to NPCs, who now switch targets to whoever attacks them instead of sticking to a single opponent.
+- Changed: removed the ability to propel yourself higher while using the paraglider with Kyne's Wind, for balance purposes. The paraglider now serves one purpose: gliding down (you can still automatically take flight when Tarhiel's Gale is cast).
+- Changed: disabled For Honor ([link](https://www.nexusmods.com/skyrimspecialedition/mods/172176)) back regular attacks parry, in order to streamline combat mechanics.
+- Changed: made most spell tomes purchasable.
+
+#### Visuals
+
+- Removed [TalesOfStar] Air Balloons, following the removal of free access to the mod by its author.
+- Removed R.A.S.S. Rain Ash And Snow Shaders ([link](https://www.nexusmods.com/skyrimspecialedition/mods/22780)), replaced with Cold Breath NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/174838)).
+- Removed Vibrant Weapons EAE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/111430)), because of bugs.
+- Added Horkers of Skyrim - CS ENB CM mesh and texture ([link](https://www.nexusmods.com/skyrimspecialedition/mods/171314)).
+- Added Foxes of Skyrim - CS ENB parallax Fur ([link](https://www.nexusmods.com/skyrimspecialedition/mods/175326)).
+- Added Dogs of Skyrim - Mesh and Texture replacer ([link](https://www.nexusmods.com/skyrimspecialedition/mods/175946)).
+- Added Spider SE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/182638)).
+- Added The Restless Ghost Replacer - Chakra's Creatures ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173457)).
+- Added Canidae - A Wolf Replacer - Realistic Wolves in Skyrim ([link](https://www.nexusmods.com/skyrimspecialedition/mods/182994)).
+- Added Enchantment Effect Replacer SE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/27709)).
+- Added Smooth Terrain ([link](https://www.nexusmods.com/skyrimspecialedition/mods/186875)) — an SKSE plugin that makes landscapes smoother by subdividing terrain meshes.
+- Added Native Mesh Light Flicker Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/186432)) — extends Skyrim's native per-geometry light path to remove the light-slot bottleneck that causes mesh-light flicker in crowded scenes. No more flicker!
+- Added Bobbing Framework - SKSE Plugin ([link](https://www.nexusmods.com/skyrimspecialedition/mods/186081)) — an SKSE plugin that brings subtle, immersive motion to Skyrim's static world.
+
+#### UI
+
+- Removed Follower Stats ([link](https://www.nexusmods.com/skyrimspecialedition/mods/159406)).
+- Removed Legendary Map ([link](https://www.nexusmods.com/skyrimspecialedition/mods/157397)).
+- Removed STB Widgets ([link](https://www.nexusmods.com/skyrimspecialedition/mods/136148)).
+- Removed STB Active Effects ([link](https://www.nexusmods.com/skyrimspecialedition/mods/140002)), because of HUD disappearance issues.
+- Added Dialogue History ([link](https://www.nexusmods.com/skyrimspecialedition/mods/114238)) — keep track of your conversations.
+- Added Character Menu SE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173074)) — easily access your character's details, skills, factions and stats, accessible from the Tween Menu.
+- Added Fresh Ink - Blip for newly received documents ([link](https://www.nexusmods.com/skyrimspecialedition/mods/176622)) — adds an icon for recently received documents, reminding you to read them.
+- Added Icons for Skill Books ([link](https://www.nexusmods.com/skyrimspecialedition/mods/175189)) — adds an inventory icon for every skill book in the game, indicating which skill they belong to.
+- Added Follower Equip Control ([link](https://www.nexusmods.com/skyrimspecialedition/mods/175124)) — lets you perform on followers the same item actions you can perform on yourself through Skyrim's inventory menu, directly from the trade menu: equip weapons, armor, ammo, etc.
+- Added EncounterZone Level Indicator ([link](https://www.nexusmods.com/skyrimspecialedition/mods/177593)) — indicators on load doors showing the delta between player and encounter-zone level, across four tiers: Safe, Careful, Dangerous, and Deadly.
+- Added Alchemist's Notebook ([link](https://www.nexusmods.com/skyrimspecialedition/mods/164108)) — adds a notebook you can access while doing Alchemy to write things down.
+- Changed: replaced loading screens with Lore-Friendly Load Screen Compendium (Loading Screens) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/138294)).
+
+#### Audio
+
+- Removed Yggdrasil Music ([link](https://www.nexusmods.com/skyrimspecialedition/mods/21578)).
+- Added Wheezing Draugr ([link](https://www.nexusmods.com/skyrimspecialedition/mods/177568)) — audio replacer for Draugr, making them sound more ancient, wheezing, and gurgly.
+
+#### Dialogue
+
+- Removed Relationship Dialogue Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/1187)).
+- Added Companions Dialogue Bundle ([link](https://www.nexusmods.com/skyrimspecialedition/mods/93592)) — adds around 120 lines of new, fully voiced dialogue to the Companions.
+- Added You Reek - Updated ([link](https://www.nexusmods.com/skyrimspecialedition/mods/170271)) — makes people complain when you smell your worst; made for Bathing in Skyrim - Renewed.
+
+#### Animations
+
+- Removed Immersive Weapon Switch - SKSE plugin ([link](https://www.nexusmods.com/skyrimspecialedition/mods/139762)).
+- Removed New Creature Animation - Werewolf ([link](https://www.nexusmods.com/skyrimspecialedition/mods/83806)).
+- Added back all SIGMA first-person animations ([link](https://www.nexusmods.com/profile/Sigerious/mods)).
+- Added Open Animation Replacer - RaySense ([link](https://www.nexusmods.com/skyrimspecialedition/mods/175498)) by Smooth — an OAR add-on that provides various conditions using raycast.
+- Added RaySense - Cover Animation ([link](https://www.nexusmods.com/skyrimspecialedition/mods/175504)).
+- Added RaySense - Edge Lookdown ([link](https://www.nexusmods.com/skyrimspecialedition/mods/175514)).
+- Added Simple Wall Lean (RaySense) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/176847)).
+- Added Follower Parkour Plus - Now All NPCs Parkour ([link](https://www.nexusmods.com/skyrimspecialedition/mods/186033)) — uses SkyParkour to let followers vault and climb obstacles.
+- Added Unique Jarl Throne Sitting Animation (OAR) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/174752)).
+- Added MBO - Modern Bash Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/177716)) — overhauls all bashes for third person with more telegraphed animations, applying to both the player and NPCs.
+- Added New Creature Animation - Spider ([link](https://www.nexusmods.com/skyrimspecialedition/mods/179019)) — new animations let spiders perform web-spitting attacks and heavy attacks; frostbite spiders have never been so deadly.
+- Added New Creature Animation - Gargoyle ([link](https://www.nexusmods.com/skyrimspecialedition/mods/181614)) — adds more variety to melee attacks, aerial ambush attacks that finally give their wings a purpose beyond decoration, and a new Stone Form ability where gargoyles revert to a statue when taking excessive damage.
+- Added New Creature Animation - Vampire Lord ([link](https://www.nexusmods.com/skyrimspecialedition/mods/185105)) — adds new animations enhancing the Vampire Lord's imposing presence.
+
+#### Gear
+
+- Changed: both Realistic Eyeglasses SE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/11807)) and Dwemer Fairies SSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/17184)) have been manually redistributed for a more fitting, less spread-out placement.
+- Added many armors and weapons from various authors, distributed to specific enemy factions (necromancers, thieves, bandits, Solstheim bandits, etc.) to give each a unique, distinct look. Future updates will expand on this.
+- Added Weapons Expanded Silver ([link](https://www.nexusmods.com/skyrimspecialedition/mods/168790)) — replacer for vanilla silver swords that also adds missing silver weapon variants: war axe, mace, dagger, battleaxe, warhammer, bow and arrows.
+
+#### Fixes
+
+- Fixed Skyrim's Got Talent - Improve As a Bard ([link](https://www.nexusmods.com/skyrimspecialedition/mods/50357)) high-tier tracks not playing sometimes.
+- Added Stuck Underwater Visuals and Sounds Fix SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173716)).
+- Added Unpoisoned Blocking ([link](https://www.nexusmods.com/skyrimspecialedition/mods/176593)) — stops poison and disease from being systematically applied on blocked hits, for both players and NPCs.
+- Added ShowRaceMenu - NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173086)) — fixes stats, attributes, and levels getting messed up when changing race from the character creation menu.
+- Added Auto Follower Stuck Sneaking Fix SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/176178)).
+- Added First Person Height Fix SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/169904)).
+- Added Collision Sentinel - Crash Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/181445)).
+- Added BGSWaterCollision - CrashFix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/181562)).
+- Added Keep Up - Follower Locomotion Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173685)) — fixes the engine bug that makes followers freeze up behind you, sometimes for a few seconds, sometimes for good until you walk far enough away.
+- Added LOD Refresh Bug Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/187070)) — fixes the vanilla bug where distant LOD never unloads, meaning you could see LOD textures up close (often around terrain).
+- Added Project Combat Event Fixes - Fix NPCs Stuck in Combat ([link](https://www.nexusmods.com/skyrimspecialedition/mods/158459)) — identifies NPCs stuck in combat based on likely indicating factors and fixes the issue.
+- Added Project Bro He's There - Fix followers not starting combat ([link](https://www.nexusmods.com/skyrimspecialedition/mods/175934)) — fixes the annoying problem where followers seem deaf and blind when an enemy engages you in combat.
+
+#### New Content
+
+- Added Sylphs of Glass - Mihail Monsters and Animals ([link](https://www.nexusmods.com/skyrimspecialedition/mods/162401)).
+- Added Dwarven Alarm Sentries - Mihail Monsters and Animals ([link](https://www.nexusmods.com/skyrimspecialedition/mods/162412)).
+- Added Dwarven Scarabs - Mihail Monsters and Animals ([link](https://www.nexusmods.com/skyrimspecialedition/mods/164997)).
+- Added Ring-necked Pheasants - Mihail Monsters and Animals ([link](https://www.nexusmods.com/skyrimspecialedition/mods/95121)).
+- Added Rotten Mudcrabs - Mihail Monsters and Animals ([link](https://www.nexusmods.com/skyrimspecialedition/mods/143937)).
+
+#### Miscellaneous
+
+- Added Optional Quick Start ([link](https://www.nexusmods.com/skyrimspecialedition/mods/63953)) — now you can choose in MO2 between the vanilla start or starting right at the end of the Helgen escape cave. Special thanks to lilebonymace, author of Skyrim Unbound, for accommodating a script specifically to integrate both alternate-start mods in Mages & Vikings.
+- Added AI Overhaul SSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/21654)) — changes many vanilla NPCs' AI to act more realistic and immersive.
+- Added Auto Sheathe ([link](https://www.nexusmods.com/skyrimspecialedition/mods/184516)) — automatically sheathes your weapon in dialogue.
+- Added Time Control ([link](https://www.nexusmods.com/skyrimspecialedition/mods/182012)) — days now have a timescale of 10 and nights default to 20, meaning days will last twice as long as nights.
+- Added Save Reminder SSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/176475)) — receive a notification every 5 minutes to save the game, configurable within the SKSE Menu Framework.
+- Changed: the same way each follower has a unique moveset, each mage follower now has a distinct set of spells with unique visuals, all powered by Darenii's spell series ([link](https://www.nexusmods.com/profile/Darenii/mods)). Note that those spells were not made usable by the player — they're only there to make followers distinct, though a handful of spell tomes have been distributed into the leveled lists.
+
 ---
 
 ## Version 2.5.1
