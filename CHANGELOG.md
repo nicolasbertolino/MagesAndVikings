@@ -24,6 +24,13 @@
 - Removed Engaging Combat - Keep Combat Dynamic at Higher Levels ([link](https://www.nexusmods.com/skyrimspecialedition/mods/132625)).
 - Removed Perk Point Potion ([link](https://www.nexusmods.com/skyrimspecialedition/mods/7231)).
 - Removed Madmen - A Forsworn Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/98579)), a bit unbalanced.
+- Note: in order to properly implement the new Simonrim updates (Adamant, Mysticism, Blade & Blunt, Starfrost) and start fresh, many perk-related mods have been removed. Some of them may be reintroduced in the future in one form or another.
+- Removed Architect - An Adamant Addon ([link](https://www.nexusmods.com/skyrimspecialedition/mods/165724)).
+- Removed Pactbinder - An Adamant Addon ([link](https://www.nexusmods.com/skyrimspecialedition/mods/165902)).
+- Removed Constellations - Additional Player Skills ([link](https://www.nexusmods.com/skyrimspecialedition/mods/117352)).
+- Removed Firmament ([link](https://www.nexusmods.com/skyrimspecialedition/mods/153781)).
+- Removed Biggie Traits ([link](https://www.nexusmods.com/skyrimspecialedition/mods/136384)).
+- Added Apprentice - A Class Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/184858)) — expands Skyrim's character creation mechanics by introducing 18 lore-friendly classes and 32 flavorful traits into the game.
 - Added Modern Stagger Lock Framework ([link](https://github.com/max-su-2019/ModernStaggerLock/releases)) by maxsu, which offers better stagger animations and locks characters in place while they're staggered.
 - Added Simple Stamina Affects Damage ([link](https://www.nexusmods.com/skyrimspecialedition/mods/166879)).
 - Added Regeneration Overhaul - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/168926)).
