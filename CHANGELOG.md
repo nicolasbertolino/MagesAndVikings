@@ -7,7 +7,7 @@
 
 #### Gameplay
 
-- Removed Alchemical Appraisal Services ([link](https://www.nexusmods.com/skyrimspecialedition/mods/107344)) in favor of Training - Alchemy Learns Effects ([link](https://www.nexusmods.com/skyrimspecialedition/mods/161802)) — Trainer Shares Secrets: when you pay an alchemist for training, the session now also grants a chance to discover some effects of ingredients you currently possess, bridging the gap between the ingredient and your understanding of its potential.
+- Removed Alchemical Appraisal Services ([link](https://www.nexusmods.com/skyrimspecialedition/mods/107344)) in favor of Training - Alchemy Learns Effects ([link](https://www.nexusmods.com/skyrimspecialedition/mods/161802)) — when you pay an alchemist for training, the session now also grants a chance to discover some effects of ingredients you currently possess, bridging the gap between the ingredient and your understanding of its potential.
 - Removed Chocolate Poise ([link](https://www.nexusmods.com/skyrimspecialedition/mods/70478)) in favor of Blade & Blunt new stagger system.
 - Removed Disable Bashing (for NPCs) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/106409)).
 - Removed Parrying RPG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/81356)).
@@ -26,11 +26,11 @@
 - Removed Madmen - A Forsworn Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/98579)), a bit unbalanced.
 - Added Modern Stagger Lock Framework ([link](https://github.com/max-su-2019/ModernStaggerLock/releases)) by maxsu, which offers better stagger animations and locks characters in place while they're staggered.
 - Added Simple Stamina Affects Damage ([link](https://www.nexusmods.com/skyrimspecialedition/mods/166879)).
-- Added Regeneration Overhaul - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/168926)), plus some more custom implementations. Note: Blade and Blunt may come back in a future update, once it's been updated to version 4 ([link](https://docs.google.com/document/d/1qCeJ7Tsl2RPIRCWKbgnANIwnqL2yaoTrgknYGPzpPMk/edit?tab=t.0)).
+- Added Regeneration Overhaul - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/168926)).
 - Added back Swift Potion NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/78272)).
-- Added Dynamic Feed Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/171366)) as a replacement — replaces Skyrim's clunky vampire feeding UI with a modern, intuitive experience: a clean on-screen prompt appears when looking at valid targets, letting you feed on anyone, anywhere — standing NPCs, sleeping victims, enemies in combat, or fresh corpses.
-- Added Immersive Hunting Animations ([link](https://www.nexusmods.com/skyrimspecialedition/mods/96961)) as a replacement.
-- Added Death Spiral ([link](https://www.nexusmods.com/skyrimspecialedition/mods/185602)) as a replacement — every consecutive hit not blocked or avoided by an enemy with a lower level than the player adds 5% more damage, keeping things challenging even at higher levels.
+- Added Dynamic Feed Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/171366)) — replaces Skyrim's clunky vampire feeding UI with a modern, intuitive experience: a clean on-screen prompt appears when looking at valid targets, letting you feed on anyone, anywhere — standing NPCs, sleeping victims, enemies in combat, or fresh corpses.
+- Added Immersive Hunting Animations ([link](https://www.nexusmods.com/skyrimspecialedition/mods/96961)).
+- Added Death Spiral ([link](https://www.nexusmods.com/skyrimspecialedition/mods/185602)) — every consecutive hit not blocked or avoided by an enemy with a lower level than the player adds 5% more damage, keeping things challenging even at higher levels.
 - Added Stressful Darkness ([link](https://www.nexusmods.com/skyrimspecialedition/mods/135986)) — expands JaySerpa's Stress and Fear mod; raises your stress level if you're in dark areas inside a dungeon.
 - Added Herbal Drinks and Poultices (madgbi edition) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/156208)) — you can now obtain tea, which among other effects helps reduce stress.
 - Added Player Self Revive ([link](https://www.nexusmods.com/skyrimspecialedition/mods/182847)) — a new alternate death mod: instead of dying from what would be fatal damage, you enter a "bleed out downed state" with a chance to revive yourself before being killed. Paired with Feathers of Kyne - Player Self Revive Redux ([link](https://www.nexusmods.com/skyrimspecialedition/mods/187940)), a new misc item called Feather of Kyne, found in the world, chests, and from merchants, is consumed to provide the self-revive.
@@ -41,7 +41,6 @@
 - Added Aggro Management in Skyrim ([link](https://www.nexusmods.com/skyrimspecialedition/mods/178565)) — adds an aggro management system to NPCs, who now switch targets to whoever attacks them instead of sticking to a single opponent.
 - Changed: removed the ability to propel yourself higher while using the paraglider with Kyne's Wind, for balance purposes. The paraglider now serves one purpose: gliding down (you can still automatically take flight when Tarhiel's Gale is cast).
 - Changed: disabled For Honor ([link](https://www.nexusmods.com/skyrimspecialedition/mods/172176)) back regular attacks parry, in order to streamline combat mechanics.
-- Changed: made most spell tomes purchasable.
 
 #### Visuals
 
@@ -104,8 +103,8 @@
 #### Gear
 
 - Changed: both Realistic Eyeglasses SE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/11807)) and Dwemer Fairies SSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/17184)) have been manually redistributed for a more fitting, less spread-out placement.
-- Added many armors and weapons from various authors, distributed to specific enemy factions (necromancers, thieves, bandits, Solstheim bandits, etc.) to give each a unique, distinct look. Future updates will expand on this.
 - Added Weapons Expanded Silver ([link](https://www.nexusmods.com/skyrimspecialedition/mods/168790)) — replacer for vanilla silver swords that also adds missing silver weapon variants: war axe, mace, dagger, battleaxe, warhammer, bow and arrows.
+- Added many armors and weapons from various authors, distributed to specific enemy factions (necromancers, thieves, bandits, Solstheim bandits, etc.) to give each a unique, distinct look. Future updates will expand on this.
 
 #### Fixes
 
