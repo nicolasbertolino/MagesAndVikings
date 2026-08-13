@@ -7,7 +7,7 @@
 
 #### Gameplay
 
-- Removed Alchemical Appraisal Services in favor of Training - Alchemy Learns Effects ([link](https://www.nexusmods.com/skyrimspecialedition/mods/161802)) — Trainer Shares Secrets: when you pay an alchemist for training, the session now also grants a chance to discover some effects of ingredients you currently possess, bridging the gap between the ingredient and your understanding of its potential.
+- Removed Alchemical Appraisal Services ([link](https://www.nexusmods.com/skyrimspecialedition/mods/107344)) in favor of Training - Alchemy Learns Effects ([link](https://www.nexusmods.com/skyrimspecialedition/mods/161802)) — Trainer Shares Secrets: when you pay an alchemist for training, the session now also grants a chance to discover some effects of ingredients you currently possess, bridging the gap between the ingredient and your understanding of its potential.
 - Removed Chocolate Poise ([link](https://www.nexusmods.com/skyrimspecialedition/mods/70478)) in favor of Blade & Blunt new stagger system.
 - Removed Disable Bashing (for NPCs) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/106409)).
 - Removed Parrying RPG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/81356)).
