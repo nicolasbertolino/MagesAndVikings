@@ -67,7 +67,6 @@
 - Added Canidae - A Wolf Replacer - Realistic Wolves in Skyrim ([link](https://www.nexusmods.com/skyrimspecialedition/mods/182994)).
 - Added Enchantment Effect Replacer SE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/27709)).
 - Added Smooth Terrain ([link](https://www.nexusmods.com/skyrimspecialedition/mods/186875)) — an SKSE plugin that makes landscapes smoother by subdividing terrain meshes.
-- Added Native Mesh Light Flicker Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/186432)) — extends Skyrim's native per-geometry light path to remove the light-slot bottleneck that causes mesh-light flicker in crowded scenes. No more flicker!
 - Added Bobbing Framework - SKSE Plugin ([link](https://www.nexusmods.com/skyrimspecialedition/mods/186081)) — an SKSE plugin that brings subtle, immersive motion to Skyrim's static world.
 
 #### UI
