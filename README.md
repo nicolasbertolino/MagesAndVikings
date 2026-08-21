@@ -69,7 +69,7 @@ Then follow these steps:
 # Installation
 
 >[!IMPORTANT]
->The installation **can fail on the first try**. This is normal, please refer to the **If Installation Fails section** below to solve the issues and proceed with the installation.
+>The installation **sometimes fails on the first try**. This is normal, please refer to the **If Installation Fails section** below to solve the issues and proceed with the installation.
 
 ### Starting the installation
 
