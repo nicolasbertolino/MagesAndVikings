@@ -52,7 +52,6 @@
 - Added Aggro Management in Skyrim ([link](https://www.nexusmods.com/skyrimspecialedition/mods/178565)) — adds an aggro management system to NPCs, who now switch targets to whoever attacks them instead of sticking to a single opponent.
 - Added Apprentice - A Class Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/169288)) — expands Skyrim's character creation mechanics by introducing 18 lore-friendly classes and 32 flavorful traits into the game.
 - Changed: removed the ability to propel yourself higher while using the paraglider with Kyne's Wind, for balance purposes. The paraglider now serves one purpose: gliding down (you can still automatically take flight when Tarhiel's Gale is cast).
-- Changed: disabled For Honor ([link](https://www.nexusmods.com/skyrimspecialedition/mods/172176)) back regular attacks parry, in order to streamline combat mechanics.
 
 #### Visuals
 
