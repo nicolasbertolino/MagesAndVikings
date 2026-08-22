@@ -146,7 +146,7 @@
 - Added Auto Sheathe ([link](https://www.nexusmods.com/skyrimspecialedition/mods/184516)) — automatically sheathes your weapon in dialogue.
 - Added Time Control ([link](https://www.nexusmods.com/skyrimspecialedition/mods/182012)) — days now have a timescale of 10 and nights default to 20, meaning days will last twice as long as nights.
 - Added Save Reminder SSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/176475)) — receive a notification every 5 minutes to save the game, configurable within the SKSE Menu Framework.
-- Changed: the same way each follower has a unique moveset, each mage follower now has a distinct set of spells with unique visuals, all powered by Darenii's spell series ([link](https://www.nexusmods.com/profile/Darenii/mods)). Note that those spells were not made usable by the player — they're only there to make followers distinct, though a handful of spell tomes have been distributed into the leveled lists.
+- Changed: the same way each follower has a unique moveset, each mage follower now has a distinct set of spells with unique visuals, all powered by Darenii's spell series ([link](https://www.nexusmods.com/profile/Darenii/mods)). Note that those spells were not made usable by the player, they're only there to make followers distinct, though a handful of spell tomes have been distributed into the leveled lists.
 
 ---
 
