@@ -82,7 +82,7 @@
 - Added Follower Equip Control ([link](https://www.nexusmods.com/skyrimspecialedition/mods/175124)) — lets you perform on followers the same item actions you can perform on yourself through Skyrim's inventory menu, directly from the trade menu: equip weapons, armor, ammo, etc.
 - Added EncounterZone Level Indicator ([link](https://www.nexusmods.com/skyrimspecialedition/mods/177593)) — indicators on load doors showing the delta between player and encounter-zone level, across four tiers: Safe, Careful, Dangerous, and Deadly.
 - Added Alchemist's Notebook ([link](https://www.nexusmods.com/skyrimspecialedition/mods/164108)) — adds a notebook you can access while doing Alchemy to write things down.
-- Changed: replaced loading screens with Lore-Friendly Load Screen Compendium (Loading Screens) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/138294)).
+- Added Lore-Friendly Load Screen Compendium (Loading Screens) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/138294)).
 
 #### Audio
 
