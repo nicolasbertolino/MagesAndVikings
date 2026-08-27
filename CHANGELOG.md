@@ -30,12 +30,7 @@
 - Removed Constellations - Additional Player Skills ([link](https://www.nexusmods.com/skyrimspecialedition/mods/117352)).
 - Removed Firmament ([link](https://www.nexusmods.com/skyrimspecialedition/mods/153781)).
 - Removed Biggie Traits ([link](https://www.nexusmods.com/skyrimspecialedition/mods/136384)).
-- Removed Blade and Blunt - A Combat Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/34549)), in favor of a more modular implementation.
-- Added Blade and Blunt - Armor Rating Scaling Standalone ([link](https://www.nexusmods.com/skyrimspecialedition/mods/127230)).
-- Added Better Jumping - Stamina Cost ([link](https://www.nexusmods.com/skyrimspecialedition/mods/165685)).
-- Added Stamina of Shooting - drawing bow costs stamina ([link](https://www.nexusmods.com/skyrimspecialedition/mods/105814)).
-- Added Simple Stamina Affects Damage ([link](https://www.nexusmods.com/skyrimspecialedition/mods/166879)).
-- Added Regeneration Overhaul - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/168926)).
+- Added Apprentice - A Class Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/169288)) — expands Skyrim's character creation mechanics by introducing 18 lore-friendly classes and 32 flavorful traits into the game.
 - Added Simple Stagger NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/185797)).
 - Added Modern Stagger Lock Framework ([link](https://github.com/max-su-2019/ModernStaggerLock/releases)) by maxsu, which offers better stagger animations and locks characters in place while they're staggered.
 - Added back Swift Potion NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/78272)).
@@ -50,7 +45,6 @@
 - Added Simple Follower Framework ([link](https://www.nexusmods.com/skyrimspecialedition/mods/174017)) — followers can now sandbox when entering a town or an inn, and are friendly-fire protected, so you can no longer hurt them.
 - Added Intuitive Weaknesses and Resistances ([link](https://www.nexusmods.com/skyrimspecialedition/mods/136238?tab=files&show_file=785103)) — creatures made of frost (Ice Wolf, Frostbite Spiders, ...) are now resistant to their element and weak to the opposite one (fire creatures work the same way in reverse), and certain creatures — mudcrabs, skeletons, gargoyles — are resistant to piercing damage (arrows, bolts). All infos are available through The Dragonborn's Bestiary, accessible from the Tween Menu.
 - Added Aggro Management in Skyrim ([link](https://www.nexusmods.com/skyrimspecialedition/mods/178565)) — adds an aggro management system to NPCs, who now switch targets to whoever attacks them instead of sticking to a single opponent.
-- Added Apprentice - A Class Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/169288)) — expands Skyrim's character creation mechanics by introducing 18 lore-friendly classes and 32 flavorful traits into the game.
 - Changed: removed the ability to propel yourself higher while using the paraglider with Kyne's Wind, for balance purposes. The paraglider now serves one purpose: gliding down (you can still automatically take flight when Tarhiel's Gale is cast).
 
 #### Visuals
