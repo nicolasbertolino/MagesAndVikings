@@ -11,6 +11,9 @@
 - Removed Chocolate Poise ([link](https://www.nexusmods.com/skyrimspecialedition/mods/70478)) as part of a full stagger mechanics rework.
 - Removed Disable Bashing (for NPCs) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/106409)).
 - Removed Parrying RPG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/81356)).
+- Removed Attack - MCO ([link](https://www.nexusmods.com/skyrimspecialedition/mods/175044)).
+- Removed One Click Power Attack NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/60878)).
+- Removed For Honor Reforged ([link](https://www.nexusmods.com/skyrimspecialedition/mods/172176)) and For Honor Reforged - First Person Addon ([link](https://www.nexusmods.com/skyrimspecialedition/mods/172666)).
 - Removed Auto Audio Switch ([link](https://www.nexusmods.com/skyrimspecialedition/mods/134404)), because it's incompatible with Better AltTab ([link](https://www.nexusmods.com/skyrimspecialedition/mods/121342)).
 - Removed Project Gap Close - NPC Sprint Attacks ([link](https://www.nexusmods.com/skyrimspecialedition/mods/130830)).
 - Removed Exalted Enemies ([link](https://www.nexusmods.com/skyrimspecialedition/mods/137280)).
@@ -31,6 +34,9 @@
 - Removed Firmament ([link](https://www.nexusmods.com/skyrimspecialedition/mods/153781)).
 - Removed Biggie Traits ([link](https://www.nexusmods.com/skyrimspecialedition/mods/136384)).
 - Added Apprentice - A Class Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/169288)) — expands Skyrim's character creation mechanics by introducing 18 lore-friendly classes and 32 flavorful traits into the game.
+- Added BFCO - Attack Behavior Framework ([link](https://www.nexusmods.com/skyrimspecialedition/mods/117052)) and BFCO NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/160505)).
+- Added Modern Vanilla Combat (MVC) - A BFCO Animation Set ([link](https://www.nexusmods.com/skyrimspecialedition/mods/179612)).
+- Added BFCO-MCO Pickaxe moveset ([link](https://www.nexusmods.com/skyrimspecialedition/mods/119457)).
 - Added Simple Stagger NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/185797)).
 - Added Modern Stagger Lock Framework ([link](https://github.com/max-su-2019/ModernStaggerLock/releases)) by maxsu, which offers better stagger animations and locks characters in place while they're staggered.
 - Added back Swift Potion NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/78272)).
@@ -136,6 +142,8 @@
 #### Miscellaneous
 
 - Added Optional Quick Start ([link](https://www.nexusmods.com/skyrimspecialedition/mods/63953)) — now you can choose in MO2 between the vanilla start or starting right at the end of the Helgen escape cave. Special thanks to lilebonymace, author of Skyrim Unbound, for accommodating a script specifically to integrate both alternate-start mods in Mages & Vikings.
+- Added Texture Downscaler ([link](https://www.nexusmods.com/skyrimspecialedition/mods/187049)), as an optional mod — loads textures at a lower resolution at runtime to free up video memory (VRAM).
+- Added Cached Recursive Directory Walk ([link](https://www.nexusmods.com/skyrimspecialedition/mods/186434)) — generates a cache of the game that greatly speeds up startup times.
 - Added AI Overhaul SSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/21654)) — changes many vanilla NPCs' AI to act more realistic and immersive.
 - Added Auto Sheathe ([link](https://www.nexusmods.com/skyrimspecialedition/mods/184516)) — automatically sheathes your weapon in dialogue.
 - Added Time Control ([link](https://www.nexusmods.com/skyrimspecialedition/mods/182012)) — days now have a timescale of 10 and nights default to 20, meaning days will last twice as long as nights.
