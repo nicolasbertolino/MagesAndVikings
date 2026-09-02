@@ -38,15 +38,12 @@ While this modlist is optimized as much as possible, **Mages & Vikings** priorit
 >[!TIP]
 >You can choose separate locations for the modlist installation and the downloads folder – helpful if one of your drives is low on space. Note that after installation, downloads can be safely deleted, but will need to be re-downloaded if you update the list later.
 
-### Game Version
-**Mages & Vikings** requires **Skyrim Anniversary Edition with all Creation Club content**, version 1.6.1170.
-
 ---
 
 # Pre-installation  
 
 Before starting, ensure the following:  
-- You own a **legal, non-pirated version** of the game updated to **1.6.1170** (the latest version).
+- You own a legal, non-pirated version of the game with **all Creation Club content** updated to **1.7.104** (the latest version).
 - You are running an **up-to-date version of Windows**. Download and install the following dependencies:  
     - [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
     - [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer)  
