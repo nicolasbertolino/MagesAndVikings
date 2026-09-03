@@ -82,23 +82,6 @@ Then follow these steps:
 - **Unable to download 'Curios' files**  
 If you're experiencing issues downloading the Curios files, please refer to the relevant section in the [Wabbajack Troubleshooting FAQ](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html#unable-to-download-curios-files).
 
-- **Missing Manual Downloads**  
-A common reason for failure is **Missing Manual Downloads**, where Wabbajack could not download certain files automatically. You can run Wabbajack again to retry the download, or alternatively, manually download the missing files. Place these files in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack. Files that tend to fail to download include:
-  - [Attack - MCO](https://www.nexusmods.com/skyrimspecialedition/mods/175044) Download the file from the mod page, rename the .zip file to `Attack+MCO-DXP+v1.6.0.6.zip` before placing it into the downloads folder.
-  - [Remember Installation Choices](https://drive.google.com/file/d/1LhSBhlYglOYkxN_eSMfanIiyhaLdj2kw/view)
-  - [BG3 Astarion Hair](https://drive.google.com/file/d/1ji5nc38brDAeDI7P3WRO-8W5rD4V-eHa/view)
-  - [Meshes and xml files for SMP](https://drive.google.com/file/d/1pTGolGs4lpy_AvBuJBku0lbKf4L4Gjco/view)
-  - [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view)
-  - [[Dint999] HairPack02 SSE 1.11](https://drive.google.com/file/d/1ipYI-9jwbip-Sw_8D9Gpr-cHmR7nftha/view)
-  - [HDT-SMP Nord Steelheart Armor Patch](https://drive.google.com/file/d/17tGAnd24wOxZvyVhx9Znox46PKu-H7xn/view)
-  - [HDT-SMP Nord Steelheart Armor Patch for CBBE 3BA](https://drive.google.com/file/d/1ADieQvqDlyL8wi4zq-Su_mV-dSBrLc7Y/view)
-  - [[TalesOfStar] Air Balloons](https://drive.google.com/file/d/1_v_dyYT71IaJN-LdJb2WsGTkGFCsjjEl/view)
-  - [Fuse00 Armors](https://www.patreon.com/collection/129990)
-  - [Fuse00 Hairstyles](https://www.patreon.com/collection/209996)
-  - [SkyrimSE/AE Garbage Collector Logger & Bug Fix](https://www.patreon.com/posts/skyrimse-ae-bug-122807764)
->[!TIP]
->Log into a Google account if you're having trouble downloading files from Google Drive.
-
 - **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
 If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
    1. Press the **Windows Key**.  
