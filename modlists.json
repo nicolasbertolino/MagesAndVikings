@@ -25,7 +25,12 @@
       "machineURL": "MagesAndVikings",
       "discordURL": "https://discord.gg/Newa3dj5pZ",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "503539",
+        "slug": "agq2zq",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "S0ZABCtiKmk=",
