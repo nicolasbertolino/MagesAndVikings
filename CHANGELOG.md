@@ -3,6 +3,7 @@
 ## Version 2.6.1
 
 ![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+> Not So Naked Edition
 
 #### Fixes
 
