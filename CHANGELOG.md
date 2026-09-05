@@ -4,9 +4,10 @@
 
 ![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
 
-#### Fixes
+#### UI
 
 - Added Character Menu SE - Simonrim Patches ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173827)) to fix Character Menu displaying the wrong Class and Trait attributes.
+- Added back SkyUI's active effect widgets, following the removal of Skyrim Part Sheet.
 
 ## Version 2.6.1
 
