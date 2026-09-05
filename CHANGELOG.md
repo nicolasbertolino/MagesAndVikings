@@ -1,5 +1,29 @@
 # Mages & Vikings — Full Changelog
 
+## Version 2.6.1
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+
+#### Fixes
+
+- Fixed naked NPCs.
+- Fixed Modern Vanilla Combat ([link](https://www.nexusmods.com/skyrimspecialedition/mods/179612)) — the sword's 4th hit wasn't landing.
+- Fixed elven armor stretching to the ground by replacing the models with those from AURIDON - New Elven Armors and Weapons ([link](https://www.nexusmods.com/skyrimspecialedition/mods/188728)).
+
+#### Visuals
+
+- Updated Amon ENB ([link](https://www.nexusmods.com/skyrimspecialedition/mods/99786)).
+- Updated Pi-Cho ([link](https://www.nexusmods.com/skyrimspecialedition/mods/35082)).
+- Changed: the list now ships with Kauz ENB ([link](https://www.nexusmods.com/skyrimspecialedition/mods/111431)) enabled by default, which has made tremendous improvements.
+
+#### UI
+
+- Removed Skyrim Party Sheet ([link](https://www.nexusmods.com/skyrimspecialedition/mods/167538)), because of inconsistencies across different screen resolutions.
+
+#### Miscellaneous
+
+- Changed: set Target Lock back to Mouse3 and Power Attack to Mouse5 to avoid confusion.
+
 ## Version 2.6
 
 ![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
