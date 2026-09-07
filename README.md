@@ -82,9 +82,6 @@ Then follow these steps:
 - **Unable to download Curios files**  
 If you're experiencing issues downloading `Data_ccbgssse037-curios`, please refer to the relevant section in the [Wabbajack Troubleshooting FAQ](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html#unable-to-download-curios-files).
 
-- **Unable to download High Poly Head**  
-Manually download [High Poly Head v1.4 (SE)](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq/view). Log into a Google account if you're having trouble downloading from Google Drive. Place the file in the same directory as your other downloads (by default, this is `[Your Installation]\downloads`) before restarting Wabbajack.
-
 - **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
 If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
    1. Press the **Windows Key**.  
