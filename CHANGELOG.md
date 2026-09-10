@@ -24,7 +24,6 @@
 
 - Updated Amon ENB ([link](https://www.nexusmods.com/skyrimspecialedition/mods/99786)).
 - Updated Pi-Cho ([link](https://www.nexusmods.com/skyrimspecialedition/mods/35082)).
-- Changed: the list now ships with Kauz ENB ([link](https://www.nexusmods.com/skyrimspecialedition/mods/111431)) enabled by default, which has made tremendous improvements.
 
 #### UI
 
