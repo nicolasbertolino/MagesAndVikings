@@ -1,18 +1,93 @@
 # Mages & Vikings — Full Changelog
 
+## Version 2.7
+
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
+> This update is all about refining the systems in place, and fixing major and minor bugs across the board.
+
+#### Gameplay
+
+- Removed Stress and Fear - A Dynamic Sanity System ([link](https://www.nexusmods.com/skyrimspecialedition/mods/116522)).
+- Removed Lights On - Wearable Lanterns for Immersive Equipment Displays ([link](https://www.nexusmods.com/skyrimspecialedition/mods/85575)).
+- Removed Player Self Revive ([link](https://www.nexusmods.com/skyrimspecialedition/mods/182847)) — going forward we'll only use Feathers of Kyne - An Alternate Death Mod ([link](https://www.nexusmods.com/skyrimspecialedition/mods/179680)).
+- Removed Simple Portable Cooking ([link](https://www.nexusmods.com/skyrimspecialedition/mods/101233)).
+- Removed Staff Enhanced Magicka ([link](https://www.nexusmods.com/skyrimspecialedition/mods/69735)).
+- Removed Perfectly Valid Wards ([link](https://www.nexusmods.com/skyrimspecialedition/mods/153401)) — temporarily; it'll be properly reimplemented in a future update.
+- Removed Better Carriage Destinations ([link](https://www.nexusmods.com/skyrimspecialedition/mods/164485)).
+- Removed Horse Whistle Key ([link](https://www.nexusmods.com/skyrimspecialedition/mods/72165)), because of a bug with CC Horse Armors.
+- Added Simplest Horses (and other mounts) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/54225)) — lets us keep a hotkey to call the horse (H by default).
+- Added CC Horse Armor - No Blacksmith Dialogue ([link](https://www.nexusmods.com/skyrimspecialedition/mods/59164)) — removes horse-armor-related dialogue when speaking to blacksmiths, but leaves it in when speaking to horse stable workers.
+- Added Cure Disease Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/185399)) — Cure Disease Potions now lower the effectiveness of diseases by 50% for 10 minutes, and sleeping for a minimum of 6 hours removes all diseases.
+- Added Losing Your Temper - An Equipment Durability Mod ([link](https://www.nexusmods.com/skyrimspecialedition/mods/182493)) — armor and weapons can now lose temper through Skyrim's vanilla tempering system, reducing their effectiveness and altering their stats. Repair them at the forge or ask a blacksmith to do it for you.
+
+#### Visuals
+
+- Removed DarkDukla Eye ([link](https://www.nexusmods.com/skyrimspecialedition/mods/68347)), because it causes CTDs.
+- Added Native Mesh Light Flicker Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/186432)) — extends Skyrim's native per-geometry light path to remove the light-slot bottleneck that causes mesh-light flicker in crowded scenes. No more flicker!
+- Added Daedric Armor Redone - PBR and CM ([link](https://www.nexusmods.com/skyrimspecialedition/mods/190210)) — a modern look for the vanilla Daedric armor.
+- Added Flying Animations - Ghosts ([link](https://www.nexusmods.com/skyrimspecialedition/mods/192267)) — replaces ghost locomotion and combat animations with flying animations.
+- Added Cinematic DoF Standalone ([link](https://www.nexusmods.com/skyrimspecialedition/mods/190326)) — a standalone depth-of-field mod designed for optimal gameplay; used in place of all ENB presets' depth-of-field.
+
+#### UI
+
+- Removed Tween Menu Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/143275)).
+- Removed Swiftly Order Squad - Follower Commands UI ([link](https://www.nexusmods.com/skyrimspecialedition/mods/63259)).
+- Added STB Widgets ([link](https://www.nexusmods.com/skyrimspecialedition/mods/136148)).
+- Added Item Preview Auto Spinning ([link](https://www.nexusmods.com/skyrimspecialedition/mods/181002)).
+- Added Quest Journal Overhaul - Entire Journal Redesigned ([link](https://www.nexusmods.com/skyrimspecialedition/mods/191303)) — a redesign of the entire journal menu.
+- Added QuickLoot Redesigned ([link](https://www.nexusmods.com/skyrimspecialedition/mods/192433)) — a BioShock-inspired reskin for QuickLoot IE, featuring a curved item list.
+- Added Right Stick Map Panning ([link](https://www.nexusmods.com/skyrimspecialedition/mods/192340)) — lets you pan (scroll) the world map using the controller's right stick.
+- Added Automatic Follower Teleporter NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173899)) — automatically teleports your followers to you on weapon draw when they're far away.
+- Added Skyrim Unbound Immersive Choice ([link](https://www.nexusmods.com/skyrimspecialedition/mods/191678)) — adds a custom UI instead of the standard MCM for Skyrim Unbound Reborn.
+- Added Sound Sight - Visual Sound Indicators for Accessibility ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193073)) — adds visual indicators for recognized sounds, showing their direction, type, and intensity, designed for accessibility. Press U on the keyboard to toggle it on or off.
+- Added Cigar - One-Button Interaction ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193080)) — powered by SkyPrompt, gives context-sensitive prompts for many actions: sitting down, lying down on the ground, warming hands on a fire, activating a new quest, reading a book you just got, and more.
+
+#### Audio
+
+- Added Immersively Voiced Books of Skyrim (IVBOS) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/191219)) — books, journals, letters, or notes written by a vanilla NPC are now narrated by a voice.
+
+#### Animations
+
+- Removed Holmgang - ADXP I MCO Moveset for NPCs (OAR) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/102920)).
+- Removed Dynamic Dodge Animation ([link](https://www.nexusmods.com/skyrimspecialedition/mods/79598)).
+- Removed TK Dodge Fat Roll ([link](https://www.nexusmods.com/skyrimspecialedition/mods/151366)).
+- Removed Ultimate Animated Potions NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/97674)).
+- Added Dodge - MCO (DMCO) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/175129)) — a very reactive third-person dodge mod, with short and long dodges depending on your input (double-press for a longer dodge). TK Dodge is still in the list for first-person dodging.
+- Added JellyFishFP Sneak Killmove Dagger (1st person animations series) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/157584)) — first-person stealth killmove replacer.
+
+#### Fixes
+
+- Removed Inertia (Floating Gear Fix) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/148746)) — strangely, the bug this mod is supposed to fix only showed up when using it.
+- Fixed Kharag gro-Shurkul ([link](https://en.uesp.net/wiki/Skyrim:Kharag_gro-Shurkul)) freezing the game when getting near Solitude Sawmill.
+- Fixed other issues reported in the Discord bug channel.
+
+#### New Content
+
+- Added Katana - Journey in the Shadows ([link](https://www.nexusmods.com/skyrimspecialedition/mods/69622)) — new follower with a new adventure.
+
+#### Miscellaneous
+
+- Removed PrivateProfileRedirector SE - Faster game start (INI file cacher), as it was causing issues with users being unable to save in-game settings.
+- Removed SkyInteract ([link](https://www.nexusmods.com/skyrimspecialedition/mods/143311)).
+- Removed Highlight Quest Markers ([link](https://www.nexusmods.com/skyrimspecialedition/mods/140670)), because of an unsatisfying forced hotkey leading to poor gamepad support.
+- Removed Model Swapper ([link](https://www.nexusmods.com/skyrimspecialedition/mods/136461)).
+- Added Safer Saving SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/191525)) — blocks saving when it would be unsafe to do so, such as in combat or during heavily scripted scenes, enforcing good saving practices.
+
 ## Version 2.6.2
 
 ![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+<details><summary>Details</summary>
 
 #### UI
 
 - Added Character Menu SE - Simonrim Patches ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173827)) to fix Character Menu displaying the wrong Class and Trait attributes.
-- Added back SkyUI's active effect widgets, following the removal of Skyrim Part Sheet.
+- Added back SkyUI's active effect widgets, following the removal of Skyrim Part Sheet.</details>
 
 ## Version 2.6.1
 
 ![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
 > – Not So Denuded Edition
+<details><summary>Details</summary>
 
 #### Fixes
 
@@ -31,12 +106,13 @@
 
 #### Miscellaneous
 
-- Changed: set Target Lock back to Mouse3 and Power Attack to Mouse5 to avoid confusion.
+- Changed: set Target Lock back to Mouse3 and Power Attack to Mouse5 to avoid confusion.</details>
 
 ## Version 2.6
 
 ![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 > This update is a bit of everything.
+<details><summary>Details</summary>
 
 #### Gameplay
 
@@ -181,7 +257,7 @@
 - Added Auto Sheathe ([link](https://www.nexusmods.com/skyrimspecialedition/mods/184516)) — automatically sheathes your weapon in dialogue.
 - Added Time Control ([link](https://www.nexusmods.com/skyrimspecialedition/mods/182012)) — days now have a timescale of 10 and nights default to 20, meaning days will last twice as long as nights.
 - Added Save Reminder SSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/176475)) — receive a notification every 5 minutes to save the game, configurable within the SKSE Menu Framework.
-- Changed: the same way each follower has a unique moveset, each mage follower now has a distinct set of spells with unique visuals, all powered by Darenii's spell series ([link](https://www.nexusmods.com/profile/Darenii/mods)). Note that those spells were not made usable by the player, they're only there to make followers distinct, though a handful of spell tomes have been distributed into the leveled lists.
+- Changed: the same way each follower has a unique moveset, each mage follower now has a distinct set of spells with unique visuals, all powered by Darenii's spell series ([link](https://www.nexusmods.com/profile/Darenii/mods)). Note that those spells were not made usable by the player, they're only there to make followers distinct, though a handful of spell tomes have been distributed into the leveled lists.</details>
 
 ---
 
