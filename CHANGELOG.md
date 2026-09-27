@@ -19,6 +19,7 @@
 - Added CC Horse Armor - No Blacksmith Dialogue ([link](https://www.nexusmods.com/skyrimspecialedition/mods/59164)) — removes horse-armor-related dialogue when speaking to blacksmiths, but leaves it in when speaking to horse stable workers.
 - Added Cure Disease Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/185399)) — Cure Disease Potions now lower the effectiveness of diseases by 50% for 10 minutes, and sleeping for a minimum of 6 hours removes all diseases.
 - Added Losing Your Temper - An Equipment Durability Mod ([link](https://www.nexusmods.com/skyrimspecialedition/mods/182493)) — armor and weapons can now lose temper through Skyrim's vanilla tempering system, reducing their effectiveness and altering their stats. Repair them at the forge or ask a blacksmith to do it for you.
+- Added Automatic Follower Teleporter NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173899)) — automatically teleports your followers to you on weapon draw when they're far away.
 
 #### Visuals
 
@@ -37,7 +38,6 @@
 - Added Quest Journal Overhaul - Entire Journal Redesigned ([link](https://www.nexusmods.com/skyrimspecialedition/mods/191303)) — a redesign of the entire journal menu.
 - Added QuickLoot Redesigned ([link](https://www.nexusmods.com/skyrimspecialedition/mods/192433)) — a BioShock-inspired reskin for QuickLoot IE, featuring a curved item list.
 - Added Right Stick Map Panning ([link](https://www.nexusmods.com/skyrimspecialedition/mods/192340)) — lets you pan (scroll) the world map using the controller's right stick.
-- Added Automatic Follower Teleporter NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173899)) — automatically teleports your followers to you on weapon draw when they're far away.
 - Added Skyrim Unbound Immersive Choice ([link](https://www.nexusmods.com/skyrimspecialedition/mods/191678)) — adds a custom UI instead of the standard MCM for Skyrim Unbound Reborn.
 - Added Sound Sight - Visual Sound Indicators for Accessibility ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193073)) — adds visual indicators for recognized sounds, showing their direction, type, and intensity, designed for accessibility. Press U on the keyboard to toggle it on or off.
 - Added Cigar - One-Button Interaction ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193080)) — powered by SkyPrompt, gives context-sensitive prompts for many actions: sitting down, lying down on the ground, warming hands on a fire, activating a new quest, reading a book you just got, and more.
@@ -70,7 +70,6 @@
 - Removed PrivateProfileRedirector SE - Faster game start (INI file cacher), as it was causing issues with users being unable to save in-game settings.
 - Removed SkyInteract ([link](https://www.nexusmods.com/skyrimspecialedition/mods/143311)).
 - Removed Highlight Quest Markers ([link](https://www.nexusmods.com/skyrimspecialedition/mods/140670)), because of an unsatisfying forced hotkey leading to poor gamepad support.
-- Removed Model Swapper ([link](https://www.nexusmods.com/skyrimspecialedition/mods/136461)).
 - Added Safer Saving SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/191525)) — blocks saving when it would be unsafe to do so, such as in combat or during heavily scripted scenes, enforcing good saving practices.
 
 ## Version 2.6.2
