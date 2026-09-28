@@ -1,12 +1,18 @@
 # Mages & Vikings — Full Changelog
 
+## Version 2.7.1
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+
+#### Fixes
+- Removed Inventory Interface Information Injector Improved ([link](https://www.nexusmods.com/skyrimspecialedition/mods/192976)), causing crashes when using the repair feature from Temper and Recharge Services ([link](https://www.nexusmods.com/skyrimspecialedition/mods/129279)).
+
 ## Version 2.7
 
 ![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 > This update is all about refining the systems in place, and fixing major and minor bugs across the board.
 
 #### Gameplay
-
 - Removed Stress and Fear - A Dynamic Sanity System ([link](https://www.nexusmods.com/skyrimspecialedition/mods/116522)).
 - Removed Lights On - Wearable Lanterns for Immersive Equipment Displays ([link](https://www.nexusmods.com/skyrimspecialedition/mods/85575)).
 - Removed Player Self Revive ([link](https://www.nexusmods.com/skyrimspecialedition/mods/182847)) — going forward we'll only use Feathers of Kyne - An Alternate Death Mod ([link](https://www.nexusmods.com/skyrimspecialedition/mods/179680)).
@@ -22,7 +28,6 @@
 - Added Automatic Follower Teleporter NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173899)) — automatically teleports your followers to you on weapon draw when they're far away.
 
 #### Visuals
-
 - Removed DarkDukla Eye ([link](https://www.nexusmods.com/skyrimspecialedition/mods/68347)), because it causes CTDs.
 - Added Native Mesh Light Flicker Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/186432)) — extends Skyrim's native per-geometry light path to remove the light-slot bottleneck that causes mesh-light flicker in crowded scenes. No more flicker!
 - Added Daedric Armor Redone - PBR and CM ([link](https://www.nexusmods.com/skyrimspecialedition/mods/190210)) — a modern look for the vanilla Daedric armor.
@@ -30,7 +35,6 @@
 - Added Cinematic DoF Standalone ([link](https://www.nexusmods.com/skyrimspecialedition/mods/190326)) — a standalone depth-of-field mod designed for optimal gameplay; used in place of all ENB presets' depth-of-field.
 
 #### UI
-
 - Removed Tween Menu Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/143275)).
 - Removed Swiftly Order Squad - Follower Commands UI ([link](https://www.nexusmods.com/skyrimspecialedition/mods/63259)).
 - Added STB Widgets ([link](https://www.nexusmods.com/skyrimspecialedition/mods/136148)).
@@ -43,11 +47,9 @@
 - Added Cigar - One-Button Interaction ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193080)) — powered by SkyPrompt, gives context-sensitive prompts for many actions: sitting down, lying down on the ground, warming hands on a fire, activating a new quest, reading a book you just got, and more.
 
 #### Audio
-
 - Added Immersively Voiced Books of Skyrim (IVBOS) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/191219)) — books, journals, letters, or notes written by a vanilla NPC are now narrated by a voice.
 
 #### Animations
-
 - Removed Holmgang - ADXP I MCO Moveset for NPCs (OAR) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/102920)).
 - Removed Dynamic Dodge Animation ([link](https://www.nexusmods.com/skyrimspecialedition/mods/79598)).
 - Removed TK Dodge Fat Roll ([link](https://www.nexusmods.com/skyrimspecialedition/mods/151366)).
@@ -56,17 +58,14 @@
 - Added JellyFishFP Sneak Killmove Dagger (1st person animations series) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/157584)) — first-person stealth killmove replacer.
 
 #### Fixes
-
 - Removed Inertia (Floating Gear Fix) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/148746)) — strangely, the bug this mod is supposed to fix only showed up when using it.
 - Fixed Kharag gro-Shurkul ([link](https://en.uesp.net/wiki/Skyrim:Kharag_gro-Shurkul)) freezing the game when getting near Solitude Sawmill.
 - Fixed other issues reported in the Discord bug channel.
 
 #### New Content
-
 - Added Katana - Journey in the Shadows ([link](https://www.nexusmods.com/skyrimspecialedition/mods/69622)) — new follower with a new adventure.
 
 #### Miscellaneous
-
 - Removed PrivateProfileRedirector SE - Faster game start (INI file cacher), as it was causing issues with users being unable to save in-game settings.
 - Removed SkyInteract ([link](https://www.nexusmods.com/skyrimspecialedition/mods/143311)).
 - Removed Highlight Quest Markers ([link](https://www.nexusmods.com/skyrimspecialedition/mods/140670)), because of an unsatisfying forced hotkey leading to poor gamepad support.
@@ -78,7 +77,6 @@
 <details><summary>Details</summary>
 
 #### UI
-
 - Added Character Menu SE - Simonrim Patches ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173827)) to fix Character Menu displaying the wrong Class and Trait attributes.
 - Added back SkyUI's active effect widgets, following the removal of Skyrim Part Sheet.</details>
 
@@ -89,22 +87,18 @@
 <details><summary>Details</summary>
 
 #### Fixes
-
 - Fixed naked NPCs.
 - Fixed Modern Vanilla Combat ([link](https://www.nexusmods.com/skyrimspecialedition/mods/179612)) — the sword's 4th hit wasn't landing.
 - Fixed elven armor stretching to the ground by replacing the models with those from AURIDON - New Elven Armors and Weapons ([link](https://www.nexusmods.com/skyrimspecialedition/mods/188728)).
 
 #### Visuals
-
 - Updated Amon ENB ([link](https://www.nexusmods.com/skyrimspecialedition/mods/99786)).
 - Updated Pi-Cho ([link](https://www.nexusmods.com/skyrimspecialedition/mods/35082)).
 
 #### UI
-
 - Removed Skyrim Party Sheet ([link](https://www.nexusmods.com/skyrimspecialedition/mods/167538)), because of inconsistencies across different screen resolutions.
 
 #### Miscellaneous
-
 - Changed: set Target Lock back to Mouse3 and Power Attack to Mouse5 to avoid confusion.</details>
 
 ## Version 2.6
@@ -114,7 +108,6 @@
 <details><summary>Details</summary>
 
 #### Gameplay
-
 - Removed Alchemical Appraisal Services ([link](https://www.nexusmods.com/skyrimspecialedition/mods/107344)) in favor of Training - Alchemy Learns Effects ([link](https://www.nexusmods.com/skyrimspecialedition/mods/161802)) — when you pay an alchemist for training, the session now also grants a chance to discover some effects of ingredients you currently possess, bridging the gap between the ingredient and your understanding of its potential.
 - Removed Chocolate Poise ([link](https://www.nexusmods.com/skyrimspecialedition/mods/70478)) as part of a full stagger mechanics rework.
 - Removed Disable Bashing (for NPCs) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/106409)).
@@ -162,7 +155,6 @@
 - Changed: removed the ability to propel yourself higher while using the paraglider with Kyne's Wind, for balance purposes. The paraglider now serves one purpose: gliding down (you can still automatically take flight when Tarhiel's Gale is cast).
 
 #### Visuals
-
 - Removed [TalesOfStar] Air Balloons, following the removal of free access to the mod by its author.
 - Removed R.A.S.S. Rain Ash And Snow Shaders ([link](https://www.nexusmods.com/skyrimspecialedition/mods/22780)), replaced with Cold Breath NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/174838)).
 - Removed Vibrant Weapons EAE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/111430)), because of bugs.
@@ -177,7 +169,6 @@
 - Added Bobbing Framework - SKSE Plugin ([link](https://www.nexusmods.com/skyrimspecialedition/mods/186081)) — an SKSE plugin that brings subtle, immersive motion to Skyrim's static world.
 
 #### UI
-
 - Removed Follower Stats ([link](https://www.nexusmods.com/skyrimspecialedition/mods/159406)).
 - Removed Legendary Map ([link](https://www.nexusmods.com/skyrimspecialedition/mods/157397)).
 - Removed STB Widgets ([link](https://www.nexusmods.com/skyrimspecialedition/mods/136148)).
@@ -192,18 +183,15 @@
 - Added Lore-Friendly Load Screen Compendium (Loading Screens) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/138294)).
 
 #### Audio
-
 - Removed Yggdrasil Music ([link](https://www.nexusmods.com/skyrimspecialedition/mods/21578)).
 - Added Wheezing Draugr ([link](https://www.nexusmods.com/skyrimspecialedition/mods/177568)) — audio replacer for Draugr, making them sound more ancient, wheezing, and gurgly.
 
 #### Dialogue
-
 - Removed Relationship Dialogue Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/1187)).
 - Added Companions Dialogue Bundle ([link](https://www.nexusmods.com/skyrimspecialedition/mods/93592)) — adds around 120 lines of new, fully voiced dialogue to the Companions.
 - Added You Reek - Updated ([link](https://www.nexusmods.com/skyrimspecialedition/mods/170271)) — makes people complain when you smell your worst; made for Bathing in Skyrim - Renewed.
 
 #### Animations
-
 - Removed Immersive Weapon Switch - SKSE plugin ([link](https://www.nexusmods.com/skyrimspecialedition/mods/139762)).
 - Removed New Creature Animation - Werewolf ([link](https://www.nexusmods.com/skyrimspecialedition/mods/83806)).
 - Added back all SIGMA first-person animations ([link](https://www.nexusmods.com/profile/Sigerious/mods)).
@@ -219,13 +207,11 @@
 - Added New Creature Animation - Vampire Lord ([link](https://www.nexusmods.com/skyrimspecialedition/mods/185105)) — adds new animations enhancing the Vampire Lord's imposing presence.
 
 #### Gear
-
 - Changed: both Realistic Eyeglasses SE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/11807)) and Dwemer Fairies SSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/17184)) have been manually redistributed for a more fitting, less spread-out placement.
 - Added Weapons Expanded Silver ([link](https://www.nexusmods.com/skyrimspecialedition/mods/168790)) — replacer for vanilla silver swords that also adds missing silver weapon variants: war axe, mace, dagger, battleaxe, warhammer, bow and arrows.
 - Added many armors and weapons from various authors, distributed to specific enemy factions (necromancers, thieves, bandits, Solstheim bandits, etc.) to give each a unique, distinct look. Future updates will expand on this.
 
 #### Fixes
-
 - Fixed Skyrim's Got Talent - Improve As a Bard ([link](https://www.nexusmods.com/skyrimspecialedition/mods/50357)) high-tier tracks not playing sometimes.
 - Added Stuck Underwater Visuals and Sounds Fix SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173716)).
 - Added Unpoisoned Blocking ([link](https://www.nexusmods.com/skyrimspecialedition/mods/176593)) — stops poison and disease from being systematically applied on blocked hits, for both players and NPCs.
@@ -240,7 +226,6 @@
 - Added Project Bro He's There - Fix followers not starting combat ([link](https://www.nexusmods.com/skyrimspecialedition/mods/175934)) — fixes the annoying problem where followers seem deaf and blind when an enemy engages you in combat.
 
 #### New Content
-
 - Added Sylphs of Glass - Mihail Monsters and Animals ([link](https://www.nexusmods.com/skyrimspecialedition/mods/162401)).
 - Added Dwarven Alarm Sentries - Mihail Monsters and Animals ([link](https://www.nexusmods.com/skyrimspecialedition/mods/162412)).
 - Added Dwarven Scarabs - Mihail Monsters and Animals ([link](https://www.nexusmods.com/skyrimspecialedition/mods/164997)).
@@ -248,7 +233,6 @@
 - Added Rotten Mudcrabs - Mihail Monsters and Animals ([link](https://www.nexusmods.com/skyrimspecialedition/mods/143937)).
 
 #### Miscellaneous
-
 - Added Optional Quick Start ([link](https://www.nexusmods.com/skyrimspecialedition/mods/63953)) — now you can choose in MO2 between the vanilla start or starting right at the end of the Helgen escape cave. Special thanks to lilebonymace, author of Skyrim Unbound, for accommodating a script specifically to integrate both alternate-start mods in Mages & Vikings.
 - Added Texture Downscaler ([link](https://www.nexusmods.com/skyrimspecialedition/mods/187049)), as an optional mod — loads textures at a lower resolution at runtime to free up video memory (VRAM).
 - Added Cached Recursive Directory Walk ([link](https://www.nexusmods.com/skyrimspecialedition/mods/186434)) — generates a cache of the game that greatly speeds up startup times.
