@@ -3,7 +3,7 @@
 ## Version 2.7.2
 
 ![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
-> You can safely ignore the _missing plugins_ message when loading your save.
+> If you haven't used a Campsite yet, you can safely update.
 
 #### Gameplay
 - Removed Camping Plus Plus - A CC Camping Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/122554)) — not a bad mod, just going for something simpler here.
