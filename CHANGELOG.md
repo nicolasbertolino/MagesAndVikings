@@ -2,11 +2,11 @@
 
 ## Version 2.7.2
 
-![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 > You can safely ignore the _missing plugins_ message when loading your save.
 
 #### Gameplay
-- Removed Camping Plus Plus - A CC Camping Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/122554)).
+- Removed Camping Plus Plus - A CC Camping Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/122554)) — not a bad mod, just going for something simpler here.
 - Added Auto Nearby Summon ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193397)) — changes summoning spells from location-targeted placement to automatic placement around the player.
 - Changed: enabled instant blocking in third person, meaning you can now cancel your attack with blocking at any point in the animation.
 
