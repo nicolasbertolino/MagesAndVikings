@@ -1,5 +1,26 @@
 # Mages & Vikings — Full Changelog
 
+## Version 2.7.2
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+> You can safely ignore the _missing plugins_ message when loading your save.
+
+#### Gameplay
+- Removed Camping Plus Plus - A CC Camping Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/122554)).
+- Added Auto Nearby Summon ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193397)) — changes summoning spells from location-targeted placement to automatic placement around the player.
+- Changed: enabled instant blocking in third person, meaning you can now cancel your attack with blocking at any point in the animation.
+
+#### Animations
+- Removed Simple Wall Lean (RaySense) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/176847)), now handled by Cigar ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193080)).
+
+#### Fixes
+- Fixed some animation conditions — casting a spell in the left hand with a weapon in the right hand now looks coherent when moving in any direction.
+- Fixed pike sprint attacks missing if getting too close to the target.
+
+#### Miscellaneous
+- Added The Watcher ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193387)) — generates a log file when Skyrim freezes or gets stuck in an endless loading screen. The file is located in `Documents/My Games/Skyrim Special Edition/SKSE/TheWatcher` — make sure you attach it when reporting a freeze or infinite loading screen issue.
+- Changed: Texture Downscaler ([link](https://www.nexusmods.com/skyrimspecialedition/mods/187049)) is now enabled by default, and will start downscaling textures when it detects VRAM usage above 85%.
+
 ## Version 2.7.1
 
 ![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
