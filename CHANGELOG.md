@@ -3,6 +3,7 @@
 ## Version 2.7.3
 
 ![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+> Stay hydrated
 
 #### Gameplay
 - Added Simple Diving System (SDS) - Dive Into Water Animations and Modder Resource ([link](https://www.nexusmods.com/skyrimspecialedition/mods/154534)).
