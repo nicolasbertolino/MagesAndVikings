@@ -1,5 +1,22 @@
 # Mages & Vikings — Full Changelog
 
+## Version 2.7.3
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+
+#### Gameplay
+- Added Simple Diving System (SDS) - Dive Into Water Animations and Modder Resource ([link](https://www.nexusmods.com/skyrimspecialedition/mods/154534)).
+- Added Skyrim Water Inertia ([link](https://www.nexusmods.com/skyrimspecialedition/mods/184257)).
+- Added Swimming Extensions - Swimming Overhaul (Svimex) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/189821)).
+- Added Wade in Water Redux - Swimming Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/151353)).
+
+#### Fixes
+- Added Shadow Scene Node Crash Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193863)).
+
+#### New Content
+- Removed Leaps of Faith - A Misc Quest ([link](https://www.nexusmods.com/skyrimspecialedition/mods/53074)).
+- Added Kreathman Set ([link](https://www.nexusmods.com/skyrimspecialedition/mods/178181)).
+
 ## Version 2.7.2
 
 ![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
