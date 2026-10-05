@@ -1,5 +1,15 @@
 # Mages & Vikings — Full Changelog
 
+## Version 2.7.4
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+
+#### Animations
+
+- Added DMCO v2 - Addon and Patch Collection ([link](https://www.nexusmods.com/skyrimspecialedition/mods/123284)) — makes it possible to dodge at any stage during an attack, making third-person dodging way more reactive.
+- Added Elden Ring Nightreign Duchess I MCO I BFCO I DAGGER ([link](https://www.nexusmods.com/skyrimspecialedition/mods/154496)) — replaces third-person animations for one-handed dagger.
+- Added Dual Wield Reverse Grip Dagger Moveset - BFCO MCO ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193987)) — replaces third-person animations for dual daggers.
+
 ## Version 2.7.3
 
 ![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
