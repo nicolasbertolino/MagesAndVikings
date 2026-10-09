@@ -1,11 +1,30 @@
 # Mages & Vikings — Full Changelog
 
+## Version 2.7.5
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+
+#### UI
+- Removed Cigar - One-Button Interaction ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193080)).
+- Added Read It Now ([link](https://www.nexusmods.com/skyrimspecialedition/mods/168337)) — shows a prompt to read the letter or book you've just acquired.
+
+#### Animations
+- Added back Warming Hands ([link](https://www.nexusmods.com/skyrimspecialedition/mods/73581)).
+- Added back Simple Wall Lean (RaySense) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/176847)) and Simple Wall Lean (RaySense) - More feminine Female animations ([link](https://www.nexusmods.com/skyrimspecialedition/mods/182365)).
+
+#### Fixes
+- Added Hitch Hunter and Fixes - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/194231)) — fixes several engine causes of stutter and frame time spikes.
+- Added Havok Solver Crash Fix - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/194392)) — fixes a random physics crash that can happen during fights, especially with many creatures or ragdoll mods.
+
+---
+
+Powered by caffeine and questionable debugging decisions. If you'd like to fuel the next round of both: https://ko-fi.com/seeyoulhater
+
 ## Version 2.7.4
 
 ![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
 
 #### Animations
-
 - Added DMCO v2 - Addon and Patch Collection ([link](https://www.nexusmods.com/skyrimspecialedition/mods/123284)) — makes it possible to dodge at any stage during an attack, making third-person dodging way more reactive.
 - Added Elden Ring Nightreign Duchess I MCO I BFCO I DAGGER ([link](https://www.nexusmods.com/skyrimspecialedition/mods/154496)) — replaces third-person animations for one-handed dagger.
 - Added Dual Wield Reverse Grip Dagger Moveset - BFCO MCO ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193987)) — replaces third-person animations for dual daggers.
