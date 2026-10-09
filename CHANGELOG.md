@@ -2,7 +2,7 @@
 
 ## Version 2.7.5
 
-![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
 
 #### UI
 - Removed Cigar - One-Button Interaction ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193080)).
