@@ -17,10 +17,6 @@
 - Added Havok Solver Crash Fix - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/194392)) — fixes a random physics crash that can happen during fights, especially with many creatures or ragdoll mods.
 - Fixed the beep boops.
 
----
-
-Powered by caffeine and questionable debugging decisions. If you'd like to fuel the next round of both: https://ko-fi.com/seeyoulhater
-
 ## Version 2.7.4
 
 ![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen)
