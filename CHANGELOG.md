@@ -15,6 +15,7 @@
 #### Fixes
 - Added Hitch Hunter and Fixes - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/194231)) — fixes several engine causes of stutter and frame time spikes.
 - Added Havok Solver Crash Fix - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/194392)) — fixes a random physics crash that can happen during fights, especially with many creatures or ragdoll mods.
+- Fixed the beep boops.
 
 ---
 
