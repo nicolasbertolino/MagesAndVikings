@@ -70,7 +70,7 @@
 - Removed Breaking Dawn Cottage - A COTN Dawnstar Addon ([link](https://www.nexusmods.com/skyrimspecialedition/mods/130643)).
 
 #### Miscellaneous
-- Removed The Watcher ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193387)), because it seems unreliable.
+- Removed The Watcher ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193387))
 - Removed Magic Organizer SKSE - Hide Spells Powers Active Effects ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173987)).
 - Removed PGPatcher ([link](https://www.nexusmods.com/skyrimspecialedition/mods/120946)), replaced with PGLite ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195287)).
 - Added Faster NGIO Grass Cache ([link](https://www.nexusmods.com/skyrimspecialedition/mods/194151)).
