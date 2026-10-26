@@ -1,5 +1,83 @@
 # Mages & Vikings — Full Changelog
 
+## Version 2.7.6
+
+![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
+
+#### Gameplay
+- Removed Feathers of Kyne - An Alternate Death Mod ([link](https://www.nexusmods.com/skyrimspecialedition/mods/179680)), replaced with Revenge and Respawn - Death Alternative ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193087)) — instead of reloading a save, you wake up at your last bed or at the nearest temple. Your "killer" takes a share of your gold and a random handful of your items. After respawning, a revenge quest starts with a compass marker pointing at your killer, who may gain a buff after beating you.
+- Removed Stealth Detection Fixes ([link](https://www.nexusmods.com/skyrimspecialedition/mods/145336)), replaced with Stealth Fixes - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195418)).
+- Removed Precision - Attack Collision Fixes ([link](https://www.nexusmods.com/skyrimspecialedition/mods/177313)).
+- Added Precision - NPC Combat Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/169711)).
+- Removed Apprentice - A Class Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/169288)).
+- Removed Swift Potion NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/78272)).
+- Added Sekiro Combat S - Parry Rebalance ([link](https://www.nexusmods.com/skyrimspecialedition/mods/194716)) — adds a timed block mechanic: blocking 0.4s before a hit reduces damage by 70% and staggers the attacker.
+- Added Skyrim Unbound - Vanilla Quick Start ([link](https://www.nexusmods.com/skyrimspecialedition/mods/196279)).
+- Added No Auto-Equip Behaviour ([link](https://www.nexusmods.com/skyrimspecialedition/mods/176454)).
+
+#### Visuals
+- Removed Cities of the North - Falkreath ([link](https://www.nexusmods.com/skyrimspecialedition/mods/56731)).
+- Removed Half-Moon Mill - Cities of the North Addon ([link](https://www.nexusmods.com/skyrimspecialedition/mods/64360)).
+- Removed RedBag's Falkreath - Pinewatch Addon ([link](https://www.nexusmods.com/skyrimspecialedition/mods/91813)).
+- Removed Vanaheimr - Landscapes - AIO ([link](https://www.nexusmods.com/skyrimspecialedition/mods/145439)), replaced with Vyrthland - Landscapes - AIO ([link](https://www.nexusmods.com/skyrimspecialedition/mods/190416)).
+- Removed Wigfrid's Tundra Oaks ([link](https://www.nexusmods.com/skyrimspecialedition/mods/91450)).
+- Removed The Restless Ghost Replacer - Chakra's Creatures ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173457)).
+- Added Simplicity of Snow Sulfur Ash Moss ([link](https://www.nexusmods.com/skyrimspecialedition/mods/192910)).
+- Added Rudy ENB for NAT 3 ([link](https://www.nexusmods.com/skyrimspecialedition/mods/91675)) as a new optional ENB preset.
+- Added Unique Farmhouse Architecture - Falkreath (Base Object Swapper) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/133324)).
+- Added Spaghetti's Cities - Falkreath ([link](https://www.nexusmods.com/skyrimspecialedition/mods/83711)).
+- Added Diverse Gravestones - Falkreath - Base Object Swapper or Model Swapper ([link](https://www.nexusmods.com/skyrimspecialedition/mods/189306)).
+- Added Dynamic Terrain Deformation SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/192402)) — real footprints in the ground and trails through deep snow (optional mod, can be taxing on performance).
+- Changed: updated Refined NPCs with Refined Series - Required Files ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193870)).
+- Added Legacy of Ysgramor HDT-SMP Patch ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195710)).
+- Added New Legion HDT-SMP Patch ([link](https://www.nexusmods.com/skyrimspecialedition/mods/194823)).
+- Added Theo's Render Pipeline - DLSS - FrameGen ([link](https://www.nexusmods.com/skyrimspecialedition/mods/192113)) and Theo's Render Pipeline - DLSS - Frame Gen - Neural Rendering ([link](https://www.nexusmods.com/skyrimspecialedition/mods/191382)) — add NVIDIA DLSS, multi-frame generation, and neural rendering (optional, off by default).
+
+#### UI
+- Removed QuickLoot Redesigned ([link](https://www.nexusmods.com/skyrimspecialedition/mods/192433)).
+- Removed Quest Journal Overhaul - Entire Journal Redesigned ([link](https://www.nexusmods.com/skyrimspecialedition/mods/191303)).
+- Removed Read It Now ([link](https://www.nexusmods.com/skyrimspecialedition/mods/168337)).
+- Removed Sound Sight - Visual Sound Indicators for Accessibility ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193073)).
+- Removed STB Widgets ([link](https://www.nexusmods.com/skyrimspecialedition/mods/136148)).
+- Removed Wheeler - Quick Action Wheel Of Skyrim ([link](https://www.nexusmods.com/skyrimspecialedition/mods/97345)) and its addon Favorites Wheeler Advanced ([link](https://www.nexusmods.com/skyrimspecialedition/mods/176861)).
+- Added Quickslot Hotkeys ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195785)) — a fast favorites hotkey system for equipment, consumables, spells, and powers. Hold the key, scroll to another entry, and release to select it. This replaces Wheeler.
+- Added Forget Spell ([link](https://www.nexusmods.com/skyrimspecialedition/mods/51125)).
+- Added Inventory Interface Information Injector Improved ([link](https://www.nexusmods.com/skyrimspecialedition/mods/192976)).
+- Added Subtitle Speaker Indicator ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195960)).
+- Added STB Active Effects ([link](https://www.nexusmods.com/skyrimspecialedition/mods/140002)).
+- Added By Time A Clock HUD ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195093)).
+- Added Needs Widget AIO ([link](https://www.nexusmods.com/skyrimspecialedition/mods/196226)).
+- Added Reticle Arcs ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193635)).
+
+#### Animations
+- Removed Dodge - MCO (DMCO) ([link](https://www.nexusmods.com/skyrimspecialedition/mods/175129)) — it doesn't always follow the correct input direction when using target lock, the character can get stuck when double-tapping at a specific timing, and it allows dodging with less stamina than the dodge cost (which we don't want).
+- Removed HSF Male Furniture Idles ([link](https://www.nexusmods.com/skyrimspecialedition/mods/155228)).
+- Added Unbearable Taunt Animation ([link](https://www.nexusmods.com/skyrimspecialedition/mods/64652)).
+- Added back Ultimate Animated Potions NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/97674)).
+
+#### Fixes
+- Removed Auto Audio Output Switch ([link](https://www.nexusmods.com/skyrimspecialedition/mods/191770)), replaced with Auto Output Switch - Redux ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195909)).
+- Added Boethiah's Calling - Ultimate fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195300)).
+- Added Shadow Fixes - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195345)).
+- Added Lingering Subtitle - Engine Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195784)).
+- Added Ranged Block Recoil Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/141037)).
+
+#### New Content
+- Removed Viking's Longhouse ([link](https://www.nexusmods.com/skyrimspecialedition/mods/10860)).
+- Removed Halla - A Whiterun Player Home ([link](https://www.nexusmods.com/skyrimspecialedition/mods/1940)).
+- Removed Autumngate - A Believable Player Home ([link](https://www.nexusmods.com/skyrimspecialedition/mods/60951)).
+- Removed Eclipse Cottage - A COTN Falkreath Addon ([link](https://www.nexusmods.com/skyrimspecialedition/mods/131467)).
+- Removed Breaking Dawn Cottage - A COTN Dawnstar Addon ([link](https://www.nexusmods.com/skyrimspecialedition/mods/130643)).
+
+#### Miscellaneous
+- Removed The Watcher ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193387)), because it seems unreliable.
+- Removed Magic Organizer SKSE - Hide Spells Powers Active Effects ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173987)).
+- Removed PGPatcher ([link](https://www.nexusmods.com/skyrimspecialedition/mods/120946)), replaced with PGLite ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195287)).
+- Added Faster NGIO Grass Cache ([link](https://www.nexusmods.com/skyrimspecialedition/mods/194151)).
+- Added Quest Bug Library ([link](https://www.nexusmods.com/skyrimspecialedition/mods/196487)) — shows the known bugs of the quest you're on, tells you which one you're probably hitting, finds the NPC or item the quest is waiting for, and fixes it with a click. You can also advance quest stages. Find the menu in the SKSE Menu Framework.
+- Added Quick Audio Sliders ([link](https://www.nexusmods.com/skyrimspecialedition/mods/196088)).
+- Added ReSaver Plus ([link](https://www.nexusmods.com/skyrimspecialedition/mods/196293)).
+
 ## Version 2.7.5
 
 ![Update](https://img.shields.io/badge/Update-New_Game_Required-red)
