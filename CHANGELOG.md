@@ -6,11 +6,10 @@
 
 #### Gameplay
 - Removed Feathers of Kyne - An Alternate Death Mod ([link](https://www.nexusmods.com/skyrimspecialedition/mods/179680)), replaced with Revenge and Respawn - Death Alternative ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193087)) — instead of reloading a save, you wake up at your last bed or at the nearest temple. Your "killer" takes a share of your gold and a random handful of your items. After respawning, a revenge quest starts with a compass marker pointing at your killer, who may gain a buff after beating you.
-- Removed Stealth Detection Fixes ([link](https://www.nexusmods.com/skyrimspecialedition/mods/145336)), replaced with Stealth Fixes - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195418)).
-- Removed Precision - Attack Collision Fixes ([link](https://www.nexusmods.com/skyrimspecialedition/mods/177313)).
-- Added Precision - NPC Combat Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/169711)).
 - Removed Apprentice - A Class Overhaul ([link](https://www.nexusmods.com/skyrimspecialedition/mods/169288)).
 - Removed Swift Potion NG ([link](https://www.nexusmods.com/skyrimspecialedition/mods/78272)).
+- Removed Precision - Attack Collision Fixes ([link](https://www.nexusmods.com/skyrimspecialedition/mods/177313)).
+- Added Precision - NPC Combat Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/169711)).
 - Added Sekiro Combat S - Parry Rebalance ([link](https://www.nexusmods.com/skyrimspecialedition/mods/194716)) — adds a timed block mechanic: blocking 0.4s before a hit reduces damage by 70% and staggers the attacker.
 - Added Skyrim Unbound - Vanilla Quick Start ([link](https://www.nexusmods.com/skyrimspecialedition/mods/196279)).
 - Added No Auto-Equip Behaviour ([link](https://www.nexusmods.com/skyrimspecialedition/mods/176454)).
@@ -58,6 +57,7 @@
 #### Fixes
 - Removed Auto Audio Output Switch ([link](https://www.nexusmods.com/skyrimspecialedition/mods/191770)), replaced with Auto Output Switch - Redux ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195909)).
 - Added Boethiah's Calling - Ultimate fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195300)).
+- Removed Stealth Detection Fixes ([link](https://www.nexusmods.com/skyrimspecialedition/mods/145336)), replaced with Stealth Fixes - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195418)).
 - Added Shadow Fixes - SKSE ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195345)).
 - Added Lingering Subtitle - Engine Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195784)).
 - Added Ranged Block Recoil Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/141037)).
@@ -70,7 +70,7 @@
 - Removed Breaking Dawn Cottage - A COTN Dawnstar Addon ([link](https://www.nexusmods.com/skyrimspecialedition/mods/130643)).
 
 #### Miscellaneous
-- Removed The Watcher ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193387))
+- Removed The Watcher ([link](https://www.nexusmods.com/skyrimspecialedition/mods/193387)).
 - Removed Magic Organizer SKSE - Hide Spells Powers Active Effects ([link](https://www.nexusmods.com/skyrimspecialedition/mods/173987)).
 - Removed PGPatcher ([link](https://www.nexusmods.com/skyrimspecialedition/mods/120946)), replaced with PGLite ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195287)).
 - Added Faster NGIO Grass Cache ([link](https://www.nexusmods.com/skyrimspecialedition/mods/194151)).
