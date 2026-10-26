@@ -62,7 +62,7 @@
 - Added Lingering Subtitle - Engine Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/195784)).
 - Added Ranged Block Recoil Fix ([link](https://www.nexusmods.com/skyrimspecialedition/mods/141037)).
 
-#### New Content
+#### Content
 - Removed Viking's Longhouse ([link](https://www.nexusmods.com/skyrimspecialedition/mods/10860)).
 - Removed Halla - A Whiterun Player Home ([link](https://www.nexusmods.com/skyrimspecialedition/mods/1940)).
 - Removed Autumngate - A Believable Player Home ([link](https://www.nexusmods.com/skyrimspecialedition/mods/60951)).
