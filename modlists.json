@@ -1,7 +1,7 @@
 [
   {
     "title": "Mages \u0026 Vikings",
-    "description": "A serious stability issue has been identified, and work is underway to resolve it. Downloads will be re-enabled once the issue has been fixed. Thank you for your patience.",
+    "description": "Mages & Vikings is a comprehensive Skyrim modlist designed to breathe new life into the game.",
     "author": "SEEYOULHATER",
     "maintainers": [
       "github/nicolasbertolino"
@@ -17,7 +17,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/nicolasbertolino/MagesAndVikings/main/banner.webp",
       "readme": "https://github.com/nicolasbertolino/MagesAndVikings/blob/main/README.md",
