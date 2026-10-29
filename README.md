@@ -119,7 +119,7 @@ To optimize performance, use the [Set CPU Affinity](https://www.nexusmods.com/sk
 #### Customize Your Experience
 At the bottom of the load order, you'll find a colored separator labeled `[Select Options] Customize your experience`. Here, you can select options to tailor your gameplay:
 - Choose to enable widescreen support.
-- Choose between **Mouse & Keyboard** or **Controller** setups.
+- Choose between Mouse & Keyboard or Controller setups.
 - And more.
 
 ---
