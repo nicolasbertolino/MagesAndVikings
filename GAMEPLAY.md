@@ -1,4 +1,4 @@
-# Mages & Vikings Guides
+# Mages & Vikings Gameplay Guide
 
 A collection of useful information about the game mechanics added or changed by the modlist.
 
