@@ -26,12 +26,6 @@ A collection of useful information about the game mechanics added or changed by 
 ### Controller Map
 ![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/assets/gamepad.png)
 
-If your controller setup isn't working properly when launching the game, open the **in-game Controls menu**, click **Reset to Defaults**, and make sure that:
-- **Right Hand** is set to **RB**
-- **Left Hand** is set to **LB**
-
-If they aren't set correctly, assign them manually, then reload the game. This should resolve the issue.
-
 ---
 
 ### Dynamic Activation Key
