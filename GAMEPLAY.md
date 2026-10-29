@@ -5,11 +5,11 @@ A collection of useful information about the game mechanics added or changed by 
 ### Contents
 
 - [Interface and Controls](#interface-and-controls)
+  - [Controller Map](#controller-map)
   - [Dynamic Activation Key](#dynamic-activation-key)
   - [Feeding as a Werewolf](#feeding-as-a-werewolf)
   - [Cycling Through Nearby Objects](#cycling-through-nearby-objects)
   - [Dialogue Perspective Fix](#dialogue-perspective-fix)
-  - [Controller Map](#controller-map)
   - [Bloodskal Blade](#bloodskal-blade)
 - [Survival](#survival)
   - [Fast Travel](#fast-travel)
@@ -17,13 +17,23 @@ A collection of useful information about the game mechanics added or changed by 
   - [Diseases](#diseases)
   - [Gear Degradation](#gear-degradation)
   - [Washing](#washing)
-  - [Stress and Fear](#stress-and-fear)
 - [Quests](#quests)
   - [Starting Specific Quests](#starting-specific-quests)
 
 ---
 
 # Interface and Controls
+
+### Controller Map
+If your controller setup isn't working properly when launching the game, open the **in-game Controls menu**, click **Reset to Defaults**, and make sure that:
+- **Right Hand** is set to **RB**
+- **Left Hand** is set to **LB**
+
+If they aren't set correctly, assign them manually, then reload the game. This should resolve the issue.
+
+![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/assets/gamepad.png)
+
+---
 
 ### Dynamic Activation Key
 With [Dynamic Activation Key](https://www.nexusmods.com/skyrimspecialedition/mods/96273) (DAK), many actions have different, more intuitive behaviors when you press **Shift + Activate** (mouse & keyboard) or **X + Activate** (controller).
@@ -53,17 +63,6 @@ With [Better Third Person Selection](https://www.nexusmods.com/skyrimspecialedit
 
 ### Dialogue Perspective Fix
 While in dialogue, press **F** on keyboard or **RS** on controller to switch the point of view. This can be handy if you get odd or unfitting angles from the [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220) mod.
-
----
-
-### Controller Map
-If your controller setup isn't working properly when launching the game, open the **in-game Controls menu**, click **Reset to Defaults**, and make sure that:
-- **Right Hand** is set to **RB**
-- **Left Hand** is set to **LB**
-
-If they aren't set correctly, assign them manually, then reload the game. This should resolve the issue.
-
-![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/assets/gamepad.png)
 
 ---
 
@@ -110,12 +109,6 @@ With [Cure Disease Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods
 
 ### Washing
 With [Bathing in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/135288), you accumulate dirt as time passes. To wash yourself, use soap or washing rags from your inventory. You can buy them from merchants or find them while looting.
-
----
-
-### Stress and Fear
-With [Stress and Fear - A Dynamic Sanity System](https://www.nexusmods.com/skyrimspecialedition/mods/116522), getting hurt in combat causes stress. Stress can be reduced by a variety of activities, such as drinking, having a warm meal, taking a bath, petting an animal, playing music, praying, relaxing at an inn, etc.
-
 
 ---
 
