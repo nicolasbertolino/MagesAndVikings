@@ -12,7 +12,7 @@
 
 
 # Mages & Vikings
-**Mages & Vikings** is a comprehensive Skyrim modlist designed to breathe new life into the game. Featuring thousands of carefully curated mods, this list enhances and modernizes every aspect of Skyrim – from the user interface and audio to graphics and gameplay mechanics. 
+Mages & Vikings is a comprehensive Skyrim modlist designed to breathe new life into the game. Featuring thousands of carefully curated mods, this list enhances and modernizes every aspect of Skyrim – from the user interface and audio to graphics and gameplay mechanics. 
 
 For a complete breakdown of the mods included, visit the [Load Order Library](https://loadorderlibrary.com/lists/mages-vikings).
 
@@ -29,7 +29,7 @@ Join our [Discord Community](https://discord.gg/Newa3dj5pZ) to connect with othe
 - [Post-installation](#post-installation)
 
 ### System Requirements
-While this modlist is optimized as much as possible, **Mages & Vikings** prioritizes stunning visuals with dense forests, realistic grass, and full ENB effects. To fully enjoy this experience, the following hardware is recommended:
+While this modlist is optimized as much as possible, Mages & Vikings prioritizes stunning visuals with dense forests, realistic grass, and full ENB effects. To fully enjoy this experience, the following hardware is recommended:
 - **GPU**: RTX 4070 or higher
 - **RAM**: 32GB
 - **CPU**: A modern, high-performance processor
