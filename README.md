@@ -3,15 +3,16 @@
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/136238">Nexus Page</a> |
   Installation |
+  <a href="https://github.com/nicolasbertolino/Mages-Vikings/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
   <a href="https://gist.github.com/nicolasbertolino/a303a48fcc5f22a0c0e37822a7b786e9">Changelog</a> |
-  <a href="https://loadorderlibrary.com/lists/mages-vikings">Load Order Library</a> |
+  <a href="https://loadorderlibrary.com/lists/mages-vikings">Load Order</a> |
   <a href="https://discord.gg/Newa3dj5pZ">Join at Discord</a> |
   <a href="https://www.youtube.com/@SEEYOULHATER">Watch on YouTube</a> |
   <a href="https://ko-fi.com/seeyoulhater">Support on Ko-fi</a> ]
 </p>
 
 
-# Mages & Vikings
+# Mages & Vikings — Installation
 Mages & Vikings is a comprehensive Skyrim modlist designed to breathe new life into the game. Featuring thousands of carefully curated mods, this list enhances and modernizes every aspect of Skyrim – from the user interface and audio to graphics and gameplay mechanics. 
 
 For a complete breakdown of the mods included, visit the [Load Order Library](https://loadorderlibrary.com/lists/mages-vikings).
