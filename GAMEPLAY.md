@@ -3,19 +3,27 @@
 A collection of useful information about the game mechanics added or changed by the modlist.
 
 ### Contents
-- [Dynamic Activation Key](#dynamic-activation-key)
-- [Feeding as a Werewolf](#feeding-as-a-werewolf)
-- [Fast Travel](#fast-travel)
-- [Injuries](#injuries)
-- [Diseases](#diseases)
-- [Gear Degradation](#gear-degradation)
-- [Washing](#washing)
-- [Stress and Fear](#stress-and-fear)
-- [Bloodskal Blade](#bloodskal-blade)
-- [Dialogue Perspective Fix](#dialogue-perspective-fix)
-- [Starting Specific Quests](#starting-specific-quests)
+
+- [Interface and Controls](#interface-and-controls)
+  - [Dynamic Activation Key](#dynamic-activation-key)
+  - [Feeding as a Werewolf](#feeding-as-a-werewolf)
+  - [Cycling Through Nearby Objects](#cycling-through-nearby-objects)
+  - [Dialogue Perspective Fix](#dialogue-perspective-fix)
+  - [Controller Map](#controller-map)
+  - [Bloodskal Blade](#bloodskal-blade)
+- [Survival](#survival)
+  - [Fast Travel](#fast-travel)
+  - [Injuries](#injuries)
+  - [Diseases](#diseases)
+  - [Gear Degradation](#gear-degradation)
+  - [Washing](#washing)
+  - [Stress and Fear](#stress-and-fear)
+- [Quests](#quests)
+  - [Starting Specific Quests](#starting-specific-quests)
 
 ---
+
+# Interface and Controls
 
 ### Dynamic Activation Key
 With [Dynamic Activation Key](https://www.nexusmods.com/skyrimspecialedition/mods/96273) (DAK), many actions have different, more intuitive behaviors when you press **Shift + Activate** (mouse & keyboard) or **X + Activate** (controller).
@@ -35,6 +43,36 @@ Remember this exists, and try it on different interaction prompts.
 Use [Dynamic Activation Key (DAK)](https://www.nexusmods.com/skyrimspecialedition/mods/96273) to feed on a target. Hold the hotkey (**Shift** on keyboard or **X** on controller) to activate feeding.
 
 ---
+
+### Cycling Through Nearby Objects
+With [Better Third Person Selection](https://www.nexusmods.com/skyrimspecialedition/mods/64339), you can cycle through multiple activatable objects in front of you without repositioning.
+- **Mouse & keyboard:** hold **LAlt** and use the **scroll wheel**.
+- **Controller:** use **X + D-Pad Left/Right**.
+
+---
+
+### Dialogue Perspective Fix
+While in dialogue, press **F** on keyboard or **RS** on controller to switch the point of view. This can be handy if you get odd or unfitting angles from the [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220) mod.
+
+---
+
+### Controller Map
+If your controller setup isn't working properly when launching the game, open the **in-game Controls menu**, click **Reset to Defaults**, and make sure that:
+- **Right Hand** is set to **RB**
+- **Left Hand** is set to **LB**
+
+If they aren't set correctly, assign them manually, then reload the game. This should resolve the issue.
+
+<!-- TODO: add controller map image, e.g. ![Controller map](images/controller-map.png) -->
+
+---
+
+### Bloodskal Blade
+Due to how [BFCO](https://www.nexusmods.com/skyrimspecialedition/mods/117052) works, the Bloodskal Blade's mechanics have been reworked with [Bloodskal Weapon Art](https://www.nexusmods.com/skyrimspecialedition/mods/114317). Holding the left and right movement keys while performing normal attacks triggers **horizontal** waves, while holding them during power attacks triggers **vertical** waves.
+
+---
+
+# Survival
 
 ### Fast Travel
 [Journeyman - A Fast Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/92220) disables fast travel unless you have a **travel pack** in your inventory.
@@ -78,22 +116,10 @@ With [Bathing in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/135
 ### Stress and Fear
 With [Stress and Fear - A Dynamic Sanity System](https://www.nexusmods.com/skyrimspecialedition/mods/116522), getting hurt in combat causes stress. Stress can be reduced by a variety of activities, such as drinking, having a warm meal, taking a bath, petting an animal, playing music, praying, relaxing at an inn, etc.
 
----
-
-### Bloodskal Blade
-Due to how [BFCO](https://www.nexusmods.com/skyrimspecialedition/mods/117052) works, the Bloodskal Blade's mechanics have been reworked with [Bloodskal Weapon Art](https://www.nexusmods.com/skyrimspecialedition/mods/114317). Holding the left and right movement keys while performing normal attacks triggers **horizontal** waves, while holding them during power attacks triggers **vertical** waves.
 
 ---
 
-### Dialogue Perspective Fix
-While in dialogue, press **F** on keyboard or **RS** on controller to switch the point of view. This can be handy if you get odd or unfitting angles from the [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220) mod.
-
----
-
-### Cycling Through Nearby Objects
-With [Better Third Person Selection](https://www.nexusmods.com/skyrimspecialedition/mods/64339), you can easily cycle through multiple activatable objects in front of you without repositioning. On mouse & Keyboard, hold **LAlt** and use the **scroll wheel** to cycle. On controller, use **X + D-Pad Left/Right** to cycle.
-
----
+# Quests
 
 ### Starting Specific Quests
 Most quests start the vanilla way, with a few exceptions for roleplay and progression balance. Here is a breakdown of the changes:
