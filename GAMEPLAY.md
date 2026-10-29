@@ -79,7 +79,7 @@ Due to how [BFCO](https://www.nexusmods.com/skyrimspecialedition/mods/117052) wo
 ### Fast Travel
 [Journeyman - A Fast Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/92220) disables fast travel unless you have a **travel pack** in your inventory.
 
-- **Crafting:** 1 leather, 2 leather strips, 2 firewood, and 1 torch. Torches can be crafted with 1 firewood and 2 leather strips, or bought from merchants.
+- **Crafting:** 1 leather, 2 leather strips, 2 firewood, and 1 torch. Torches can be crafted with 1 firewood and 2 leather strips.
 - **Buying:** travel packs are sold by general merchants (such as Belethor in Whiterun) and by innkeepers.
 
 ---
