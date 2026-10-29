@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/assets/banner.jpg)
+
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/136238">Nexus Page</a> |
   <a href="https://github.com/nicolasbertolino/Mages-Vikings/blob/main/README.md">Installation</a> |
@@ -33,7 +35,6 @@ A collection of useful information about the game mechanics added or changed by 
 ---
 
 # Interface and Controls
-![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/assets/wolves-ambush.png)
 
 ### Controller Map
 ![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/assets/gamepad.png)
