@@ -88,7 +88,7 @@ Wabbajack may fail on `Data_ccbgssse037-curios`. This is a common issue: the two
    5. Find `ccbgssse037-curios.bsa` and `ccbgssse037-curios.esl`, and **delete both**.
    6. Back in Steam, go to **Properties** > **Installed Files** again and click **Verify Integrity**. Wait for the process to finish.
    7. Return to the `Data` folder and confirm the new files are named `ccBGSSSE037-Curios.bsa` and `ccBGSSSE037-Curios.esl`.
-   8. Return to Wabbajack and rerun the installation.
+   8. Return to Wabbajack and resume the installation.
 
    **Still not working?** Delete the entire contents of the `Data` folder, then click **Verify Integrity** again in Steam.
 
@@ -102,7 +102,7 @@ If you encounter this error, it may be due to Windows Defender flagging the modl
    6. When prompted by Windows, click **Yes** to allow administrator access.  
    7. Click **Add an exclusion** and choose **Folder**.  
    8. Navigate to the installation folder for the modlist and click **Select Folder**.  
-   9. Resume the installation.  
+   9. Return to Wabbajack and resume the installation.
 
 ▷ **Double-check Requirements**  
 Ensure you’ve met all the listed requirements and completed the pre-installation process correctly.
