@@ -19,7 +19,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/nicolasbertolino/MagesAndVikings/main/banner.webp",
+      "image": "https://raw.githubusercontent.com/nicolasbertolino/MagesAndVikings/main/assets/banner.webp",
       "readme": "https://github.com/nicolasbertolino/MagesAndVikings/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Mages \u0026 Vikings.wabbajack_528cc54a-86a6-4b1c-84cd-d50ff74ac310",
       "machineURL": "MagesAndVikings",
