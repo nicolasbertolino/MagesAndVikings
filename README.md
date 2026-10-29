@@ -138,5 +138,5 @@ At the bottom of the load order, you'll find a colored separator labeled `[Selec
 Click the **Run** button in the top-right corner of Mod Organizer 2 to launch Skyrim and begin your adventure with **Mages & Vikings**!
 
 >[!TIP]
->If you'd like to go further, feel free to check out the [Gameplay Guides](GAMEPLAY.md) to get familiar with the mechanics added by the modlist.
+>If you'd like to go further, feel free to check out the [Gameplay Guide](GAMEPLAY.md) to get familiar with the mechanics added by the modlist.
 
