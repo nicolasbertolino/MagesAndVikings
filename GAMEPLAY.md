@@ -7,7 +7,6 @@ A collection of useful information about the game mechanics added or changed by 
 - [Interface and Controls](#interface-and-controls)
   - [Controller Map](#controller-map)
   - [Dynamic Activation Key](#dynamic-activation-key)
-  - [Feeding as a Werewolf](#feeding-as-a-werewolf)
   - [Cycling Through Nearby Objects](#cycling-through-nearby-objects)
   - [Dialogue Perspective Fix](#dialogue-perspective-fix)
   - [Bloodskal Blade](#bloodskal-blade)
@@ -36,21 +35,17 @@ If they aren't set correctly, assign them manually, then reload the game. This s
 ---
 
 ### Dynamic Activation Key
-With [Dynamic Activation Key](https://www.nexusmods.com/skyrimspecialedition/mods/96273) (DAK), many actions have different, more intuitive behaviors when you press **Shift + Activate** (mouse & keyboard) or **X + Activate** (controller).
+With [Dynamic Activation Key](https://www.nexusmods.com/skyrimspecialedition/mods/96273), many actions have different, more intuitive behaviors when you press **Shift + Activate** (mouse & keyboard) or **X + Activate** (controller).
 
 Some examples (this is not an exhaustive list):
 - Taking or reading a book
 - Taking or eating food or ingredients
 - Taking or equipping gear
-- Cooking, or bringing up the campsite perk trees when looking at the campsite fire
 - Petting a dog or horse
+- Cooking, or bringing up the campsite perk trees when looking at the campsite fire with [Camping Plus Plus - A CC Camping Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/122554)
+- Feed as a werewolf with [Simple Werewolf Looting](https://www.nexusmods.com/skyrimspecialedition/mods/150717)
 
 Remember this exists, and try it on different interaction prompts.
-
----
-
-### Feeding as a Werewolf
-Use [Dynamic Activation Key (DAK)](https://www.nexusmods.com/skyrimspecialedition/mods/96273) to feed on a target. Hold the hotkey (**Shift** on keyboard or **X** on controller) to activate feeding.
 
 ---
 
