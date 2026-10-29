@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/banner.jpg)
+![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/assets/banner.jpg)
 
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/136238">Nexus Page</a> |
