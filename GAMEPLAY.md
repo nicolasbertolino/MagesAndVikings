@@ -33,6 +33,7 @@ A collection of useful information about the game mechanics added or changed by 
 ---
 
 # Interface and Controls
+![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/assets/wolves-ambush.png)
 
 ### Controller Map
 ![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/assets/gamepad.png)
@@ -72,6 +73,7 @@ Due to how [BFCO](https://www.nexusmods.com/skyrimspecialedition/mods/117052) wo
 ---
 
 # Survival
+![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/assets/sleeping-giant-inn.png)
 
 ### Fast Travel
 [Journeyman - A Fast Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/92220) disables fast travel unless you have a **travel pack** in your inventory.
@@ -113,6 +115,7 @@ With [Bathing in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/135
 ---
 
 # Quests
+![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/assets/whiterun-arrival.png)
 
 ### Starting Specific Quests
 Most quests start the vanilla way, with a few exceptions for roleplay and progression balance. Here is a breakdown of the changes:
