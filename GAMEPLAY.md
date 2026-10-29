@@ -63,7 +63,7 @@ If your controller setup isn't working properly when launching the game, open th
 
 If they aren't set correctly, assign them manually, then reload the game. This should resolve the issue.
 
-<!-- TODO: add controller map image, e.g. ![Controller map](images/controller-map.png) -->
+![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/assets/gamepad.png)
 
 ---
 
