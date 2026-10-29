@@ -79,7 +79,7 @@ Then follow these steps:
 
 ### If Installation Fails  
 
-- **Unable to download Curios files**  
+▷ **Unable to download Curios files**  
 Wabbajack may fail on `Data_ccbgssse037-curios`. This is a common issue: the two Curios files (Creation Club content from Skyrim Anniversary Edition) are sometimes downloaded incorrectly by Steam or the Creation Club, with the wrong capitalization in their filenames. To fix it:
    1. Open Steam.
    2. In your Steam library, right-click **The Elder Scrolls V: Skyrim Special Edition**.
@@ -92,7 +92,7 @@ Wabbajack may fail on `Data_ccbgssse037-curios`. This is a common issue: the two
 
    **Still not working?** Delete the entire contents of the `Data` folder, then click **Verify Integrity** again in Steam.
 
-- **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
+▷ **_Operation did not complete successfully because the file contains a virus or potentially unwanted software._**  
 If you encounter this error, it may be due to Windows Defender flagging the modlist installation. To resolve this, set up an exception for the modlist folder in Windows Defender:  
    1. Press the **Windows Key**.  
    2. Type "Windows Defender" in the search bar and select **Windows Security**.  
@@ -104,10 +104,10 @@ If you encounter this error, it may be due to Windows Defender flagging the modl
    8. Navigate to the installation folder for the modlist and click **Select Folder**.  
    9. Resume the installation.  
 
-- **Double-check Requirements**  
+▷ **Double-check Requirements**  
 Ensure you’ve met all the listed requirements and completed the pre-installation process correctly.
 
-- **Seek Help for Other Issues**  
+▷ **Seek Help for Other Issues**  
 If none of the above resolves your problem, refer to the official [Wabbajack Discord](https://discord.gg/wabbajack) for guidance and troubleshooting.  
 
 ---
