@@ -36,6 +36,9 @@ A collection of useful information about the game mechanics added or changed by 
 
 # Interface and Controls
 
+>[!TIP]
+>While in-game, press "F11" to bring up a key mapping chart that displays all the shortcuts for mouse & keyboard. This is a great way to discover the full range of possibilities, such as quickly using items, whistling for your horse, and more!
+
 ### Controller Map
 ![](https://raw.githubusercontent.com/nicolasbertolino/Mages-Vikings/refs/heads/main/assets/gamepad.png)
 
